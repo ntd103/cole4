@@ -1,0 +1,72 @@
+[
+  {
+    "customer_id": 5001,
+    "name": "Tech Corp",
+    "email": "contact@techcorp.com",
+    "phone": "555-0101",
+    "address": {
+      "street": "123 Business Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    "registration_date": "2023-01-15",
+    "customer_type": "Business"
+  },
+  {
+    "customer_id": 5002,
+    "name": "John Consumer",
+    "email": "john@personal.com",
+    "phone": "555-0102",
+    "address": {
+      "street": "456 Home St",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33101"
+    },
+    "registration_date": "2023-02-20",
+    "customer_type": "Individual"
+  },
+  {
+    "customer_id": 5003,
+    "name": "Office Solutions",
+    "email": "orders@officesolutions.com",
+    "phone": "555-0103",
+    "address": {
+      "street": "789 Corporate Blvd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    },
+    "registration_date": "2023-03-10",
+    "customer_type": "Business"
+  },
+  {
+    "customer_id": 5004,
+    "name": "Sarah Designer",
+    "email": "sarah@design.com",
+    "phone": "555-0104",
+    "address": {
+      "street": "321 Creative Way",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90210"
+    },
+    "registration_date": "2023-04-05",
+    "customer_type": "Individual"
+  },
+  {
+    "customer_id": 5005,
+    "name": "StartupXYZ",
+    "email": "hello@startupxyz.com",
+    "phone": "555-0105",
+    "address": {
+      "street": "654 Innovation Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "73301"
+    },
+    "registration_date": "2023-05-12",
+    "customer_type": "Business"
+  }
+]

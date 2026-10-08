@@ -1,0 +1,56 @@
+Unix/Linux Demo Text File
+==========================
+
+This is a sample text file for demonstrating various Unix/Linux commands and utilities.
+
+File Operations:
+- cat: Display file contents
+- head: Show first few lines
+- tail: Show last few lines
+- wc: Count words, lines, characters
+- grep: Search for patterns
+
+Data Processing:
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+This line contains the word ERROR for testing.
+This line contains the word WARNING for testing.
+This line contains the word INFO for testing.
+
+Numbers for sorting:
+42
+7
+15
+3
+28
+11
+99
+1
+
+Text for filtering:
+apple
+banana
+cherry
+apple
+date
+banana
+elderberry
+fig
+
+Log-style entries:
+2024-01-15 10:30:15 [INFO] Application started
+2024-01-15 10:31:20 [ERROR] Database connection failed
+2024-01-15 10:32:45 [WARNING] High memory usage
+2024-01-15 10:33:10 [INFO] User login successful
+2024-01-15 10:34:25 [ERROR] File not found
+2024-01-15 10:35:40 [INFO] Backup completed
+
+CSV-style data:
+Name,Department,Salary,Status
+John Doe,Engineering,85000,Active
+Jane Smith,Marketing,65000,Active
+Bob Johnson,IT,75000,Active
+Alice Brown,HR,55000,Inactive
+Charlie Wilson,Engineering,90000,Active
+
+End of demo text file.

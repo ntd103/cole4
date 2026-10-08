@@ -1,0 +1,46 @@
+{
+  "demo": {
+    "title": "Unix/Linux Demo Data",
+    "version": "1.0",
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Engineering",
+      "role": "Senior Developer",
+      "email": "john.doe@demo.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "role": "Marketing Manager",
+      "email": "jane.smith@demo.com"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "email": "bob.johnson@demo.com"
+    }
+  ],
+  "system_info": {
+    "os": "Linux",
+    "distribution": "Ubuntu",
+    "version": "22.04",
+    "architecture": "x86_64",
+    "services": ["nginx", "ssh", "demo-app"]
+  },
+  "network": {
+    "hostname": "web-server",
+    "domain": "demo.local",
+    "ports": {
+      "http": 80,
+      "https": 443,
+      "ssh": 22
+    }
+  }
+}

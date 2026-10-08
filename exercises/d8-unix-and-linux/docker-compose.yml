@@ -1,0 +1,102 @@
+services:
+  # Main Unix/Linux demo environment
+  unix-demo:
+    image: ubuntu:22.04
+    container_name: unix-linux-demo
+    hostname: demo-server
+    tty: true
+    stdin_open: true
+    working_dir: /demo
+    environment:
+      - TERM=xterm-256color
+      - DEBIAN_FRONTEND=noninteractive
+    volumes:
+      - ./demo-scripts:/demo/scripts:ro
+      - ./demo-data:/demo/data
+      - ./demo-logs:/demo/logs
+      - ./demo-backup:/demo/backup
+    command: >
+      bash -c "
+        apt-get update && 
+        apt-get install -y curl wget net-tools iputils-ping nano vim htop tree rsync ssh openssh-server finger mailutils &&
+        useradd -m -s /bin/bash demouser &&
+        echo 'demouser:demo123' | chpasswd &&
+        echo 'root:root123' | chpasswd &&
+        service ssh start &&
+        echo 'Demo environment ready!' &&
+        tail -f /dev/null
+      "
+    networks:
+      - demo-network
+
+  # Web server for network demos
+  web-server:
+    image: nginx:alpine
+    container_name: demo-webserver
+    hostname: web-server
+    ports:
+      - "8080:80"
+    volumes:
+      - ./web-content:/usr/share/nginx/html:ro
+    networks:
+      - demo-network
+
+  # FTP server for file transfer demos
+  ftp-server:
+    image: stilliard/pure-ftpd
+    container_name: demo-ftpserver
+    hostname: ftp-server
+    ports:
+      - "21:21"
+      - "30000-30009:30000-30009"
+    environment:
+      - PUBLICHOST=localhost
+      - FTP_USER_NAME=demouser
+      - FTP_USER_PASS=demo123
+      - FTP_USER_HOME=/home/demouser
+    volumes:
+      - ./ftp-data:/home/demouser
+    networks:
+      - demo-network
+
+  # Database for process management demos
+  database:
+    image: mysql:8.0
+    container_name: demo-database
+    hostname: db-server
+    environment:
+      - MYSQL_ROOT_PASSWORD=rootpass
+      - MYSQL_DATABASE=demoapp
+      - MYSQL_USER=demouser
+      - MYSQL_PASSWORD=demo123
+    volumes:
+      - db-data:/var/lib/mysql
+    networks:
+      - demo-network
+
+  # Log generator for pipes and filters demos
+  log-generator:
+    image: ubuntu:22.04
+    container_name: demo-logger
+    hostname: log-server
+    volumes:
+      - ./demo-logs:/logs
+    command: >
+      bash -c "
+        while true; do
+          echo \"\$(date '+%Y-%m-%d %H:%M:%S') [INFO] Application started successfully\" >> /logs/app.log
+          echo \"\$(date '+%Y-%m-%d %H:%M:%S') [ERROR] Database connection failed\" >> /logs/app.log
+          echo \"\$(date '+%Y-%m-%d %H:%M:%S') [WARNING] High memory usage detected\" >> /logs/app.log
+          echo \"\$(date '+%Y-%m-%d %H:%M:%S') [INFO] User login: user\$((1 + \$\$ % 100))\" >> /logs/access.log
+          sleep 5
+        done
+      "
+    networks:
+      - demo-network
+
+networks:
+  demo-network:
+    driver: bridge
+
+volumes:
+  db-data:

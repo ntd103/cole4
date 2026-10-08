@@ -1,0 +1,101 @@
+supplier_id,supplier_name,contact_person,email,phone,address,city,state,country,region,rating,contract_start_date,contract_end_date,is_active
+SUPP_0001,Marshall-Francis,Keith Brooks,lesliejohnson@lopez.org,(390)946-9981,37026 Patrick Course,Pruittfort,Idaho,Svalbard & Jan Mayen Islands,Africa,1.31,2022-09-03,2025-12-27,True
+SUPP_0002,"Carter, Johnson and Martin",Alan Clark,marysmith@miller.org,484.515.3118,3139 Thomas Plains,Velasquezhaven,New Hampshire,Venezuela,South America,3.42,2022-07-12,2026-02-08,False
+SUPP_0003,"Williams, Taylor and Hall",James Mosley,smithsheena@rodgers.info,509.778.5253x991,31744 Stokes Crossing Suite 442,East Jorge,Arizona,China,South America,1.92,2022-03-05,2026-10-19,True
+SUPP_0004,"Finley, Mcguire and Rocha",Joseph Hernandez,wallacewendy@beck.com,999-764-6087x25477,817 Herrera Land,East Joshua,North Dakota,Belgium,Africa,1.98,2023-12-01,2027-02-12,False
+SUPP_0005,Boone Ltd,Rebecca Hernandez,sscott@carpenter-andersen.com,(681)751-6491x90704,649 John Burg,Nealchester,California,Thailand,Africa,3.66,2023-11-23,2026-12-02,True
+SUPP_0006,Mendoza LLC,Tina Camacho,frank52@garrison-bridges.info,293-906-4739,58983 Jessica Fords Suite 951,East Jeremy,Virginia,Venezuela,Asia,2.37,2022-04-26,2026-11-18,True
+SUPP_0007,Gonzalez-Sanchez,Keith Bell,barnestyler@conner.info,920.343.9718x8842,965 Campbell Knoll Suite 392,Andrewborough,Louisiana,Libyan Arab Jamahiriya,North America,2.63,2022-06-01,2026-11-18,True
+SUPP_0008,Figueroa-Benson,Elizabeth Butler,edward32@lopez.net,5112872139,05657 Elizabeth Plain,Estradachester,Washington,Australia,Africa,2.98,2020-12-27,2027-04-30,True
+SUPP_0009,Perkins and Sons,Patricia Mcintosh,dbyrd@gutierrez.com,001-618-940-4773x5031,63228 Gomez Walks Apt. 366,Port Nancybury,Michigan,Cameroon,Europe,4.51,2024-03-03,2027-02-21,True
+SUPP_0010,Jimenez PLC,Zoe Garcia,susanberry@johnson.com,302-671-9058,960 Bennett Gardens Apt. 094,Raymouth,Montana,Yemen,Europe,1.48,2022-09-29,2026-05-11,True
+SUPP_0011,Gonzalez-Moody,Scott Hill,cherylgreen@burch.com,830.803.0471,42530 Regina Roads,New Keithtown,Connecticut,Benin,Africa,3.85,2021-03-24,2026-05-17,False
+SUPP_0012,Freeman Ltd,Kimberly Gross,connor65@mckenzie-curtis.info,3706437375,3554 Yang Crossroad,Lake Amanda,Virginia,French Southern Territories,North America,1.51,2022-07-08,2027-07-14,True
+SUPP_0013,Johnson-Carr,Terry Parsons,johnstonrobin@lucas.com,+1-635-281-5141x859,8965 Smith Glen,Hartview,Texas,Faroe Islands,South America,1.1,2023-01-27,2026-04-25,True
+SUPP_0014,Garner-Stein,Tina Ward,wsloan@martin.com,3157229040,6294 Andrew Drive,South Derrickburgh,Arizona,Nauru,North America,1.53,2021-11-20,2026-03-13,False
+SUPP_0015,Johnson and Sons,Sean Miller,steven87@roberts.com,923.907.3571x361,789 Clark Way Suite 258,Mirandamouth,Massachusetts,North Macedonia,South America,2.42,2023-08-19,2026-10-29,False
+SUPP_0016,Edwards Inc,Danielle Noble,john72@young-rollins.net,886-506-4144x2509,5790 Mark Knolls,New Amychester,Illinois,Montserrat,Africa,1.97,2022-01-16,2026-04-06,True
+SUPP_0017,Reed-Burton,Mary White,ecooper@mathis.info,(580)698-5683x50518,27554 Rhodes Crossing Suite 295,East Crystalchester,Oregon,Ecuador,North America,2.35,2022-03-17,2026-02-19,True
+SUPP_0018,Moore Inc,Derrick Evans,burtonmartha@roberts.com,+1-893-209-6663x4916,577 Melissa Ports Apt. 455,Jamesburgh,Iowa,Congo,Africa,3.44,2021-01-02,2027-08-29,True
+SUPP_0019,Jones and Sons,Michelle Peters,flemingyolanda@daniels.com,001-980-207-7898x1968,6884 Mackenzie Corners Suite 509,East Rachel,California,Panama,North America,1.3,2021-05-27,2025-12-19,True
+SUPP_0020,Obrien-Williams,Debra Ward,wendyhall@mccarty-black.net,273-384-3953x725,58496 Michelle Camp Apt. 230,North Daniel,Washington,New Caledonia,South America,4.64,2021-03-24,2026-12-31,False
+SUPP_0021,Brown-Rodriguez,Henry Norris,michael51@stephens.info,+1-261-642-6624x43677,08002 English River,East Sarashire,New Mexico,Eritrea,South America,2.16,2024-01-24,2027-09-06,False
+SUPP_0022,"Howard, Sullivan and Taylor",Gerald Lewis,lfreeman@smith.info,(656)556-3373,891 Anthony Village Apt. 024,North Robin,California,Spain,Europe,3.93,2021-03-19,2026-08-11,True
+SUPP_0023,Price Group,Brandi Santiago MD,sstephens@rodriguez-anderson.net,284-621-7274x2194,913 Castillo Mews Apt. 684,Lake Ericbury,Vermont,Marshall Islands,Europe,4.58,2023-06-08,2025-12-09,True
+SUPP_0024,"Parker, Torres and Brewer",April Owens,jameswilliams@woods.com,001-542-698-5270x497,6346 Castillo Port Suite 591,North Christopher,California,Yemen,South America,2.52,2023-10-18,2025-12-09,False
+SUPP_0025,Ball Ltd,Heather Campos,sharon81@gonzalez.net,766.408.8232x35113,4945 Smith Common,Moralesville,Arkansas,Svalbard & Jan Mayen Islands,Europe,3.03,2024-01-07,2025-11-10,True
+SUPP_0026,"Lewis, Moore and Harrison",Chelsea Dixon,christian23@howard-dodson.com,+1-845-717-3301x65487,159 Robert Tunnel Suite 517,Port Angela,Kentucky,Cape Verde,North America,1.93,2020-12-27,2026-02-13,False
+SUPP_0027,Macdonald Group,Elizabeth Webb,nicholethompson@martinez.com,631-296-5164x41805,538 Elizabeth Rapids,Kaylatown,Wyoming,Turkey,Asia,1.19,2022-07-20,2026-12-01,False
+SUPP_0028,"Rodriguez, Austin and Johnson",Julie Weaver,kmurphy@miller.info,3878815749,65670 Jordan Valleys Suite 168,North James,Oklahoma,Venezuela,Asia,2.29,2024-01-01,2025-12-23,True
+SUPP_0029,"Diaz, Salazar and Stokes",Scott Gould,sarah15@ross.net,211-788-1167x87348,496 Chavez Mount,Lake Stephanieshire,Massachusetts,French Guiana,Europe,4.81,2020-10-12,2026-01-26,True
+SUPP_0030,Hodges LLC,Melissa Castro,wmatthews@davis-robinson.org,(670)201-6845x122,87893 James Crescent,Jessicafurt,Arkansas,Falkland Islands (Malvinas),Europe,2.72,2020-09-10,2026-06-24,True
+SUPP_0031,"Mcdowell, Mclaughlin and Henderson",Tonya Hernandez,james62@mathews.org,+1-853-827-2720,4905 Lewis Brook Apt. 753,Rowestad,Vermont,Ukraine,Africa,4.52,2020-12-04,2026-09-12,True
+SUPP_0032,"Black, Smith and Morales",Kristy Black,dleblanc@hahn-norris.info,(894)527-9191,980 Joseph Mission Apt. 028,East Beth,Oregon,Uruguay,North America,2.39,2024-02-22,2026-08-30,True
+SUPP_0033,"Pugh, Alexander and Williams",Michael Barry,gina44@miller.org,001-232-210-3674,542 Johnson Radial,North Heather,North Carolina,Timor-Leste,North America,2.15,2021-03-04,2026-10-10,False
+SUPP_0034,Frank and Sons,Jesus Turner,nicolerandolph@ewing.net,(375)998-6858,846 Green Drives Apt. 328,Wallerview,Hawaii,Svalbard & Jan Mayen Islands,South America,1.89,2022-01-08,2026-04-17,True
+SUPP_0035,Moyer-Davis,Sarah Graves,ycarter@briggs-stephens.com,3668124501,24181 Hannah Center,Sandersville,Alaska,Myanmar,Asia,4.76,2024-06-08,2026-06-26,True
+SUPP_0036,"Durham, Martin and Gross",Justin Harrison,moorenoah@bowers.com,001-224-743-2954,642 Mcgee Station Suite 247,Port Travis,Indiana,Bangladesh,Africa,4.01,2022-10-13,2026-10-18,True
+SUPP_0037,Johnson-Rocha,James Smith,scampbell@gomez.biz,+1-373-542-1421x14078,649 Margaret Branch Suite 038,Port Anne,Idaho,Kyrgyz Republic,Asia,1.56,2021-02-21,2027-03-07,True
+SUPP_0038,"Baker, Evans and Brown",Elizabeth Contreras,davidanderson@wallace.com,6045895241,564 Rangel Forge Suite 180,East Jessicaton,Missouri,Cote d'Ivoire,Africa,4.36,2021-08-25,2027-07-21,True
+SUPP_0039,Kelly-Lane,Lisa Harper,patricia75@ramirez-keller.info,(267)549-1348x1694,2216 Paul Flats,Port Erin,Washington,France,North America,3.39,2023-06-13,2025-12-14,True
+SUPP_0040,Ross-Smith,Jose Stewart,copelandmatthew@garcia.biz,(814)769-0591x837,790 Manuel Plain,Port Jonathan,Alaska,Mauritius,Africa,3.15,2020-11-18,2026-05-27,True
+SUPP_0041,"Rivera, Barrett and Rubio",Mrs. Tonya Rodriguez DVM,benjamin94@schmitt.com,+1-785-495-0312x15595,97166 Morris Unions Apt. 601,North Debbietown,Indiana,Bulgaria,North America,2.95,2022-11-16,2027-01-10,True
+SUPP_0042,Benson and Sons,Jennifer Walter,theresa91@riley-morrow.biz,314-981-1146x87261,0215 Amy Track,Michaelborough,Mississippi,Greece,Asia,1.81,2023-03-12,2026-11-19,False
+SUPP_0043,Walker-Gonzalez,Bruce Pratt,cordovapriscilla@collins.biz,(662)291-3621x5394,14612 Matthew Plaza Suite 984,Sarahstad,Iowa,Niger,South America,3.08,2021-06-26,2027-07-02,False
+SUPP_0044,Mendoza PLC,Dale Jennings,joe36@hill.net,7076565825,686 Donald Springs,Katrinafort,South Carolina,Afghanistan,Asia,4.67,2024-05-16,2025-09-11,True
+SUPP_0045,Williams Ltd,Karen Anderson,stephanie85@good-wright.biz,(973)713-9628x6338,0112 Justin Vista Suite 939,New Jordan,New Hampshire,Chile,South America,4.56,2022-09-24,2027-03-06,False
+SUPP_0046,Bartlett PLC,Barbara Bell,nrichardson@smith-brown.net,+1-974-447-7064x81335,4235 Richard Path,Jasonshire,Kansas,Nauru,Asia,1.35,2023-11-18,2027-01-07,True
+SUPP_0047,"Price, Myers and Thomas",Joshua Hernandez,greenebrenda@nielsen-mcgee.info,754-456-0318x686,948 Lori Fall Suite 454,South Tyler,Oregon,Saint Martin,Asia,3.93,2023-08-05,2026-11-23,True
+SUPP_0048,"Martinez, Curry and Baker",Crystal Evans,lruiz@wilson.com,901-447-0823x1961,828 Watts Street Apt. 718,West Michaelland,Idaho,Vanuatu,Asia,4.21,2022-11-08,2027-07-16,True
+SUPP_0049,"Watson, Martin and Fields",Karen Torres,lisa56@manning.net,370.447.0237,68212 Sarah Forges Suite 813,Downsmouth,Colorado,Nigeria,North America,2.31,2023-11-10,2027-09-04,True
+SUPP_0050,"Benjamin, Walters and Park",Dennis Diaz,wthompson@larson-tyler.org,+1-498-785-5229x29770,8554 Eric Camp Suite 487,Port Kristen,Oregon,Bouvet Island (Bouvetoya),Asia,2.81,2021-06-05,2026-09-10,True
+SUPP_0051,"Beard, Hart and West",Jacob Grimes,stephenanthony@francis-thomas.com,5174195576,166 Chad Keys Suite 748,Harrisport,New York,Austria,Asia,4.57,2021-08-18,2025-09-19,True
+SUPP_0052,Long-Sosa,Mary Brown,dsims@becker.net,405-931-8865x852,172 Nelson Mall Apt. 034,North Kathrynside,Oklahoma,China,South America,1.4,2023-11-25,2026-08-03,True
+SUPP_0053,Watson Group,Kevin Powers,ascott@munoz.biz,740-771-2534x611,40278 Brian Lake Apt. 130,New Michael,Delaware,Belarus,Europe,4.37,2023-10-04,2026-12-17,True
+SUPP_0054,Reid-Combs,Robert Thomas,joseconner@decker.org,(807)213-7667x08060,064 Michael Corners Apt. 284,Port Heidiville,Texas,French Polynesia,North America,1.98,2023-08-02,2025-10-07,False
+SUPP_0055,"Smith, Harris and Black",Nicole Lee,craiglee@lin.com,(352)424-1134x148,892 Wood Square Apt. 527,New Jamie,Washington,Pakistan,Europe,3.69,2024-06-26,2026-07-04,True
+SUPP_0056,"Payne, Russell and Baldwin",Terry Bishop,karina84@williams-lawson.com,395-479-9659,449 Jensen Avenue,Pearsonside,Maryland,Greenland,South America,1.61,2022-07-03,2027-05-07,True
+SUPP_0057,King-Curtis,Robert Lamb,brianvelasquez@wilson-ferrell.com,+1-865-302-8601x1837,189 Heather Throughway,South Allison,Delaware,Bouvet Island (Bouvetoya),South America,2.13,2020-11-10,2026-08-09,True
+SUPP_0058,"Pena, Adams and Wolfe",Ethan Wiley,michaelharrison@mcpherson.com,001-851-710-9452,65514 Thompson Wells,Port Aaronside,North Carolina,Mauritius,North America,4.8,2023-09-05,2026-12-28,True
+SUPP_0059,May-Evans,Elizabeth Ellis,lmartin@wood.org,001-531-449-3548x8107,1990 Seth Mountains Suite 311,Port Georgemouth,Vermont,Sudan,North America,2.74,2021-06-16,2026-08-05,False
+SUPP_0060,"Flores, Durham and Robinson",Joshua Wilson,elizabeth49@williams-smith.com,(372)239-7988x11882,0595 Nichols Roads Suite 042,Jeffreymouth,New Jersey,Ireland,Africa,3.44,2023-01-21,2027-09-06,True
+SUPP_0061,Espinoza-Anderson,Devin Long,lamsara@thompson.info,472.338.0571,629 Powers Lights Apt. 734,New Anne,Arkansas,Palau,North America,2.67,2023-12-01,2026-01-10,True
+SUPP_0062,"Nguyen, Parks and Roberts",Lydia Soto,hosborn@rivera.com,(419)313-3044,534 Butler Ways Suite 044,Jacksontown,Wyoming,Georgia,Africa,2.52,2023-06-04,2027-03-15,True
+SUPP_0063,"Carter, Roach and Sullivan",Jeff Keller,state@tucker.com,337.490.4742,6058 Heather Plain,Roberttown,Wisconsin,Bulgaria,Asia,2.94,2023-08-01,2027-01-07,True
+SUPP_0064,Burton Inc,Katie Smith,joshuatapia@rivera-smith.net,001-777-822-6966x734,50085 Blake Ports,Lake Kellyfurt,Minnesota,Bangladesh,Asia,4.36,2022-06-06,2026-09-05,True
+SUPP_0065,"Jackson, Rodriguez and Alexander",Tina Flores,hdavis@barnes.net,672.901.6485,32581 Clark Plaza,East Andrewton,Maryland,Pitcairn Islands,South America,2.96,2024-07-22,2026-03-03,False
+SUPP_0066,Johns-Good,Jeanne Wilson,john93@cooper.net,362.740.4661x0106,1893 Audrey Plains,Nguyenchester,Missouri,Singapore,Africa,2.43,2021-02-18,2026-05-26,False
+SUPP_0067,"Jones, Jones and Mendoza",Anthony Perez,tturner@cruz.com,314-426-1891x24152,933 Clark Cape,Williamsbury,Tennessee,Cayman Islands,Asia,1.39,2023-12-14,2027-04-14,True
+SUPP_0068,"Wallace, Patton and Benson",Crystal Newton,vrichardson@vaughn.com,7896452072,76494 James Freeway,New Williamview,Washington,Ghana,Asia,2.68,2022-02-16,2027-02-11,False
+SUPP_0069,Carson LLC,Sean Mccarthy,garypeterson@green.biz,001-732-855-8613x3330,311 Emily Squares,South Donald,Indiana,Qatar,Asia,1.99,2024-08-16,2027-05-07,False
+SUPP_0070,Love-Oliver,Natalie Martinez,judithwood@thompson.com,918-590-9830,09138 Crystal Rest,Shorttown,Hawaii,Andorra,North America,1.7,2024-02-13,2027-05-01,True
+SUPP_0071,"Hernandez, Elliott and Sandoval",Katie Wilson,adamsjames@livingston-newman.net,(828)235-8805x88779,8790 Joshua Manor Suite 423,Savannahhaven,Washington,North Macedonia,North America,2.39,2023-07-28,2026-03-25,False
+SUPP_0072,Johnson-Swanson,Charlene Barton,gilmorebarbara@solomon-scott.com,(848)598-0147,91596 Duran Lane Suite 814,Port Johnview,Ohio,Thailand,Europe,4.09,2021-09-10,2026-05-14,False
+SUPP_0073,Nguyen-Fisher,Stacey Lopez,rebeccalee@cooper-wallace.net,+1-611-275-9661x44665,1070 Wilson Glens Apt. 223,Patriciashire,Nebraska,Algeria,South America,3.4,2022-03-11,2026-05-22,True
+SUPP_0074,Dickerson-Thompson,Laurie Lang,andrew44@graham.com,+1-684-786-1817,576 Ryan Forest Suite 900,Hahnbury,Tennessee,Solomon Islands,North America,2.16,2020-11-15,2026-07-14,True
+SUPP_0075,"Graves, Hines and Marshall",Jeffrey Clements,jamesfitzpatrick@mann.com,4139334317,631 Young Glens Apt. 261,North Martinhaven,Massachusetts,Trinidad and Tobago,South America,1.24,2021-04-17,2026-02-06,True
+SUPP_0076,Clark Inc,Michael Gibbs,terry88@barnes-burch.com,520-611-8668x2726,88149 Cochran Mill,Danielland,North Carolina,Portugal,Asia,3.7,2024-02-24,2026-08-12,False
+SUPP_0077,"Kelly, Valenzuela and Goodman",Cory Rodriguez,alicia88@owens.com,539-746-3571x886,3745 Rodriguez Village Suite 274,Larsonborough,Delaware,Turkey,South America,4.24,2023-06-09,2027-04-28,False
+SUPP_0078,"Johnson, Jones and Wright",Jose Sutton,riverajoseph@rivas.com,001-897-370-4145,4323 Elliott Bypass,Allenhaven,New Jersey,Korea,South America,2.04,2021-12-19,2026-05-13,True
+SUPP_0079,Cortez-Mason,Alan Hernandez,braykirsten@ray.com,460.919.6667x939,0798 Jennifer Port,Fitzgeraldside,Rhode Island,Norfolk Island,Asia,2.94,2021-06-01,2025-09-19,True
+SUPP_0080,"Stein, Ray and Travis",Melissa Meyer,rodriguezkatherine@suarez-ramirez.net,001-831-595-2646x7445,50546 Doyle Way,Vincentside,Alabama,Sao Tome and Principe,Asia,3.55,2024-01-02,2026-06-08,True
+SUPP_0081,Baker-Mitchell,Cameron Vang,jeffreyyates@stanley.com,(443)688-0137,840 Lawson Manor,Travishaven,Utah,Tuvalu,Asia,2.79,2022-01-11,2026-12-09,True
+SUPP_0082,Skinner-Rodriguez,Alexandra Taylor,laura80@cruz-thompson.com,(947)203-2133,8409 Ramirez Drive,New Stephanie,Mississippi,Greece,Africa,4.5,2022-02-24,2026-07-25,True
+SUPP_0083,"Lopez, Deleon and Cline",Michael Cross,dominiquesolis@adams-hartman.org,930-261-0855,93640 Hill Courts Suite 118,East George,Delaware,Czech Republic,North America,4.79,2023-05-14,2027-06-04,True
+SUPP_0084,"Quinn, Watson and Miller",Christopher Humphrey,jennifermolina@robinson.com,001-485-381-4273x502,161 Hannah Corner Suite 321,West Cherylhaven,Tennessee,French Southern Territories,Europe,3.42,2024-09-06,2027-04-08,True
+SUPP_0085,"Fernandez, Lindsey and Randolph",Makayla Pittman,gwendolyn19@mcdonald.com,963.201.9115x4316,410 Craig Via,Port Anthony,Kentucky,Papua New Guinea,North America,4.21,2022-01-28,2027-08-04,True
+SUPP_0086,"Garrett, Soto and Jensen",Christopher Simpson,jwang@norris.info,(352)805-6567,27944 Collin Brooks Suite 972,Laurenbury,Tennessee,San Marino,Asia,4.65,2021-05-06,2027-03-25,True
+SUPP_0087,"Gibson, Williams and Contreras",Justin Delacruz,bmaynard@andrews.com,001-828-654-0402x616,015 Goodman Curve Apt. 584,New Katherinechester,Alabama,French Guiana,North America,3.07,2022-01-05,2026-12-22,True
+SUPP_0088,"Daniels, Mccarthy and Dunn",John Johnson,xturner@byrd-bridges.com,001-512-669-8153,38430 Robert Motorway Apt. 310,Port Sherri,North Carolina,Guam,Africa,1.79,2023-06-08,2025-10-09,True
+SUPP_0089,Ross-Morgan,Vickie Scott,petersonlindsey@kelly-jensen.com,697-643-9504,095 Flores Groves,East Karenborough,California,Syrian Arab Republic,Africa,2.58,2021-01-28,2026-08-04,True
+SUPP_0090,"Hudson, Mitchell and Macdonald",Derrick Anderson,donaldreid@contreras-wu.com,(779)263-0495,8641 Gonzalez Plaza Apt. 810,Jennifershire,Wisconsin,Central African Republic,Asia,4.21,2022-01-28,2026-01-05,True
+SUPP_0091,Pitts PLC,Sheri James,tonyanixon@good-bennett.com,(736)830-0433x5901,75569 Atkinson Greens Suite 735,Lake William,Washington,Philippines,Asia,2.65,2024-01-08,2026-06-14,True
+SUPP_0092,Richardson Group,Deborah Garcia,bmartinez@butler-long.com,364.906.3365x586,06967 Greene Ridges,West Patricia,Tennessee,Ireland,North America,1.14,2024-05-26,2026-02-20,True
+SUPP_0093,Harris-Burke,Terry Miller,hlopez@kidd.com,974.817.3336x010,0534 Johnson Isle Apt. 654,Lake Ericaville,North Carolina,Tanzania,Africa,1.41,2021-12-06,2026-04-16,False
+SUPP_0094,Bennett-Sheppard,Jacqueline Hayes,ztorres@harris.com,+1-924-528-6622x71921,5667 Zoe Centers Suite 072,Beckerburgh,Texas,Congo,South America,1.17,2022-05-04,2027-02-10,True
+SUPP_0095,Jones-Green,Jennifer Schwartz,afuller@johnson-moore.biz,623-649-4572,6482 Davis Union,North Bethmouth,Tennessee,Lesotho,Asia,1.1,2022-09-26,2025-10-29,True
+SUPP_0096,"Sanchez, Stone and Juarez",Adam Chen DDS,phillip67@peterson.com,+1-851-898-3860,9895 Figueroa Corners,North Megantown,Ohio,Switzerland,North America,2.09,2024-04-28,2026-07-26,True
+SUPP_0097,Rice-Lewis,Pamela Fitzpatrick,romankayla@huynh.biz,(313)206-3548x5396,088 Leonard Shoal Suite 498,Wardview,Washington,Thailand,South America,3.62,2020-11-24,2026-04-15,True
+SUPP_0098,"Sanchez, Stevens and Serrano",Linda Thomas,matthewcampbell@parks-rogers.net,001-390-657-3019x9526,782 Richardson Route Suite 636,North Michael,Florida,Maldives,Asia,4.45,2024-05-08,2026-07-05,True
+SUPP_0099,Williamson-Graham,Valerie Allen,victoriacastro@foster-soto.biz,001-657-500-1503,2923 Sullivan Crossing,West Lisa,Kansas,Heard Island and McDonald Islands,North America,3.02,2024-07-08,2025-11-11,False
+SUPP_0100,Smith LLC,Mr. Robert Robinson,gsmith@schmidt.com,+1-887-202-4564x53107,09608 Marshall Greens Apt. 593,Michaelfort,California,Ireland,North America,1.06,2023-06-28,2025-11-29,True

@@ -1,0 +1,215 @@
+version: '3.8'
+
+services:
+  # Hadoop NameNode
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    restart: always
+    ports:
+      - 9870:9870
+      - 9000:9000
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+      - ./data:/data
+    environment:
+      - CLUSTER_NAME=test
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_webhdfs_enabled=true
+      - HDFS_CONF_dfs_permissions_enabled=false
+      - HDFS_CONF_dfs_namenode_datanode_registration_ip___hostname___check=false
+    networks:
+      - hadoop
+
+  # Hadoop DataNode
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode
+    restart: always
+    volumes:
+      - hadoop_datanode:/hadoop/dfs/data
+      - ./data:/data
+    environment:
+      - SERVICE_PRECONDITION=namenode:9870
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_webhdfs_enabled=true
+      - HDFS_CONF_dfs_permissions_enabled=false
+    ports:
+      - "9864:9864"
+    networks:
+      - hadoop
+
+  # YARN ResourceManager
+  resourcemanager:
+    image: bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java8
+    container_name: resourcemanager
+    restart: always
+    environment:
+      - SERVICE_PRECONDITION=namenode:9000 namenode:9870 datanode:9864
+    env_file:
+      - ./hadoop.env
+    ports:
+      - "8088:8088"
+    networks:
+      - hadoop
+
+  # YARN NodeManager
+  nodemanager1:
+    image: bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java8
+    container_name: nodemanager
+    restart: always
+    environment:
+      - SERVICE_PRECONDITION=namenode:9000 namenode:9870 datanode:9864 resourcemanager:8088
+    env_file:
+      - ./hadoop.env
+    ports:
+      - "8042:8042"
+    networks:
+      - hadoop
+
+  # Hive Server
+  hive-server:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive-server
+    env_file:
+      - ./hadoop.env
+    environment:
+      - SERVICE_PRECONDITION=hive-metastore:9083
+    ports:
+      - "10000:10000"
+    volumes:
+      - ./hive/warehouse:/opt/hive/data/warehouse
+      - ./hive/scripts:/opt/hive/scripts
+      - ./hive/conf/hive-site.xml:/opt/hive/conf/hive-site.xml
+      - ./data:/data
+    depends_on:
+      - hive-metastore
+    networks:
+      - hadoop
+
+  # Hive Metastore
+  hive-metastore:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive-metastore
+    env_file:
+      - ./hadoop.env
+    command: /opt/hive/bin/hive --service metastore
+    environment:
+      - SERVICE_PRECONDITION=namenode:9000 datanode:9864 hive-metastore-postgresql:5432
+      - DB_DRIVER=postgresql
+      - DATABASE_TYPE_JDBC_URL=jdbc:postgresql://hive-metastore-postgresql:5432/metastore
+      - DATABASE_USER=hive
+      - DATABASE_PASSWORD=hive
+    ports:
+      - "9083:9083"
+    volumes:
+      - ./hive/warehouse:/opt/hive/data/warehouse
+      - ./hive/conf/hive-site.xml:/opt/hive/conf/hive-site.xml
+    depends_on:
+      - hive-metastore-postgresql
+    networks:
+      - hadoop
+
+  # PostgreSQL for Hive Metastore
+  hive-metastore-postgresql:
+    image: bde2020/hive-metastore-postgresql:2.3.0
+    container_name: hive-metastore-postgresql
+    volumes:
+      - hive_postgresql:/var/lib/postgresql/data
+    networks:
+      - hadoop
+
+  # HBase Master
+  hbase-master:
+    image: bde2020/hbase-master:1.0.0-hbase1.2.6
+    container_name: hbase-master
+    hostname: hbase-master
+    env_file:
+      - ./hadoop.env
+    environment:
+      - SERVICE_PRECONDITION=namenode:9000 datanode:9864
+    ports:
+      - "16010:16010"
+      - "16000:16000"
+    volumes:
+      - ./hbase/scripts:/opt/hbase/scripts
+      - ./data:/data
+    networks:
+      - hadoop
+
+  # HBase RegionServer
+  hbase-regionserver:
+    image: bde2020/hbase-regionserver:1.0.0-hbase1.2.6
+    container_name: hbase-regionserver
+    hostname: hbase-regionserver
+    env_file:
+      - ./hadoop.env
+    environment:
+      - HBASE_CONF_hbase_regionserver_hostname=hbase-regionserver
+      - SERVICE_PRECONDITION=namenode:9000 datanode:9864 hbase-master:16010
+    ports:
+      - "16030:16030"
+      - "16020:16020"
+    networks:
+      - hadoop
+
+  # MySQL Database for Sqoop
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=hadoop
+      - MYSQL_DATABASE=testdb
+      - MYSQL_USER=sqoop
+      - MYSQL_PASSWORD=sqoop
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./mysql/init:/docker-entrypoint-initdb.d
+    networks:
+      - hadoop
+
+  # Sqoop
+  sqoop:
+    image: bde2020/hadoop-base:2.0.0-hadoop3.2.1-java8
+    container_name: sqoop
+    command: tail -f /dev/null
+    environment:
+      - SERVICE_PRECONDITION=namenode:9000 datanode:9864 mysql:3306
+    volumes:
+      - ./sqoop:/opt/sqoop
+      - ./data:/data
+    env_file:
+      - ./hadoop.env
+    networks:
+      - hadoop
+
+  # Python/Jupyter Environment
+  jupyter:
+    image: jupyter/pyspark-notebook:latest
+    container_name: jupyter
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=hadoop
+    volumes:
+      - ./python/notebooks:/home/jovyan/work/notebooks
+      - ./python/scripts:/home/jovyan/work/scripts
+      - ./data:/home/jovyan/work/data
+    networks:
+      - hadoop
+
+volumes:
+  hadoop_namenode:
+  hadoop_datanode:
+  hive_postgresql:
+  mysql_data:
+
+networks:
+  hadoop:
+    driver: bridge

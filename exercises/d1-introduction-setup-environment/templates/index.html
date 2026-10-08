@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🐱 Cat Fact Analyzer - Docker Demo</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .container { 
+            background: rgba(255,255,255,0.1); 
+            padding: 30px; 
+            border-radius: 15px; 
+            backdrop-filter: blur(10px);
+        }
+        button { 
+            background: #ff6b6b; 
+            color: white; 
+            border: none; 
+            padding: 15px 30px; 
+            font-size: 18px; 
+            border-radius: 25px; 
+            cursor: pointer; 
+            margin: 10px;
+        }
+        button:hover { background: #ff5252; }
+        .fact-box { 
+            background: rgba(255,255,255,0.2); 
+            padding: 20px; 
+            margin: 20px 0; 
+            border-radius: 10px; 
+            min-height: 100px;
+        }
+        .loading { opacity: 0.6; }
+        h1 { text-align: center; font-size: 2.5em; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🐱 Cat Fact Analyzer</h1>
+        <p style="text-align: center; font-size: 1.2em;">
+            A completely serious Docker demonstration involving feline knowledge acquisition
+        </p>
+        
+        <div style="text-align: center;">
+            <button onclick="getCatFact()">Get Random Cat Fact</button>
+            <button onclick="analyzeFacts()">Analyze Multiple Facts</button>
+        </div>
+        
+        <div id="fact-display" class="fact-box">
+            <p><em>Click a button above to begin your journey into cat wisdom...</em></p>
+        </div>
+        
+        <div style="text-align: center; margin-top: 30px; opacity: 0.8;">
+            <p>🐳 Powered by Docker | 🐍 Python | 🌐 Flask</p>
+            <p><small>This web interface demonstrates multi-container Docker applications</small></p>
+        </div>
+    </div>
+
+    <script>
+        async function getCatFact() {
+            const display = document.getElementById('fact-display');
+            display.innerHTML = '<p>🔄 Consulting the cat knowledge database...</p>';
+            display.classList.add('loading');
+            
+            try {
+                const response = await fetch('/api/cat-fact');
+                const data = await response.json();
+                
+                if (data.success) {
+                    display.innerHTML = `
+                        <h3>🐾 Fresh Cat Wisdom:</h3>
+                        <p><strong>"${data.fact}"</strong></p>
+                        <p><small>📏 Length: ${data.length} characters | ⏰ Retrieved: ${new Date(data.timestamp).toLocaleTimeString()}</small></p>
+                    `;
+                } else {
+                    display.innerHTML = '<p>❌ The cats are being mysterious right now. Try again!</p>';
+                }
+            } catch (error) {
+                display.innerHTML = '<p>🚫 Network error: The cats have gone offline!</p>';
+            }
+            
+            display.classList.remove('loading');
+        }
+        
+        function analyzeFacts() {
+            const display = document.getElementById('fact-display');
+            display.innerHTML = `
+                <h3>📊 Analysis Mode</h3>
+                <p>For full statistical analysis, check the console output of the main container:</p>
+                <pre style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 5px; overflow-x: auto;">
+docker-compose logs cat-analyzer</pre>
+                <p>The main Python application provides detailed analysis including:</p>
+                <ul>
+                    <li>🎯 Word frequency analysis</li>
+                    <li>💖 Cuteness factor calculation</li>
+                    <li>🔮 Mystery level assessment</li>
+                    <li>🏺 Historical significance scoring</li>
+                    <li>🌟 Overall cat appreciation index</li>
+                </ul>
+            `;
+        }
+        
+        // Auto-load a fact when page loads
+        window.onload = () => {
+            setTimeout(getCatFact, 1000);
+        };
+    </script>
+</body>
+</html>
