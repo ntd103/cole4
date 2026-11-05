@@ -1,0 +1,11 @@
+transaction_id,customer_id,product_id,category,amount,timestamp,region
+1,101,1001,Electronics,299.99,2024-01-15 10:30:00,North
+2,102,1002,Clothing,79.99,2024-01-15 11:15:00,South
+3,103,1003,Electronics,1299.99,2024-01-15 12:00:00,East
+4,104,1004,Books,29.99,2024-01-15 13:45:00,West
+5,105,1005,Electronics,599.99,2024-01-15 14:30:00,North
+6,106,1006,Clothing,149.99,2024-01-15 15:15:00,South
+7,107,1007,Sports,89.99,2024-01-15 16:00:00,East
+8,108,1008,Electronics,799.99,2024-01-15 17:30:00,West
+9,109,1009,Books,49.99,2024-01-15 18:15:00,North
+10,110,1010,Clothing,199.99,2024-01-15 19:00:00,South

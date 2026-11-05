@@ -1,0 +1,92 @@
+version: '3.8'
+
+services:
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-namenode
+    hostname: namenode
+    ports:
+      - "9870:9870"  # Namenode Web UI
+      - "8020:8020"  # HDFS API
+    environment:
+      - CLUSTER_NAME=hadoop-cluster
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_webhdfs_enabled=true
+      - HDFS_CONF_dfs_permissions_enabled=false
+      - HDFS_CONF_dfs_namenode_datanode_registration_ip___hostname___check=false
+    volumes:
+      - namenode_data:/hadoop/dfs/name
+      - ./data:/data
+    networks:
+      - hadoop-network
+
+  datanode1:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-datanode1
+    hostname: datanode1
+    depends_on:
+      - namenode
+    ports:
+      - "9864:9864"  # Datanode Web UI
+    environment:
+      - CLUSTER_NAME=hadoop-cluster
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_webhdfs_enabled=true
+      - HDFS_CONF_dfs_permissions_enabled=false
+    volumes:
+      - datanode1_data:/hadoop/dfs/data
+      - ./data:/data
+    networks:
+      - hadoop-network
+
+  datanode2:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-datanode2
+    hostname: datanode2
+    depends_on:
+      - namenode
+    ports:
+      - "9865:9864"  # Datanode Web UI
+    environment:
+      - CLUSTER_NAME=hadoop-cluster
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_webhdfs_enabled=true
+      - HDFS_CONF_dfs_permissions_enabled=false
+    volumes:
+      - datanode2_data:/hadoop/dfs/data
+      - ./data:/data
+    networks:
+      - hadoop-network
+
+  python-client:
+    build:
+      context: ./python-client
+      dockerfile: Dockerfile
+    container_name: hadoop-python-client
+    depends_on:
+      - namenode
+      - datanode1
+      - datanode2
+    volumes:
+      - ./python-client:/app
+      - ./data:/data
+      - ./exercises:/exercises
+    working_dir: /app
+    environment:
+      - HADOOP_CONF_DIR=/app/hadoop-conf
+      - HDFS_NAMENODE_URL=hdfs://namenode:8020
+    command: tail -f /dev/null  # Keep container running
+    networks:
+      - hadoop-network
+
+volumes:
+  namenode_data:
+  datanode1_data:
+  datanode2_data:
+
+networks:
+  hadoop-network:
+    driver: bridge

@@ -1,0 +1,11 @@
+product_id,name,category,price,supplier_id
+1001,Laptop Pro,Electronics,1299.99,201
+1002,Casual Shirt,Clothing,79.99,202
+1003,Gaming PC,Electronics,1999.99,201
+1004,Python Programming,Books,49.99,203
+1005,Smartphone,Electronics,699.99,204
+1006,Designer Jeans,Clothing,149.99,202
+1007,Tennis Racket,Sports,89.99,205
+1008,Tablet,Electronics,399.99,204
+1009,Data Science Book,Books,59.99,203
+1010,Winter Jacket,Clothing,199.99,202

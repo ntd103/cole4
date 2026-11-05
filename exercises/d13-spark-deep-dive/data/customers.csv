@@ -1,0 +1,11 @@
+customer_id,name,email,age,city,state,join_date
+101,John Doe,john.doe@email.com,35,New York,NY,2023-01-15
+102,Jane Smith,jane.smith@email.com,28,Los Angeles,CA,2023-02-20
+103,Bob Johnson,bob.johnson@email.com,42,Chicago,IL,2023-03-10
+104,Alice Brown,alice.brown@email.com,31,Houston,TX,2023-04-05
+105,Charlie Wilson,charlie.wilson@email.com,39,Phoenix,AZ,2023-05-12
+106,Diana Garcia,diana.garcia@email.com,26,Philadelphia,PA,2023-06-18
+107,Frank Miller,frank.miller@email.com,45,San Antonio,TX,2023-07-22
+108,Grace Lee,grace.lee@email.com,33,San Diego,CA,2023-08-14
+109,Henry Taylor,henry.taylor@email.com,29,Dallas,TX,2023-09-08
+110,Ivy Anderson,ivy.anderson@email.com,37,San Jose,CA,2023-10-25

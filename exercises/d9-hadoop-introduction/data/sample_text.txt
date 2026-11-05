@@ -1,0 +1,12 @@
+This is a sample text file for HDFS operations.
+It contains multiple lines of text data.
+Students will learn how to:
+1. Upload files to HDFS
+2. Read files from HDFS
+3. Process text data
+4. Perform word count operations
+5. Analyze text patterns
+
+HDFS (Hadoop Distributed File System) is designed to store large datasets reliably and to stream those datasets to user applications at high bandwidth.
+It is highly fault-tolerant and is designed to be deployed on low-cost hardware.
+HDFS provides high throughput access to application data and is suitable for applications that have large data sets.

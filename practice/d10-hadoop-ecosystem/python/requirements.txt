@@ -1,0 +1,14 @@
+pandas==2.1.0
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+pyspark==3.4.1
+hdfs3==0.3.1
+py4j==0.10.9.7
+jupyter==1.0.0
+notebook==7.0.2
+ipykernel==6.25.0
+pymysql==1.1.0
+sqlalchemy==2.0.20
+happybase==1.2.0
+thrift==0.16.0

@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone,birth_date,gender,address,city,state,zip_code,country,registration_date,customer_segment,loyalty_status,credit_rating,annual_income,is_active
+CUST_000001,Danielle,Johnson,john21@example.net,001-581-896-0013x3890,1958-07-29,Other,26542 Susan Junction Apt. 161,Melanieview,Arizona,96148,Kuwait,2024-04-17,Premium,Bronze,Fair,89196,True
+CUST_000002,Teresa,Gray,maria95@example.net,610.934.1316,1984-09-25,M,55341 Amanda Gardens Apt. 764,Lake Mark,Wyoming,07832,Denmark,2025-02-24,Premium,Bronze,Poor,33331,True
+CUST_000003,Linda,Morales,clarksherri@example.net,837-767-2423x88496,1958-07-03,M,710 Eric Estate,Carlsonfurt,Missouri,78605,Lao People's Democratic Republic,2024-04-09,Standard,Silver,Excellent,172127,True
+CUST_000004,Tasha,Valencia,frazierdanny@example.net,001-645-514-6270x48281,1954-04-25,Other,809 Burns Creek,Natashaport,Kansas,08093,Dominican Republic,2025-04-27,Enterprise,Silver,Poor,179472,True
+CUST_000005,Stacey,Miller,wcabrera@example.net,001-822-778-2489x63834,1972-04-14,M,33150 Brianna Avenue Apt. 031,Port Markhaven,Kansas,37001,Paraguay,2024-02-22,Standard,Platinum,Fair,97842,True
+CUST_000006,Amber,Cummings,esanchez@example.com,311.265.6670,1970-01-19,M,33387 Robert Harbors Suite 317,North Deniseside,Alabama,12725,Vanuatu,2024-12-11,Budget,Bronze,Excellent,124595,True
+CUST_000007,Joel,Russell,zlewis@example.org,(960)464-7468,1956-08-25,F,98050 Breanna Parkway,North Susan,Colorado,24857,Bangladesh,2024-06-21,Budget,Gold,Excellent,145435,True
+CUST_000008,Emma,Young,davidashley@example.net,+1-509-616-9985x435,1969-08-15,F,5107 Charles Forest Suite 251,West Justin,New Hampshire,71701,Romania,2023-08-05,Premium,Gold,Fair,176349,True
+CUST_000009,Tonya,Roman,contrerasangela@example.net,524-711-8244,1957-07-06,Other,740 Cynthia Village Suite 005,Lake Tina,Hawaii,97655,Kenya,2024-05-04,Premium,Bronze,Good,100861,True
+CUST_000010,Ronald,Smith,landryhannah@example.org,+1-605-798-2620,2001-04-27,M,3315 Dickson Summit,East Michelle,Idaho,54541,Anguilla,2023-03-23,Premium,Platinum,Fair,143858,True
+CUST_000011,Sandra,Patton,vpham@example.org,521-260-7337x543,1986-04-08,M,4145 Frazier Ville Suite 014,New Sydney,Kentucky,05515,Botswana,2024-06-22,Budget,Gold,Good,94986,True
+CUST_000012,Michael,Hartman,gobrien@example.org,(793)740-6088x3561,1986-06-24,Other,484 Nguyen Square,Angelaborough,Nebraska,87654,Wallis and Futuna,2023-10-28,Standard,Silver,Good,146178,False
+CUST_000013,Kaitlin,Thompson,richard04@example.com,969.495.7773,1986-03-12,F,951 Emily Fork Apt. 200,South Cheryl,Wyoming,10046,Korea,2023-12-06,Standard,Gold,Excellent,85043,True
+CUST_000014,Crystal,Lee,psnyder@example.org,+1-401-963-2870x8317,1986-09-28,F,9868 Merritt Summit Suite 743,Katiehaven,New York,82650,Dominican Republic,2023-07-05,Enterprise,Gold,Excellent,80307,True
+CUST_000015,Chris,Mitchell,matthew81@example.org,(936)823-1665,1948-08-10,M,9096 Smith Knoll Suite 668,South Jeffrey,Nevada,64155,Antarctica (the territory South of 60 deg S),2023-11-08,Enterprise,Platinum,Poor,62452,True
+CUST_000016,Elizabeth,Yates,marycalhoun@example.net,+1-906-499-0162,1947-11-09,M,3755 Ramirez Village Suite 417,Lake Amberstad,Iowa,85716,Bangladesh,2025-01-11,Standard,Gold,Poor,177969,False
+CUST_000017,Denise,Webster,jamessmith@example.org,427.319.3745,1993-09-07,F,1904 Sanders Stravenue,North Brittany,South Dakota,32331,Bosnia and Herzegovina,2024-10-11,Standard,Silver,Poor,48831,True
+CUST_000018,Kevin,Sutton,hoganashlee@example.org,(786)951-8506x716,1989-03-31,M,84987 Graham Street Suite 531,Nicolebury,Wisconsin,61411,Montenegro,2024-07-07,Standard,Silver,Poor,181345,True
+CUST_000019,Nicholas,Johnson,hunter35@example.com,949-948-0831x36783,1972-12-02,F,43634 Kennedy Pines,Ronaldside,Michigan,46613,Reunion,2024-01-18,Enterprise,Platinum,Fair,170024,True
+CUST_000020,Kristopher,Hall,leslienewton@example.net,(333)574-9894,1963-05-08,Other,40824 Terri Plaza Suite 271,New Justinfort,New Hampshire,45158,Colombia,2025-08-01,Premium,Gold,Fair,54242,True
+CUST_000021,Johnny,Hensley,shortrichard@example.org,001-802-529-4131,1993-07-21,F,7496 Carroll Circle Apt. 334,East Johnside,California,21018,Afghanistan,2023-11-29,Standard,Platinum,Excellent,94045,True
+CUST_000022,Hannah,Harrison,halljasmine@example.net,413.349.3618x324,1948-06-11,Other,947 Taylor Hollow Suite 488,Kimton,Nevada,96777,Gibraltar,2024-06-30,Premium,Gold,Good,65065,True
+CUST_000023,Anthony,Perez,keyemily@example.com,001-802-978-7429,2005-09-25,M,6551 Mark Square Suite 468,South Christopherview,Massachusetts,15695,Sierra Leone,2023-11-24,Premium,Gold,Poor,30105,True
+CUST_000024,Xavier,Travis,mgutierrez@example.net,(397)270-3482x477,2005-12-29,F,248 Andrea Course,Port Robin,New Jersey,15897,Oman,2025-03-08,Budget,Silver,Excellent,88143,True
+CUST_000025,Tyrone,Moran,robert77@example.org,682.263.9821x465,1962-07-04,M,972 Ryan Key Suite 886,Cantuborough,Vermont,31801,Montserrat,2023-11-01,Enterprise,Bronze,Good,58657,False
+CUST_000026,Melissa,Jenkins,julie66@example.net,+1-227-402-8951x7187,1970-07-07,Other,74596 Melissa Walk,Finleyfort,Ohio,05206,Niger,2022-11-21,Standard,Gold,Poor,80521,True
+CUST_000027,Crystal,Mccall,juliehamilton@example.org,001-517-824-0050x45562,1980-05-04,Other,21969 Tyler Prairie,East Steven,Kentucky,60737,Equatorial Guinea,2024-09-07,Budget,Platinum,Fair,139845,False
+CUST_000028,Rachel,Marshall,erica21@example.com,(894)764-7436x713,1980-11-24,M,64090 Wall Heights Apt. 953,New John,Wisconsin,94994,Seychelles,2024-08-30,Standard,Silver,Excellent,113627,True
+CUST_000029,Mary,Fuller,parkerscott@example.net,(621)445-6232x858,1960-11-15,Other,5171 Karen Fork Suite 851,Smithside,Delaware,60110,Heard Island and McDonald Islands,2024-09-14,Standard,Silver,Excellent,43610,True
+CUST_000030,Emily,Richards,daniel37@example.org,+1-285-693-1746x120,2007-06-06,M,38267 Santiago Summit,Matthewsberg,Nebraska,86342,Bolivia,2025-03-09,Premium,Bronze,Fair,43574,True
+CUST_000031,Christina,Crosby,antonio53@example.com,935.315.8506x431,1986-06-10,F,53293 Maria Plaza,New Jason,Iowa,43565,Singapore,2023-02-16,Enterprise,Silver,Good,174695,False
+CUST_000032,Rachel,Smith,vanessafernandez@example.org,402-605-3950,1947-12-27,M,117 Strickland Passage Apt. 783,Lake Kristahaven,Maryland,60537,Norway,2025-07-30,Enterprise,Platinum,Good,49726,True
+CUST_000033,Bruce,Mendoza,gsimmons@example.com,001-771-815-9212x499,2007-05-07,Other,8961 Melissa Run Apt. 673,Morganmouth,Montana,55025,Saint Lucia,2022-12-21,Enterprise,Gold,Poor,132767,False
+CUST_000034,Ronald,Ortega,stephanie71@example.org,716-315-2809,1970-07-26,Other,049 Bell Ports Apt. 273,West Meganstad,Delaware,37013,Montserrat,2023-05-13,Premium,Bronze,Excellent,130544,True
+CUST_000035,Roy,Hoffman,lynchdiane@example.net,302-444-5502x296,1991-05-14,M,83667 Moore Inlet,Kimberlyshire,Rhode Island,11636,Turks and Caicos Islands,2022-11-04,Standard,Silver,Good,165584,False
+CUST_000036,Eric,Williamson,nelsonebony@example.com,+1-976-643-8156x149,1947-07-20,M,003 Dougherty Trafficway Apt. 445,North Tylerchester,Idaho,17433,Hong Kong,2024-04-13,Enterprise,Silver,Fair,146275,True
+CUST_000037,Jerry,Hansen,charles06@example.org,715.496.9664x160,1995-03-03,M,516 John Radial Suite 816,Juliebury,Michigan,22538,Belarus,2024-03-20,Enterprise,Bronze,Excellent,195955,True
+CUST_000038,Daniel,Hicks,michael23@example.org,(943)929-2127,1987-08-06,M,527 Taylor Roads Suite 490,Williamport,New Jersey,59734,Argentina,2022-11-09,Standard,Silver,Poor,152307,False
+CUST_000039,Marie,Jones,gilbertwilliam@example.com,001-480-279-3597,1973-01-25,M,182 John Mill Suite 889,West Nathan,Maine,51280,Ireland,2025-01-03,Enterprise,Bronze,Good,124345,True
+CUST_000040,Erika,Williams,cameron18@example.net,(344)692-5192x5462,1979-11-24,F,81685 Michael Falls Apt. 573,East Eric,Maine,13757,Madagascar,2024-12-30,Budget,Platinum,Fair,135888,False
+CUST_000041,Mary,Stephenson,stanleynancy@example.net,(296)822-2927,1967-08-21,M,9473 Kyle Valleys,Mckeeborough,Mississippi,89408,Yemen,2024-05-25,Standard,Gold,Good,40331,True
+CUST_000042,Scott,Hammond,ashaw@example.org,392.640.7581,1949-12-20,Other,7826 Stacey Forges,Wilkersontown,Nebraska,07481,Indonesia,2024-03-11,Budget,Bronze,Excellent,178138,False
+CUST_000043,Joe,Vang,jeffrey51@example.net,+1-252-620-4727x7901,1958-04-10,Other,986 Kimberly Freeway,Davidbury,Nebraska,84249,South Africa,2024-07-21,Standard,Bronze,Excellent,73712,True
+CUST_000044,Bryan,Copeland,bcarlson@example.net,793.324.6095x39621,2004-09-30,Other,7065 Burgess Knolls,West Johnville,Wyoming,76772,Saint Pierre and Miquelon,2024-12-15,Premium,Silver,Poor,56427,True
+CUST_000045,Dennis,Bell,lisa27@example.net,822.917.0430x3054,1960-08-23,Other,5054 Lauren Mews,Paulfurt,Michigan,24987,Luxembourg,2024-10-05,Premium,Bronze,Poor,197326,True
+CUST_000046,Michael,Salinas,laurie61@example.com,+1-828-445-1154x479,1988-02-21,F,0596 Fowler Turnpike Apt. 165,North Douglas,Rhode Island,89379,Slovenia,2024-01-01,Standard,Gold,Good,94629,False
+CUST_000047,David,Young,michael90@example.net,(775)857-1928,1964-06-29,M,10278 Mcintyre Crest Suite 473,Heatherfort,Illinois,16575,Burkina Faso,2025-03-30,Budget,Platinum,Fair,44016,True
+CUST_000048,Shannon,Roach,zosborn@example.net,451-588-4422x58313,1994-06-24,F,8957 Cheryl Corners,West Raymondfort,North Dakota,54344,Seychelles,2023-11-30,Premium,Bronze,Good,157614,True
+CUST_000049,Bailey,Martinez,dawn77@example.net,452.489.2268x01824,1965-01-05,M,8414 Cynthia Plaza,Davidport,South Carolina,70425,Bermuda,2024-03-11,Budget,Bronze,Good,121869,True
+CUST_000050,Gary,David,georgeweber@example.net,690-601-0943x96907,1975-02-10,M,7102 Perry Mountain Apt. 592,Michellemouth,Washington,45769,Iran,2023-01-29,Enterprise,Gold,Excellent,170385,True
+CUST_000051,Mitchell,Hoffman,john14@example.com,421.704.6963,2003-07-06,Other,27877 Jimenez Course Suite 873,New Michael,Arkansas,37378,Lithuania,2024-06-23,Premium,Silver,Fair,55258,True
+CUST_000052,Megan,Chambers,amanda16@example.org,656-350-6098x358,1969-01-09,Other,499 David Court Suite 558,Kariborough,Rhode Island,67232,Iran,2024-03-09,Standard,Gold,Fair,183552,True
+CUST_000053,Brandon,Taylor,linda87@example.org,+1-982-659-5269x495,1974-08-09,Other,5169 Robles Stream,New Thomasshire,Oregon,30325,Saint Helena,2022-11-03,Budget,Silver,Fair,157489,False
+CUST_000054,Timothy,Warren,rhernandez@example.org,8915307562,1970-07-16,F,028 Ann Shore Suite 865,South Rhonda,Michigan,72102,Guinea,2024-09-17,Premium,Bronze,Poor,97530,True
+CUST_000055,Mikayla,Becker,chelsea33@example.com,+1-743-644-3757,1962-10-26,M,5240 Moses Common Suite 747,East Maria,Louisiana,74165,Qatar,2023-07-02,Budget,Silver,Fair,67357,False
+CUST_000056,Daniel,Yang,johnsantiago@example.net,230.416.5712,1970-04-27,Other,3454 Rebecca Corners Apt. 802,Khanburgh,Arizona,52535,Solomon Islands,2024-03-03,Enterprise,Bronze,Excellent,44724,True
+CUST_000057,Sharon,Hayden,nancy04@example.net,+1-515-347-8872x874,1965-07-09,Other,420 Gibbs Port Apt. 296,Robertsonland,Montana,88221,Bhutan,2023-03-29,Premium,Gold,Good,137666,True
+CUST_000058,Donald,Morris,adamreyes@example.com,001-445-849-9045x30174,1987-11-28,M,145 Jeffrey Dale Suite 279,Robertside,New Mexico,99768,Mauritania,2025-02-02,Budget,Gold,Excellent,118797,True
+CUST_000059,Margaret,Gill,foxallison@example.com,491-408-8398,1965-05-10,Other,39718 Stokes Motorway Apt. 867,New Stevenport,Washington,03354,Indonesia,2023-06-13,Standard,Bronze,Fair,171770,False
+CUST_000060,Aaron,Robinson,williamsmelvin@example.org,+1-801-770-4622,2007-03-27,Other,6618 Desiree Keys Apt. 286,Lake Tiffany,Alabama,99614,Angola,2025-08-15,Standard,Silver,Good,71413,False
+CUST_000061,Steven,Ball,opatel@example.org,352.343.1069x033,1982-02-07,M,030 Gonzales Plains Apt. 028,Jimshire,Massachusetts,76191,Netherlands Antilles,2025-01-01,Standard,Gold,Poor,90055,True
+CUST_000062,Loretta,Young,valerieboyd@example.com,740-889-2687x0568,1970-05-29,M,2873 Kevin Station Apt. 708,Faulknerside,North Dakota,18076,Iceland,2023-06-01,Premium,Platinum,Excellent,148388,True
+CUST_000063,James,Lucas,fboone@example.net,001-930-546-9901x3983,1999-06-18,M,0331 Rocha Square Apt. 638,Kimberlyfurt,New Jersey,70447,Pakistan,2023-10-06,Enterprise,Gold,Fair,84662,True
+CUST_000064,Jose,Hunt,zowens@example.net,853.655.6093x2048,1954-04-15,M,69378 Scott View Suite 772,Garyside,New York,24624,United States Virgin Islands,2025-05-09,Standard,Platinum,Fair,98034,True
+CUST_000065,Veronica,Bernard,combscharles@example.net,9067231203,1948-06-29,F,700 Smith Pines Suite 840,Drakeburgh,Connecticut,13125,Malta,2023-02-18,Budget,Platinum,Fair,32235,True
+CUST_000066,James,Fox,joseph61@example.com,(979)233-4101x6668,1984-10-19,F,76591 Jerry Ways,Nelsonland,Utah,37250,United Arab Emirates,2024-04-25,Standard,Gold,Excellent,53417,False
+CUST_000067,Dominique,White,alexis39@example.org,001-761-242-9396x85621,1950-11-03,F,59996 Johnson Groves,Henrystad,Oklahoma,49708,Jersey,2023-03-30,Budget,Platinum,Excellent,125976,True
+CUST_000068,Brenda,James,lauren11@example.com,(662)965-5110,1967-05-12,F,21267 Garcia Corners Suite 819,Michelletown,Maine,54739,Iceland,2025-01-08,Premium,Platinum,Excellent,161293,True
+CUST_000069,Jenny,Hansen,ashleyjackson@example.com,(824)644-7212,1971-03-20,F,54379 Stephen Dale Suite 065,Brockmouth,New Hampshire,44375,Jersey,2025-02-17,Enterprise,Bronze,Fair,188356,True
+CUST_000070,Michele,Mccann,kevinmorrison@example.net,575.726.5479,1968-05-18,Other,1939 Erin Plaza Apt. 737,Marieland,Nebraska,88709,Luxembourg,2023-02-07,Premium,Gold,Fair,199821,False
+CUST_000071,Kevin,King,jennifermccormick@example.org,397.396.8868x058,1993-02-16,F,90965 Rodriguez Courts Suite 388,South Neil,New Jersey,89571,Namibia,2024-10-03,Enterprise,Gold,Good,75289,False
+CUST_000072,Edward,Cuevas,agarcia@example.org,725-945-7387,1950-11-02,Other,1401 Melinda Rue Apt. 238,New Ethan,Oklahoma,56386,Kyrgyz Republic,2023-05-20,Enterprise,Silver,Fair,131450,True
+CUST_000073,Richard,Lopez,vfoster@example.net,379.366.0334,1995-01-20,F,5371 Lambert Overpass,Candicefurt,Pennsylvania,15473,Guernsey,2023-09-28,Budget,Silver,Poor,177039,True
+CUST_000074,Stephen,Thompson,samantha91@example.net,(851)834-1252,1982-04-05,F,2782 Tracy Dam Apt. 579,Port Michaeltown,New York,18396,Congo,2025-02-17,Enterprise,Platinum,Good,159001,False
+CUST_000075,Tamara,Wagner,fortiz@example.com,001-677-421-9034x043,1993-11-14,Other,819 Joseph Plains Suite 807,South Curtis,Tennessee,98981,Egypt,2023-07-31,Standard,Bronze,Fair,160122,True
+CUST_000076,Yvonne,Cole,michelle17@example.org,001-733-695-9629x23309,1982-04-15,M,4494 Derek Terrace,Sellersview,Tennessee,17132,Reunion,2025-04-14,Standard,Gold,Good,77200,True
+CUST_000077,John,Dawson,kathleenlowe@example.com,(694)766-7116,1973-05-01,M,9017 Horn Underpass Suite 363,Adamsport,Michigan,72238,Morocco,2023-01-29,Premium,Silver,Poor,185241,True
+CUST_000078,Melissa,Kramer,williamsconnie@example.com,6124770632,1999-10-10,F,54152 Randy Inlet Apt. 611,East Thomasberg,Pennsylvania,30148,Maldives,2024-09-22,Enterprise,Silver,Poor,154598,False
+CUST_000079,Albert,Dominguez,mcneilrobert@example.org,413.361.1155x4262,1978-02-08,M,275 Courtney Drive,Jensenmouth,Indiana,11863,Ukraine,2022-12-27,Standard,Bronze,Excellent,136449,True
+CUST_000080,Karen,Lawrence,bbell@example.com,(634)213-8999,1998-02-06,M,89836 Lucas Tunnel Apt. 761,South Danielle,California,69744,Tuvalu,2025-08-14,Enterprise,Bronze,Good,56813,False
+CUST_000081,Valerie,Peck,paulcombs@example.com,(282)871-0910x430,1976-08-08,M,6188 Joshua Inlet Apt. 832,Peterland,Maryland,92077,Jordan,2024-11-16,Enterprise,Gold,Poor,185603,False
+CUST_000082,Meghan,Brown,middletondarren@example.net,+1-604-421-0202x758,1968-02-11,Other,105 Nelson Circles Suite 917,Dixonton,New York,74803,Chad,2023-10-15,Enterprise,Silver,Poor,142983,True
+CUST_000083,Jonathan,Garcia,perezwilliam@example.org,8305756220,1964-12-16,M,541 Wilson Spring Apt. 238,South Caseymouth,Maine,41224,Greece,2022-12-11,Budget,Platinum,Good,96984,False
+CUST_000084,Stephen,Wood,anne49@example.org,759.273.8320x603,2004-08-06,M,641 Alyssa Freeway,Vasquezton,Georgia,93778,Fiji,2022-12-18,Budget,Silver,Fair,113040,True
+CUST_000085,Samantha,Merritt,xhaynes@example.com,001-519-618-2619x9062,1961-02-16,Other,5574 Charles Flats Apt. 912,East Shannonmouth,Nebraska,16326,Mauritania,2023-10-05,Premium,Silver,Good,85623,False
+CUST_000086,Kaylee,Hayes,hbaker@example.org,(749)803-5213,1977-01-12,Other,2067 Cody Cove Apt. 100,East James,Montana,49291,Poland,2024-07-29,Standard,Silver,Excellent,133755,False
+CUST_000087,Deanna,Aguilar,samantha10@example.org,472.815.1070,1996-06-13,F,0662 Lewis Ferry Suite 472,New Christinebury,Tennessee,39181,Luxembourg,2023-12-03,Enterprise,Platinum,Excellent,79220,False
+CUST_000088,Andrea,Brown,patrick63@example.net,638.406.5787x59856,1946-04-30,F,40785 Terri Courts,Lake John,Ohio,97108,Azerbaijan,2024-12-23,Premium,Platinum,Poor,26545,True
+CUST_000089,Stacie,Johnston,lkelly@example.org,495.559.0599,1997-05-25,F,427 Christopher Fort Apt. 087,West Samanthaborough,Florida,45164,Saint Barthelemy,2023-03-21,Enterprise,Platinum,Good,152986,True
+CUST_000090,Leah,Oneill,johnsonbrenda@example.org,001-818-951-5691x54522,1985-08-01,F,895 Elizabeth Via,South Kurt,Vermont,39103,Brunei Darussalam,2023-03-21,Enterprise,Platinum,Excellent,126936,True
+CUST_000091,Aaron,Miles,xrosales@example.net,4297593917,1991-08-23,Other,5215 Smith Fords,Lake Carlos,Kentucky,14661,Saint Helena,2022-09-09,Enterprise,Silver,Poor,58456,True
+CUST_000092,Paul,Oconnor,nicolesnyder@example.com,(286)717-9327x104,1961-02-19,F,52621 Matthew Ridges,Bushchester,Tennessee,22127,New Caledonia,2025-05-10,Premium,Bronze,Poor,60572,False
+CUST_000093,Eric,Garcia,terriortiz@example.net,001-284-744-3106x9872,1944-12-04,M,9731 Jamie Route,Tiffanyfort,Delaware,40917,Slovenia,2023-11-17,Premium,Gold,Poor,110813,True
+CUST_000094,Tracy,Guerrero,maypaul@example.com,(452)370-4774x3490,1950-02-01,F,693 Mary Viaduct Suite 879,South Kent,Montana,94126,Antigua and Barbuda,2024-03-11,Budget,Gold,Poor,97943,False
+CUST_000095,Rachel,Mcbride,davidtodd@example.org,(433)620-6163,1964-10-30,F,68685 Stone Well,Port Isabellashire,North Dakota,55498,Bouvet Island (Bouvetoya),2023-12-06,Premium,Platinum,Excellent,166405,True
+CUST_000096,Eddie,Matthews,buckleyanna@example.org,885-464-6799x7024,1983-08-20,F,65307 Prince Brooks Suite 444,Garrisonville,Iowa,18115,French Southern Territories,2025-08-10,Standard,Bronze,Excellent,33134,True
+CUST_000097,Scott,Petersen,jessica91@example.org,836.478.5082x148,1993-11-09,M,33030 Williams Lake,West Micheal,New Jersey,66708,Indonesia,2024-08-04,Premium,Silver,Good,58088,False
+CUST_000098,David,Johnson,tracy72@example.com,001-885-252-4140,1954-12-13,Other,33468 Michelle Trafficway,South Rhondaburgh,Rhode Island,01610,Czech Republic,2023-06-11,Premium,Silver,Poor,92172,True
+CUST_000099,Linda,Torres,rodney65@example.com,637-648-9691x085,1987-10-21,M,54544 Lopez Path Apt. 096,Erintown,Tennessee,65692,French Polynesia,2023-06-19,Premium,Silver,Fair,53337,True
+CUST_000100,Robert,Price,aguilarwanda@example.org,638-475-8428x24172,2004-05-04,F,135 Julie Inlet Suite 554,Stevenville,New Mexico,07536,Tonga,2024-08-03,Enterprise,Platinum,Good,44922,True
+CUST_000101,Betty,Oliver,gpreston@example.org,+1-768-446-0223x56972,1993-10-04,M,2500 Hill Trace Apt. 927,East Christinachester,Montana,56734,Lesotho,2023-11-02,Budget,Bronze,Excellent,116017,False
+CUST_000102,Benjamin,Gonzalez,stephanie58@example.org,6034354216,1948-10-19,Other,4789 Hamilton Spur,West Wendy,New York,47588,Sao Tome and Principe,2023-04-02,Budget,Bronze,Fair,28316,False
+CUST_000103,Stacy,Hull,osmith@example.net,(830)698-2150,1993-04-10,F,010 Hannah Mall,Jamesside,Kentucky,62681,Reunion,2023-02-22,Premium,Platinum,Fair,191614,False
+CUST_000104,Heather,Mccoy,robert18@example.com,+1-592-561-8914x117,1993-09-11,Other,6420 Lozano Spurs,Riveratown,Alabama,88533,Benin,2025-05-28,Standard,Platinum,Good,161772,True
+CUST_000105,Mary,Caldwell,stacychan@example.org,001-714-737-4470x1204,1971-07-11,Other,00225 Kline Road,Natalieland,Mississippi,45422,Cocos (Keeling) Islands,2023-01-10,Enterprise,Platinum,Poor,180313,True
+CUST_000106,Ricardo,Bryant,evaughn@example.com,+1-821-720-2169x7972,1983-03-15,F,7167 Bryan Shoal,Alexanderhaven,Wyoming,97969,Morocco,2024-11-09,Standard,Bronze,Fair,143175,True
+CUST_000107,Jeffrey,Sosa,april91@example.com,+1-437-356-2890x02877,1992-01-10,F,54083 Powell Freeway Apt. 779,Millerfort,New Hampshire,41927,British Indian Ocean Territory (Chagos Archipelago),2025-08-17,Enterprise,Gold,Excellent,154579,True
+CUST_000108,Julie,Smith,jgutierrez@example.net,7197948837,1996-09-05,M,5899 Moran Lakes,Wilsonbury,Alabama,45243,Guinea,2025-03-05,Enterprise,Silver,Fair,92725,True
+CUST_000109,Tamara,Carter,jacqueline02@example.com,(561)949-3316,1996-08-18,F,516 Sara Villages,Port Patriciamouth,Texas,77743,Zimbabwe,2024-03-13,Budget,Bronze,Good,47442,True
+CUST_000110,Tamara,Smith,tranryan@example.net,882.592.2169x9586,1961-12-03,Other,7226 Cameron Plaza Suite 833,New Jennifer,Utah,45759,Uruguay,2024-09-13,Enterprise,Platinum,Good,149804,False
+CUST_000111,Tina,Santos,williambenson@example.com,001-315-287-9968x460,1968-09-05,F,034 Tonya Springs,Dwayneton,Vermont,39185,Costa Rica,2024-12-11,Premium,Bronze,Fair,83090,False
+CUST_000112,Antonio,Cervantes,jensenemma@example.net,886.738.4066,2005-07-13,Other,43973 Fischer Plains,Port Jenny,Illinois,39059,Kiribati,2023-03-21,Standard,Gold,Fair,149062,True
+CUST_000113,Felicia,Lopez,jillwilson@example.org,(748)242-2940x57202,1993-06-04,F,9851 Fox Ferry Apt. 826,Davisbury,Indiana,87445,Greenland,2023-09-05,Budget,Gold,Poor,96019,True
+CUST_000114,Kelly,Clements,wbarajas@example.net,7158739930,2002-05-22,F,4840 Robertson Pass,Tuckerport,Tennessee,25733,Gibraltar,2024-03-24,Standard,Bronze,Good,107719,True
+CUST_000115,Stacy,Jackson,simsjason@example.net,001-336-213-8612x07501,1955-11-25,Other,193 Russell Mission Suite 650,Nunezside,Alabama,84573,Saint Helena,2024-07-16,Standard,Silver,Good,151929,True
+CUST_000116,Katelyn,Richards,howardwesley@example.com,+1-849-614-7660x72832,2005-03-04,Other,5088 David Avenue,Medinaland,Maryland,28033,San Marino,2024-11-28,Budget,Bronze,Good,102659,True
+CUST_000117,Jessica,Lewis,eugenewalker@example.com,612.390.8781,1960-06-24,F,975 Anderson Shoal,North Justin,California,25863,Ghana,2024-02-22,Standard,Gold,Excellent,165020,True
+CUST_000118,Mark,Hopkins,arianadiaz@example.com,(720)653-3645x25777,1975-05-14,F,91428 Jose Road,Lake Charlestown,North Carolina,83289,Antarctica (the territory South of 60 deg S),2025-02-14,Premium,Bronze,Fair,58103,False
+CUST_000119,Beth,Hammond,rebeccaarnold@example.net,+1-972-356-3942,1969-09-07,M,392 Sean Fall,Lake Jessica,Minnesota,05798,Cyprus,2024-12-20,Premium,Gold,Poor,150492,False
+CUST_000120,Jesse,Baker,bradclark@example.com,(477)800-5184x4989,1985-11-13,F,184 Kaufman Fork Suite 557,Eatontown,North Carolina,18715,Kazakhstan,2023-03-08,Standard,Bronze,Fair,150233,True
+CUST_000121,Chris,Schneider,edwardmoore@example.net,001-813-265-1777x392,1960-01-14,M,922 Patricia Drive,East Jonathanburgh,North Dakota,53644,Netherlands Antilles,2025-08-05,Enterprise,Platinum,Excellent,176262,True
+CUST_000122,Dana,Johns,stacey37@example.net,772.936.9292x9842,1982-04-08,M,66210 Alexandra Parkways,Serranoville,Idaho,62874,United Arab Emirates,2024-07-12,Standard,Gold,Excellent,90061,True
+CUST_000123,Benjamin,Bowers,davisdonna@example.net,+1-506-986-5086,1994-06-05,Other,9916 Jonathan Trafficway Apt. 149,Scotttown,Virginia,97972,Somalia,2022-09-15,Enterprise,Silver,Poor,143099,False
+CUST_000124,Alexandra,Meyer,spena@example.com,(851)526-9448x69594,1970-09-20,F,58874 Lane Trail Suite 213,Loganburgh,Connecticut,28610,Malawi,2023-11-21,Enterprise,Gold,Excellent,184811,True
+CUST_000125,Matthew,Pierce,martintamara@example.org,727-396-1143,1983-01-20,M,9849 Sonya Viaduct Apt. 770,Port Diane,North Dakota,37988,Congo,2022-10-14,Standard,Gold,Excellent,66171,True
+CUST_000126,Carol,Black,christinacraig@example.com,502.214.6566,1991-02-10,M,84895 Richmond Harbor,New Sylvia,New Jersey,53448,Morocco,2022-09-13,Premium,Silver,Excellent,132090,False
+CUST_000127,Gregory,Hunter,gordonmatthew@example.org,248.994.7697x35779,1952-01-05,Other,3356 Black Branch,Johnland,Montana,88803,San Marino,2025-02-23,Enterprise,Gold,Excellent,85680,True
+CUST_000128,Charles,Velazquez,nedwards@example.net,723-473-3343x333,1993-10-04,Other,79080 Watson Island,Villanuevashire,Louisiana,64831,Cocos (Keeling) Islands,2025-08-21,Budget,Platinum,Excellent,86190,True
+CUST_000129,Sabrina,Ramirez,karenanderson@example.net,(278)508-5627x18750,1968-08-03,Other,5942 Young Mountains,Michaelfort,Nevada,28095,Italy,2024-10-14,Standard,Platinum,Excellent,167753,True
+CUST_000130,Nathan,Dickerson,shannon92@example.net,+1-831-943-8663x22702,1953-02-27,Other,4489 Raymond Spurs Apt. 034,Combsville,New Hampshire,98096,Grenada,2023-06-19,Standard,Gold,Good,43719,True
+CUST_000131,Michael,Grant,maurice61@example.com,+1-893-699-8245x58771,1973-11-25,M,56996 Christian Junctions,West Logan,Maine,93618,Ethiopia,2024-07-02,Budget,Gold,Poor,57598,False
+CUST_000132,Randall,Barron,julie87@example.com,(820)323-4132,1950-09-15,Other,006 Dalton River Apt. 164,East Joan,New Hampshire,82615,Brunei Darussalam,2023-01-29,Budget,Platinum,Fair,156195,False
+CUST_000133,Mary,Johnson,michelle57@example.com,+1-948-872-8299,1977-08-30,F,7831 Parker Loop Suite 240,New Lisaberg,Minnesota,38087,Latvia,2024-04-16,Premium,Bronze,Poor,109494,True
+CUST_000134,Gwendolyn,Vasquez,xevans@example.com,893-808-5368x6632,1958-08-01,M,3894 Wong Place,Robertland,Idaho,18408,French Guiana,2023-01-06,Premium,Silver,Excellent,95650,True
+CUST_000135,Stanley,Chavez,blopez@example.org,2805214427,1950-05-15,M,3564 Bolton Mountain,West Christopherberg,Arkansas,35432,Singapore,2023-11-12,Enterprise,Platinum,Fair,72576,False
+CUST_000136,Amy,White,lisa01@example.net,567.930.3718,1969-03-14,Other,2088 Jon Route Suite 350,North Joel,Nevada,43035,American Samoa,2023-03-10,Enterprise,Bronze,Poor,116215,False
+CUST_000137,Joshua,Wilson,albertwilliams@example.net,792.451.3271x9500,1988-11-13,F,73585 Quinn Brooks,Howardberg,Kentucky,05676,Libyan Arab Jamahiriya,2024-10-21,Budget,Bronze,Good,111456,False
+CUST_000138,Angelica,Daniels,llopez@example.net,(657)749-8218x274,1973-04-17,Other,209 Parsons Garden Suite 186,New Felicia,Wyoming,72782,Cape Verde,2024-07-10,Enterprise,Gold,Poor,169204,True
+CUST_000139,Marcus,Davidson,davisdonna@example.org,(820)931-7310,1977-10-24,F,53910 Diana Village Apt. 705,Shortton,South Carolina,35341,Marshall Islands,2022-10-22,Premium,Gold,Fair,109744,True
+CUST_000140,Chad,Torres,susandavis@example.net,886.333.8392,1992-12-17,F,761 Laura Plaza Suite 852,Mahoneymouth,Oklahoma,43054,Tanzania,2023-10-20,Premium,Platinum,Poor,39209,True
+CUST_000141,Kathryn,Jordan,charlene98@example.org,(484)657-7600x4908,1945-02-06,Other,50488 Clinton Mount,Ericview,Mississippi,76805,Egypt,2023-05-21,Budget,Platinum,Poor,38529,True
+CUST_000142,Lisa,Davis,ncarroll@example.net,257-827-9194,1949-08-18,F,5661 Julie Vista,Lake Kimberlyfurt,Arkansas,40449,Malta,2022-10-23,Standard,Gold,Poor,152064,True
+CUST_000143,Amber,Hernandez,ericnunez@example.com,399.981.3646x225,1980-09-07,M,641 Shaw Trail,Port Dennis,Oklahoma,26467,Libyan Arab Jamahiriya,2023-11-15,Standard,Silver,Fair,169399,True
+CUST_000144,Ashley,Hoffman,johnadams@example.com,491-716-6553x55904,1983-07-05,Other,270 James Landing Apt. 110,New Sara,Maine,02301,Guam,2024-10-07,Enterprise,Bronze,Good,54743,False
+CUST_000145,Daniel,Cole,riverajody@example.org,888.248.7920,1960-10-12,M,3940 Pena Branch,South Donnastad,Connecticut,03001,French Guiana,2025-04-15,Standard,Platinum,Fair,158397,True
+CUST_000146,Debra,Hall,tromero@example.org,679-781-2387x80038,1975-07-21,F,55543 Cain Road,Natashatown,Oklahoma,37226,Czech Republic,2023-02-21,Enterprise,Platinum,Good,144743,True
+CUST_000147,Penny,Sandoval,blairabigail@example.net,+1-436-539-2649x578,1985-10-16,F,48262 Lonnie Point,East Lonnieberg,Washington,04365,Serbia,2023-08-23,Standard,Silver,Excellent,97416,False
+CUST_000148,Teresa,Ali,scott42@example.org,522-509-9499,1959-03-27,F,1728 Joseph Landing,Port Paul,New Mexico,18525,Central African Republic,2023-04-07,Budget,Bronze,Fair,103264,False
+CUST_000149,Antonio,Duran,schaeferstephanie@example.org,001-233-812-7975x7366,1990-01-21,M,998 Abigail Mission Suite 038,Terrellton,Oklahoma,51278,Maldives,2024-12-24,Enterprise,Platinum,Fair,112147,False
+CUST_000150,Sydney,Lee,tsanders@example.com,326.449.0827x718,1993-09-29,F,6570 Shawn Station,South Christopher,Massachusetts,91165,Pakistan,2025-05-29,Budget,Silver,Good,174893,False
+CUST_000151,Laura,Higgins,davisjasmin@example.net,(718)468-9268x602,1954-11-25,M,06447 Sims Crest,East Adam,Wisconsin,33676,American Samoa,2024-01-23,Enterprise,Bronze,Fair,148987,False
+CUST_000152,Melissa,Stephens,franklintrevor@example.org,001-577-667-1990,1983-09-24,F,22050 Melissa Shores,Markland,Arkansas,14773,Israel,2025-09-01,Standard,Platinum,Excellent,58094,True
+CUST_000153,Evan,Mitchell,tammycurry@example.com,3146556168,1974-05-07,M,458 Warren Square,New Brian,Oregon,96147,Norfolk Island,2024-04-09,Enterprise,Bronze,Poor,29023,True
+CUST_000154,Christopher,Ramsey,ronald54@example.net,001-995-429-9787,2000-05-10,F,430 Andrew Road,Lake Melaniechester,Nebraska,06463,Grenada,2023-09-26,Standard,Bronze,Poor,94474,True
+CUST_000155,Linda,Lewis,hannahking@example.org,448-585-0155x6990,1965-07-05,Other,770 Timothy Road Suite 857,Reillyton,North Dakota,39736,Mongolia,2024-11-10,Enterprise,Bronze,Fair,164885,False
+CUST_000156,Leslie,Herrera,barbararivera@example.com,824-405-6829,1982-03-08,F,504 Miller Wells Apt. 574,New Kevin,Delaware,49550,Slovenia,2022-10-18,Enterprise,Bronze,Excellent,86543,True
+CUST_000157,James,Davis,lloydrebecca@example.org,457.584.5218,1990-05-02,M,8104 Gloria Ranch Apt. 570,New Katieport,Alaska,76202,Senegal,2023-08-16,Premium,Platinum,Excellent,191133,True
+CUST_000158,Patricia,Flores,justinpatel@example.com,+1-714-722-4109x88138,1961-10-05,F,321 Austin Junction Suite 020,Bergerton,Connecticut,50780,Austria,2022-12-11,Standard,Gold,Excellent,37056,True
+CUST_000159,Philip,Bush,tjensen@example.com,981.679.2171,1987-10-22,M,3329 Durham Lock Apt. 557,Johnsonfort,Delaware,46565,Lesotho,2024-01-26,Budget,Gold,Fair,137901,True
+CUST_000160,George,Tate,williamsullivan@example.net,858-514-8769,1983-10-20,M,6153 Mueller Mews,Amybury,Idaho,87350,Paraguay,2022-12-02,Enterprise,Silver,Good,70893,True
+CUST_000161,Sarah,Andrews,mwilson@example.com,281-372-4619x19657,1958-05-25,Other,022 Schmidt Loaf,Gonzalezmouth,Maryland,75248,South Africa,2025-06-04,Enterprise,Silver,Poor,177871,True
+CUST_000162,Kevin,Harding,wrobbins@example.org,001-209-286-2405,1988-12-30,M,40369 Garrett Station Suite 666,Lake Glenn,Florida,25172,Moldova,2023-11-03,Enterprise,Gold,Poor,91932,True
+CUST_000163,Sandra,Larsen,keithsalas@example.org,(401)802-7621,1998-11-16,F,278 Arnold Mission Suite 532,Jacobsshire,New York,96303,Dominica,2024-10-27,Budget,Silver,Excellent,140796,True
+CUST_000164,Joseph,House,arthur09@example.com,001-351-597-1284x781,1974-06-14,Other,894 Rebecca Place,South Shawnfort,Oregon,96683,Greenland,2023-12-13,Budget,Platinum,Fair,144756,True
+CUST_000165,Susan,Yates,gary94@example.net,001-240-679-2904,1975-03-24,M,144 Christina Harbor,Alexisville,Rhode Island,23387,United States of America,2024-06-17,Enterprise,Platinum,Excellent,87182,False
+CUST_000166,Edward,Griffin,josehaynes@example.com,(880)851-2927,1959-09-05,Other,239 Brown Greens Apt. 027,Alvarezfort,West Virginia,99123,Uzbekistan,2024-04-13,Budget,Gold,Fair,30751,False
+CUST_000167,Noah,Thornton,hbaker@example.com,7478658018,1983-02-23,F,4414 Murray Spring Apt. 938,Ericaburgh,Massachusetts,72277,Algeria,2024-09-14,Premium,Bronze,Poor,100024,True
+CUST_000168,Marie,Smith,foxgina@example.com,544.330.0910,1989-04-17,Other,92692 Heather Glen,Stevenland,South Dakota,59934,Uzbekistan,2025-09-02,Budget,Silver,Good,187762,True
+CUST_000169,Kayla,Schwartz,jonathan14@example.org,(465)904-4271x7396,1951-07-08,Other,91741 Charles Ports Suite 707,Lake Danielle,Arizona,87612,Iceland,2023-06-27,Standard,Bronze,Excellent,105984,False
+CUST_000170,Isabel,Conway,robertsonshelby@example.com,766.618.3067x1985,1969-12-04,M,8517 Holland Fall,South Donnaport,Vermont,51632,Ukraine,2023-01-03,Budget,Silver,Excellent,102361,True
+CUST_000171,Haley,Tucker,imoss@example.org,909.937.6184,2005-07-30,Other,50506 Jason Shoal,Bentleyside,Georgia,97632,Mozambique,2023-05-21,Enterprise,Silver,Good,59644,True
+CUST_000172,Charles,Moss,evaldez@example.net,4323020417,1996-03-16,Other,79931 Ronald Valleys,Nguyenshire,Ohio,18501,Gibraltar,2025-03-12,Budget,Silver,Fair,151313,True
+CUST_000173,Laura,Duran,matthewmartinez@example.org,001-462-258-2739x02196,2000-02-07,Other,02194 Steele Turnpike,Schwartzborough,Georgia,84364,Faroe Islands,2024-04-03,Budget,Bronze,Poor,44739,True
+CUST_000174,Robert,Hurley,carlsonjennifer@example.net,345-760-8331,1999-01-14,M,3403 Laura Spur,Jimenezburgh,Texas,06152,Austria,2024-08-14,Enterprise,Gold,Excellent,128435,True
+CUST_000175,Justin,Hamilton,christina70@example.org,001-708-822-0781x1379,1957-03-17,F,15313 Kane Lane Apt. 179,Brownchester,Georgia,28834,Vanuatu,2024-07-06,Premium,Platinum,Fair,93724,False
+CUST_000176,Gregory,Brooks,ocortez@example.com,835-420-9042x177,1992-08-02,Other,9292 Christopher Walks,Atkinsborough,Pennsylvania,62562,Taiwan,2024-01-28,Budget,Bronze,Good,148594,True
+CUST_000177,Alexis,Patterson,johnhamilton@example.org,001-229-806-0078,1978-02-23,Other,177 Christopher Terrace Apt. 632,Kennethland,Alaska,63387,Paraguay,2023-08-08,Budget,Silver,Excellent,191567,False
+CUST_000178,Jacqueline,Hodge,braysteven@example.org,001-862-657-0165x804,1988-08-30,Other,195 Zachary Spring,Pamelaville,Missouri,48419,Lao People's Democratic Republic,2024-07-17,Budget,Platinum,Excellent,61641,True
+CUST_000179,Michael,Thompson,castrokim@example.org,238-317-9335x54864,1968-03-04,M,8817 Hayes Land Apt. 371,South Rachaelport,California,14835,Chad,2023-07-07,Budget,Platinum,Excellent,50478,True
+CUST_000180,Heidi,Crawford,abigailburton@example.com,(782)875-6704x31038,1981-02-21,Other,9887 Torres Curve Suite 243,Watsonport,Wyoming,06703,Cameroon,2023-09-30,Standard,Platinum,Poor,122258,False
+CUST_000181,Stephen,Jackson,jennifermitchell@example.org,001-422-531-0592x745,1980-02-14,Other,552 West Estates,Davidtown,Montana,65960,Seychelles,2023-02-14,Standard,Platinum,Excellent,153279,False
+CUST_000182,Stephen,Flores,cordovaamy@example.net,347-649-2975x17028,1946-04-01,F,5150 Brandy Forges,Jamesland,Ohio,58888,Philippines,2024-09-13,Premium,Gold,Good,141230,False
+CUST_000183,Christopher,Hunt,tracymorrison@example.net,6567265650,1966-10-27,M,137 Lara Heights Apt. 662,East Jaredfort,North Dakota,44464,Bahrain,2025-06-26,Budget,Bronze,Fair,167728,True
+CUST_000184,Brittany,Bennett,ortizrobin@example.com,(987)292-3264,1996-07-09,M,478 Walker Turnpike Apt. 244,Martinezport,Nebraska,24011,Liechtenstein,2025-05-28,Enterprise,Gold,Good,57023,False
+CUST_000185,Deanna,Johnson,trevor19@example.net,(697)496-4715x890,1981-04-30,M,7252 Joseph Manor,Brandonport,North Dakota,84248,Vietnam,2022-12-01,Standard,Bronze,Excellent,112427,True
+CUST_000186,James,Burton,georgegary@example.com,944-851-8952x02845,1966-02-15,M,32833 Robert Club,Port Davidtown,New Mexico,46141,Georgia,2024-10-04,Standard,Bronze,Good,178716,True
+CUST_000187,Don,Ramos,gerald40@example.net,332-823-4232,1988-03-16,M,07603 Antonio Shoals,South Davidview,Arizona,09184,Gabon,2024-09-08,Budget,Silver,Excellent,97685,True
+CUST_000188,Karen,Patton,brianagonzalez@example.net,(301)324-9552x893,1996-04-26,M,334 Rachel Plain,Lake Coreyborough,North Carolina,93268,Lebanon,2023-10-14,Budget,Silver,Excellent,198292,True
+CUST_000189,Bridget,Gonzales,whitemichael@example.com,(638)236-1517x18275,1949-11-13,M,64794 Perez Lodge Suite 631,Crosbystad,Idaho,02176,Peru,2024-02-28,Premium,Gold,Good,179364,True
+CUST_000190,Daniel,Kim,wilsonralph@example.net,001-812-315-3539,1959-05-11,M,749 Avila Unions Suite 579,Archerhaven,Louisiana,19817,Seychelles,2024-01-19,Standard,Gold,Excellent,58228,False
+CUST_000191,David,Burns,courtneytaylor@example.org,001-301-370-2695x2499,1986-05-02,Other,3477 Daniels Valleys Apt. 061,Colefurt,New Hampshire,60749,Argentina,2022-10-14,Premium,Bronze,Poor,142512,True
+CUST_000192,Angela,Dalton,nicole27@example.com,(946)971-9788,1980-02-09,Other,064 Garza Lane,Katieport,Massachusetts,08551,Antarctica (the territory South of 60 deg S),2024-06-16,Premium,Platinum,Good,186246,True
+CUST_000193,David,Richardson,hubbardcolleen@example.com,565-656-5033,1982-01-06,Other,1520 Johnson Shoals,Bradleychester,Louisiana,03175,Qatar,2024-02-04,Budget,Platinum,Excellent,40945,False
+CUST_000194,Andrew,Stewart,gmorris@example.com,735-878-5294,1957-05-25,F,344 Kenneth Ports,Ballardland,Virginia,76285,Bhutan,2024-06-17,Enterprise,Bronze,Poor,141277,True
+CUST_000195,Joshua,Knight,wsimmons@example.org,+1-948-446-8536x6498,2000-03-07,M,737 Giles Place,Michaelton,North Dakota,26800,Haiti,2024-01-27,Budget,Silver,Excellent,58080,True
+CUST_000196,John,Francis,megan65@example.org,+1-536-244-2493x6312,1960-02-27,Other,7866 James Groves Apt. 044,Lake Melissa,Washington,64181,Slovenia,2022-09-29,Budget,Platinum,Fair,143938,False
+CUST_000197,Michele,Miller,michelle65@example.net,+1-316-523-1981x89847,1982-06-22,M,9636 Drew Extensions Apt. 476,Michelleton,New York,70423,Holy See (Vatican City State),2024-10-13,Premium,Silver,Poor,143372,True
+CUST_000198,Daniel,Gardner,rvega@example.org,(675)740-9003x486,2001-08-01,F,376 Renee Lock,Kevinbury,Maryland,28076,Tokelau,2025-05-10,Budget,Platinum,Poor,134049,True
+CUST_000199,Ruth,Welch,rmccormick@example.org,001-777-965-6124x81569,1988-06-25,F,272 Richard Road,Leeland,Delaware,21187,Egypt,2024-03-26,Enterprise,Gold,Fair,123120,True
+CUST_000200,Tara,Rivas,melaniejennings@example.com,472.842.9543x165,1999-11-24,Other,08931 Gonzalez Squares,North Richard,Nevada,79195,Eritrea,2023-02-18,Enterprise,Bronze,Excellent,47377,True
+CUST_000201,Susan,Jackson,smithalicia@example.com,+1-571-633-3447x62639,1990-06-20,F,2620 Cherry Freeway,Solomonstad,Pennsylvania,90189,Oman,2024-01-23,Premium,Gold,Good,170849,True
+CUST_000202,Alex,Anderson,terri63@example.net,(269)241-1800x5375,1960-08-31,Other,6528 Beverly Green Apt. 875,Andersonmouth,Virginia,70024,Jersey,2023-02-10,Budget,Bronze,Poor,117693,False
+CUST_000203,Darryl,Williams,victormcpherson@example.com,001-456-944-9485x6257,1948-01-15,Other,32074 Janice Mews,South Billystad,Virginia,74013,Libyan Arab Jamahiriya,2024-01-22,Premium,Gold,Fair,117181,True
+CUST_000204,Daniel,Cortez,daviddavis@example.com,(428)849-9390,2002-09-02,Other,1504 Phillip Ramp,Port Marcustown,Colorado,60824,Switzerland,2024-10-22,Standard,Silver,Poor,83784,True
+CUST_000205,Timothy,Fuller,brooke05@example.org,+1-897-359-2304x5018,1969-10-24,F,61032 Chan Haven,North Kenneth,Nevada,96955,Sri Lanka,2025-06-14,Budget,Bronze,Fair,175496,True
+CUST_000206,Rebecca,Munoz,elizabeth58@example.org,876.874.9961x6592,1950-07-17,F,3278 Kelly Mews Apt. 742,Lake Rebecca,Kansas,69063,Japan,2023-07-28,Premium,Gold,Excellent,72294,True
+CUST_000207,Brandon,Jones,palmerwilliam@example.com,279-345-4918,1991-05-04,Other,26016 Edwards Stream Suite 794,Tammyburgh,Indiana,24760,Belgium,2024-12-04,Budget,Gold,Fair,26600,True
+CUST_000208,Cassandra,Savage,hamiltonandrew@example.com,702-877-6974,1995-05-18,M,20310 Michele Fords,Wongbury,Nevada,82559,Togo,2025-01-20,Enterprise,Bronze,Good,190982,True
+CUST_000209,James,Turner,bhernandez@example.org,522-577-7079,1963-04-06,M,50166 Mclaughlin Ranch Suite 076,Palmerfort,Iowa,94124,Bahamas,2024-04-09,Standard,Platinum,Poor,143920,True
+CUST_000210,Robert,Stewart,adamsdeborah@example.com,579-957-6024,1966-05-07,M,395 Anderson Hill,Moyerstad,New Mexico,21738,Nigeria,2023-04-23,Budget,Gold,Fair,173791,True
+CUST_000211,Hannah,Miller,manderson@example.org,+1-671-767-4338x005,1987-05-02,M,015 Wilson Forks,New Jeffreyview,Michigan,47063,Seychelles,2022-10-29,Standard,Silver,Excellent,46386,True
+CUST_000212,Natalie,Adams,melissarusso@example.net,+1-410-377-1199x18081,1999-07-20,F,47871 Deborah Isle Apt. 137,Hammondtown,Kansas,62585,Guam,2023-07-19,Enterprise,Platinum,Poor,133575,True
+CUST_000213,George,Adams,qward@example.org,(786)232-6667,1972-07-26,M,811 Edwards Trail,South Bryan,Wisconsin,05362,Panama,2025-06-15,Premium,Gold,Poor,54069,True
+CUST_000214,Edward,Andrews,robert84@example.net,001-955-704-8926x7389,2000-08-10,Other,41085 Hardy Streets Apt. 884,North William,Maryland,68833,Guam,2024-12-15,Enterprise,Gold,Excellent,82807,False
+CUST_000215,Ernest,Johnson,john46@example.net,905-648-5101,1980-09-30,Other,5399 Michael Haven,Lake Nicholas,West Virginia,32958,Bosnia and Herzegovina,2023-09-02,Premium,Bronze,Good,104015,True
+CUST_000216,Brandi,Carson,shawn26@example.com,710-862-7371,1981-09-29,M,9767 Dennis Mall Apt. 282,Dawsonberg,Virginia,67765,Tokelau,2024-04-09,Budget,Gold,Fair,56453,True
+CUST_000217,Heather,Gibson,francissherry@example.com,496-311-5940,1968-02-02,F,4702 Kristen Manor Apt. 443,Port Jodi,Alabama,16534,Mexico,2023-09-25,Enterprise,Silver,Good,124669,True
+CUST_000218,Monica,Butler,ariel56@example.com,001-892-828-7772x5199,1959-05-10,Other,8074 Michelle Station Apt. 948,Lake Anitaborough,South Carolina,71520,Morocco,2024-12-16,Budget,Bronze,Poor,36089,False
+CUST_000219,Susan,Boyd,bshaw@example.org,+1-282-904-3397x18956,1998-12-28,M,6260 Reyes Course,North Amberport,Georgia,24443,Equatorial Guinea,2024-12-28,Enterprise,Bronze,Fair,175931,False
+CUST_000220,Eric,Farley,brianwoodward@example.org,6048615265,2004-01-02,Other,33993 Romero Parkways,Averyview,Arkansas,42225,Kyrgyz Republic,2024-05-06,Enterprise,Platinum,Fair,55192,False
+CUST_000221,Cameron,Johnson,robinsmith@example.net,001-313-582-4967,1994-01-03,M,8238 Ali Point,Williamsmouth,South Carolina,38413,Palau,2025-08-08,Budget,Silver,Poor,119857,True
+CUST_000222,Aaron,Mahoney,qnelson@example.net,(853)398-4028x9141,1997-01-02,F,3985 Reid Terrace Suite 435,Jasonmouth,Alaska,91182,Burkina Faso,2024-08-16,Premium,Silver,Poor,179369,False
+CUST_000223,Aaron,Alvarez,chambersrobert@example.net,001-776-881-1807x156,1955-11-07,Other,75370 Julia Trace,Erinstad,Illinois,12293,Suriname,2024-07-11,Premium,Platinum,Fair,114001,True
+CUST_000224,Kevin,Robbins,tinacoffey@example.org,479-530-3614x987,1986-04-03,F,92124 Nicole Stream,Jamestown,Vermont,89333,Martinique,2024-07-12,Standard,Bronze,Excellent,164094,True
+CUST_000225,Erin,Ware,pacedanielle@example.net,7562641877,2000-05-13,F,46875 Philip Isle,New Lindseybury,Vermont,56051,Belarus,2025-06-09,Budget,Silver,Good,51949,True
+CUST_000226,James,Murphy,garrettcolin@example.com,(309)954-3173x50583,1992-10-27,F,110 Nicholas Vista Apt. 207,West Cherylchester,California,13847,Philippines,2022-11-08,Standard,Silver,Good,196837,True
+CUST_000227,Brett,Horn,wdavis@example.com,399.707.6769,1985-09-10,M,8593 Curtis Ranch,New Kristineborough,Oregon,17013,Northern Mariana Islands,2024-03-18,Enterprise,Platinum,Poor,172978,True
+CUST_000228,Michael,Olson,ilopez@example.org,4244968549,1974-04-07,Other,5089 Brian Parkways Apt. 653,Lake Rebekah,California,45268,Comoros,2024-09-08,Budget,Silver,Poor,42900,False
+CUST_000229,Heather,Holden,melissa95@example.net,565-521-7073x0337,1974-12-21,F,636 Margaret Avenue Suite 015,New Dariusport,New Hampshire,25981,Norfolk Island,2024-06-10,Budget,Gold,Excellent,117259,True
+CUST_000230,Kathy,Williams,gonzalezjustin@example.org,425-883-2302x410,1985-12-10,F,3473 Pacheco Shore,New Tiffany,South Carolina,57349,Turkey,2024-10-26,Enterprise,Platinum,Excellent,39913,True
+CUST_000231,David,Andrade,lauralee@example.com,001-455-796-3099x384,1960-04-04,F,89731 Gibbs Ridges Apt. 286,Victormouth,Idaho,42683,Rwanda,2023-10-22,Premium,Bronze,Poor,146297,True
+CUST_000232,Heather,Baldwin,lwells@example.com,+1-490-733-3736x3466,1960-09-20,F,14785 Brandy Mountain,Ronaldmouth,Nevada,54103,Heard Island and McDonald Islands,2025-02-05,Standard,Gold,Poor,156430,True
+CUST_000233,Logan,Reyes,scottbaker@example.org,(714)288-8143x111,1979-02-01,M,54443 Yesenia Terrace Suite 044,Kristafurt,Montana,76516,Saudi Arabia,2024-08-26,Enterprise,Bronze,Fair,47106,True
+CUST_000234,Thomas,Hunt,michelleperez@example.net,001-837-838-9877x5153,1957-11-21,M,052 Kevin Street Apt. 755,South Ronald,Wisconsin,53371,Serbia,2025-01-08,Standard,Platinum,Poor,162381,True
+CUST_000235,Amanda,Nguyen,bradleyantonio@example.org,(859)399-9663,1978-05-11,F,1597 Davis Cove,North Margaret,Rhode Island,64544,Anguilla,2023-03-31,Budget,Gold,Poor,132156,True
+CUST_000236,Chad,Mccarty,jamie48@example.org,805.980.2566x212,1991-07-03,Other,23467 Cassandra Inlet Apt. 874,North Vickie,New Hampshire,08885,Sweden,2023-11-19,Premium,Gold,Excellent,111426,True
+CUST_000237,Lindsey,Fox,kstevens@example.org,001-814-975-4692x6329,1968-12-02,Other,916 John Ways,West Nicole,Ohio,38759,Papua New Guinea,2025-06-08,Enterprise,Gold,Fair,197114,True
+CUST_000238,Helen,Bowen,reginajenkins@example.net,651-518-5672,1976-07-26,F,17656 Randy Branch Suite 125,Washingtonland,Colorado,72384,Palestinian Territory,2023-05-31,Premium,Silver,Fair,106325,False
+CUST_000239,Stephanie,Taylor,mckenzie20@example.net,624-418-6210,1972-06-12,M,08370 Peter Inlet,Williamstown,Arkansas,49966,Seychelles,2023-04-17,Premium,Gold,Poor,193687,True
+CUST_000240,John,Kerr,christopherfisher@example.org,531-531-2206x81558,2003-07-19,M,1331 Morris Bridge Suite 506,South Jeffrey,Texas,36998,Pakistan,2024-07-22,Premium,Platinum,Fair,29779,True
+CUST_000241,Bradley,Mcclure,mturner@example.com,489-724-1956,1955-09-25,F,715 Charlotte Prairie Suite 683,East Andrewville,Maryland,31485,Saint Pierre and Miquelon,2023-12-21,Standard,Silver,Fair,152473,True
+CUST_000242,John,Miller,nicholasphillips@example.org,(630)239-7524x5086,1959-02-11,M,3380 Laurie Square Apt. 968,Isaiahtown,California,64941,Bangladesh,2025-07-19,Standard,Silver,Excellent,102540,True
+CUST_000243,Brett,Braun,davidthompson@example.net,538.816.7423,1955-10-20,Other,4973 Huffman Orchard,West Raymondburgh,New Mexico,58353,Jamaica,2024-03-14,Premium,Gold,Good,181564,False
+CUST_000244,Jessica,Wolf,ysmith@example.com,949-682-8246,1973-04-06,M,971 Taylor Mountains Apt. 230,Port Vincentstad,New York,53526,Uzbekistan,2023-12-07,Standard,Silver,Good,139733,True
+CUST_000245,Ralph,Harmon,pburns@example.net,660-716-9236,1976-10-16,F,506 Fitzgerald Gardens Suite 050,West Catherine,Utah,19816,Equatorial Guinea,2023-06-06,Budget,Silver,Poor,185063,True
+CUST_000246,Beth,Bates,alexanderwise@example.net,001-866-691-8362x644,1990-12-03,Other,95243 Hale Avenue,Port Travis,Connecticut,09655,Singapore,2024-10-10,Enterprise,Silver,Good,106125,False
+CUST_000247,Alicia,Pena,xjackson@example.org,001-223-472-8179x323,1995-08-31,M,6791 Christopher Corner,Martinezland,Michigan,04389,Myanmar,2023-05-23,Budget,Platinum,Poor,98864,False
+CUST_000248,Todd,Hodges,brownkaren@example.org,+1-890-713-8069x84775,1968-01-17,Other,3566 Theresa Well Suite 107,Hardyberg,Alaska,79394,British Virgin Islands,2025-04-17,Enterprise,Silver,Good,183508,True
+CUST_000249,Joshua,Lyons,miguelmontgomery@example.net,986.830.5050x5739,1991-04-04,F,6716 Lawson Station,Port Abigail,Oregon,94435,Madagascar,2022-10-12,Premium,Platinum,Fair,170369,True
+CUST_000250,Tyler,Miller,cjackson@example.org,683.533.2116x0256,1989-12-29,Other,128 Davis Square Suite 399,Lake Matthewfurt,Tennessee,84662,Slovenia,2024-05-15,Premium,Gold,Excellent,67024,True
+CUST_000251,Melissa,Stokes,jonathoncarter@example.org,859-231-9525,1964-04-07,F,6552 Daniel Branch,Stewartport,Iowa,66015,Pitcairn Islands,2024-01-20,Standard,Platinum,Excellent,83205,False
+CUST_000252,Carolyn,Thomas,georgekyle@example.net,749-473-7460,1996-11-03,F,302 Luna Hills,North Amy,Michigan,55870,Philippines,2024-02-08,Premium,Platinum,Excellent,128928,True
+CUST_000253,Michael,Myers,rosejustin@example.net,986.412.5904,1981-01-17,M,742 Jeffery Summit Apt. 059,Lake Kristenberg,Missouri,56483,Philippines,2025-03-18,Enterprise,Bronze,Fair,83861,True
+CUST_000254,Sara,Davis,dwhite@example.org,459.862.6301x36749,1993-07-25,F,6475 David Corner,South Darlenehaven,Iowa,03519,Namibia,2024-05-27,Premium,Gold,Good,61070,True
+CUST_000255,Ashley,Hill,bauerherbert@example.com,+1-964-392-1518x2606,1977-05-17,F,12920 Mcbride Crossing,East Baileyburgh,Colorado,74228,Equatorial Guinea,2025-03-29,Enterprise,Silver,Poor,142598,True
+CUST_000256,Austin,Whitney,michael82@example.com,+1-703-540-8487x29758,1988-01-10,M,03243 Carrie Forge,Joshuachester,California,72570,Equatorial Guinea,2023-06-20,Premium,Gold,Good,64195,False
+CUST_000257,Debra,Martin,qmiller@example.net,(728)831-4359x89262,1968-07-23,M,41818 Jones Route,West Reginaview,Georgia,30092,Falkland Islands (Malvinas),2022-09-18,Budget,Silver,Fair,56941,True
+CUST_000258,Nicholas,Novak,ylynn@example.org,(684)697-1859,1982-12-15,M,56258 Woods Crossroad,Alberthaven,Virginia,20881,Palestinian Territory,2023-01-24,Enterprise,Platinum,Excellent,54060,False
+CUST_000259,Nicholas,Moss,sellersdanielle@example.com,001-839-567-2757x844,1963-11-30,Other,6511 Jessica Course,New Brian,West Virginia,37968,Micronesia,2025-06-22,Premium,Silver,Good,101355,False
+CUST_000260,Lindsey,Smith,urhodes@example.org,578.281.6093x0685,1982-12-13,M,832 Michael Dale,Stephaniechester,New York,50189,Chile,2023-10-22,Budget,Silver,Poor,74103,True
+CUST_000261,Daniel,Sloan,marierosales@example.org,947-944-3096x3480,1948-04-22,Other,754 Rodriguez Keys,South Michael,Connecticut,56967,Liechtenstein,2023-04-12,Budget,Bronze,Excellent,127355,False
+CUST_000262,Allison,Roach,fmartinez@example.org,(443)676-5456,1951-07-15,M,722 Burgess Avenue Suite 313,Billyfurt,Nebraska,98008,Greenland,2025-05-22,Enterprise,Gold,Fair,29257,True
+CUST_000263,Ethan,Gonzalez,rmoyer@example.org,(478)772-5686x21102,1976-03-09,M,56906 Roberts Oval,Port Royberg,Washington,67510,Colombia,2023-06-08,Budget,Silver,Excellent,177542,True
+CUST_000264,Katie,Lin,elizabethpatterson@example.com,001-218-692-3923x126,2007-01-30,M,0931 Omar Pine,Isabelbury,Iowa,44564,Japan,2024-02-15,Premium,Gold,Fair,193505,True
+CUST_000265,William,Schneider,daniel54@example.com,001-963-650-2000x534,2001-12-02,Other,2475 Torres Court,Lake Andreaberg,Michigan,47761,Saint Vincent and the Grenadines,2025-02-11,Enterprise,Platinum,Good,60350,True
+CUST_000266,Julia,Chapman,john43@example.net,(711)629-1093x3711,1990-05-20,Other,202 Robert Station,Patriciaside,Minnesota,48474,Kiribati,2024-07-29,Enterprise,Bronze,Fair,77845,True
+CUST_000267,David,Graham,gbarnes@example.org,(894)924-0903,1987-10-27,M,78686 Lawson Ford,North Ernest,Indiana,78110,Qatar,2022-09-17,Premium,Gold,Fair,160104,False
+CUST_000268,Sarah,Hunt,kevin34@example.net,481-623-0834x024,1999-09-16,Other,338 Aaron Key,Markside,Kentucky,95145,Burkina Faso,2023-11-29,Enterprise,Gold,Excellent,194581,True
+CUST_000269,Cheryl,Nguyen,garrettalex@example.com,642.540.8916,1996-02-23,F,4396 Sean Stream,Richardsonfort,Colorado,65507,Cocos (Keeling) Islands,2024-01-24,Budget,Bronze,Fair,96622,True
+CUST_000270,Lisa,Thompson,lharding@example.net,904-822-6931x2163,1951-01-01,F,091 Cruz Creek,Port Mariaton,Florida,33051,Sierra Leone,2022-12-08,Enterprise,Platinum,Poor,126356,True
+CUST_000271,Douglas,Burton,sparksalbert@example.org,+1-651-732-7972,1974-11-09,M,84810 Curtis Hill,New Oliviachester,Georgia,00659,United States Minor Outlying Islands,2023-05-11,Enterprise,Platinum,Fair,161125,True
+CUST_000272,Jeremy,Cruz,diana36@example.net,001-317-721-3145x195,2002-11-08,M,92268 Greene Springs,Hernandezport,South Carolina,38119,Guernsey,2025-04-24,Enterprise,Bronze,Poor,182929,True
+CUST_000273,Joseph,Porter,sarah10@example.org,001-725-426-7711x96421,1956-02-22,Other,5767 Guzman Roads Suite 236,Dunnside,Ohio,65067,Martinique,2024-04-17,Budget,Gold,Excellent,45989,True
+CUST_000274,Jerry,Miller,xrose@example.net,001-231-735-0305x8721,1967-06-03,Other,7286 Jason Fork,Lake Devinberg,Missouri,96587,Anguilla,2024-10-09,Budget,Gold,Poor,182973,False
+CUST_000275,Roger,Brown,batescharles@example.net,(802)452-1310,1992-11-27,M,284 Jenkins Junction Suite 041,North Nicole,Arizona,79691,Sao Tome and Principe,2023-03-17,Enterprise,Gold,Poor,36103,True
+CUST_000276,Ethan,Sanders,dfrazier@example.net,001-449-584-3624x186,1969-11-29,Other,62891 Woods Shoal,Wilcoxburgh,Arkansas,49191,Oman,2023-12-16,Enterprise,Gold,Excellent,44671,False
+CUST_000277,Joseph,Garcia,carrie50@example.org,528-611-3904x3830,1950-01-16,F,700 Davis Inlet,West Karenfurt,North Carolina,26044,Germany,2024-12-10,Standard,Bronze,Good,184271,False
+CUST_000278,Jessica,Dickson,riverapeggy@example.net,682-409-6790,1954-03-26,M,13322 West Curve Suite 459,Williamsfurt,Kansas,27871,New Zealand,2024-07-04,Standard,Bronze,Good,194125,True
+CUST_000279,Susan,Bradley,adavis@example.org,001-748-717-1752x42149,1950-04-23,F,747 Hines Mills,North Teresa,New York,05690,Haiti,2025-04-06,Enterprise,Bronze,Good,142944,True
+CUST_000280,Richard,Vincent,scotthunt@example.net,351-668-7409x03802,1968-05-12,F,36715 Mcdonald Place Suite 112,South Kaylaborough,Montana,43587,Bahrain,2023-08-21,Enterprise,Bronze,Good,163794,True
+CUST_000281,Wendy,Tucker,dwilson@example.org,+1-827-223-5909,2003-09-06,F,7303 Stephanie Spur Suite 442,East Chadfurt,Colorado,39604,Tunisia,2024-10-27,Budget,Gold,Good,54739,True
+CUST_000282,Monica,Warren,jack01@example.com,242-535-6778x26596,1949-08-03,Other,5027 Victor Island,Port Tarachester,Kentucky,68749,Saint Helena,2022-09-12,Standard,Platinum,Poor,172239,True
+CUST_000283,Shannon,Wall,cynthiafowler@example.net,503-736-8296,1957-11-25,F,905 Smith Inlet,Lake Victormouth,Nebraska,54291,Guinea,2023-09-29,Budget,Platinum,Good,185399,True
+CUST_000284,Amy,Mills,daniel27@example.com,(328)392-8664x649,1995-06-17,Other,09617 Cynthia Parkway,Lake Kellychester,Indiana,29714,Singapore,2024-01-19,Enterprise,Silver,Excellent,60580,True
+CUST_000285,Patrick,Gonzalez,wsampson@example.com,(260)253-8444x46306,1946-05-04,F,955 Susan Meadows Apt. 863,Pooleshire,Nevada,17392,Wallis and Futuna,2024-08-05,Standard,Platinum,Excellent,108778,True
+CUST_000286,Tiffany,Thompson,zachary63@example.org,001-328-219-6482x531,1972-03-30,Other,98196 Julia Curve,Waltersstad,Idaho,31921,Palau,2025-05-19,Premium,Gold,Fair,66289,True
+CUST_000287,Kenneth,Nichols,jessicaroman@example.com,001-440-641-2091x17911,1961-03-11,F,17536 Travis Brooks,Jonesland,Indiana,90591,Italy,2023-10-24,Standard,Bronze,Good,61405,True
+CUST_000288,Lee,Odonnell,hectorsmith@example.org,+1-699-301-5579x98028,1956-11-01,F,088 Javier Lakes,East Anthonyberg,Iowa,11438,Saint Lucia,2024-10-04,Premium,Gold,Fair,147527,True
+CUST_000289,David,Hill,stephaniebailey@example.net,+1-347-676-8634x2346,1955-02-14,Other,767 Carlson Groves,Cindyfurt,Nevada,26678,Montenegro,2023-09-29,Premium,Bronze,Fair,129375,False
+CUST_000290,Rachael,Weiss,cjackson@example.net,896-449-8560x125,1967-03-23,Other,55251 Lucas Branch,Jasonshire,Massachusetts,30994,Monaco,2022-11-19,Enterprise,Platinum,Excellent,57853,True
+CUST_000291,Justin,Lewis,dakotaramirez@example.net,+1-819-366-5533x07704,1952-07-03,Other,596 Barbara Haven,Lake Kristashire,Alabama,61026,Finland,2023-01-29,Premium,Platinum,Poor,160622,True
+CUST_000292,Tammy,Johnson,rogersallen@example.com,764-945-5618,1983-04-06,M,7715 Anthony Causeway Apt. 215,Perezland,Illinois,95411,United Arab Emirates,2025-02-14,Standard,Silver,Poor,156822,True
+CUST_000293,Lisa,Medina,villamiranda@example.com,6104414596,2002-12-13,M,25296 Barnett Pike Apt. 977,Marcfort,Iowa,12533,Estonia,2024-12-25,Standard,Gold,Good,67458,True
+CUST_000294,Jennifer,Gomez,donnamoss@example.org,001-311-770-3037x637,1957-10-31,Other,7281 Jeffery Lakes Suite 798,Port Ricardo,California,36917,Jamaica,2023-03-06,Standard,Gold,Fair,45672,True
+CUST_000295,Kurt,Kane,thomasnancy@example.net,930-772-4078,1961-06-01,M,6326 Romero Center,Nelsonville,Arkansas,85517,Hong Kong,2024-11-18,Budget,Silver,Fair,186068,True
+CUST_000296,Roberto,Carter,rthompson@example.net,+1-678-561-0313x100,1948-11-01,Other,3966 Garcia Street,Tylerburgh,Indiana,46065,Northern Mariana Islands,2023-07-20,Standard,Silver,Good,197682,True
+CUST_000297,Caitlyn,Gross,lopezrebecca@example.net,843.725.1225x7207,1945-12-31,Other,20957 Tracy Gateway Suite 100,Maryhaven,North Carolina,22429,Saudi Arabia,2023-02-15,Premium,Bronze,Excellent,36917,True
+CUST_000298,Clifford,Torres,shaun58@example.com,+1-274-457-0545x89714,2006-05-04,Other,257 John Streets,Howardland,Illinois,50017,Northern Mariana Islands,2023-01-04,Standard,Platinum,Excellent,155557,True
+CUST_000299,Joshua,Sims,harcher@example.org,755-369-6443x098,1971-12-29,Other,541 Victor Spur Apt. 728,Cindyburgh,Maryland,64310,France,2022-11-17,Budget,Platinum,Good,131454,True
+CUST_000300,Kenneth,Chavez,justinwatkins@example.org,440.365.0042x5488,1989-08-13,F,369 Kelly Bypass,Fitzpatrickbury,Utah,83999,Hungary,2023-12-15,Premium,Bronze,Good,140239,False
+CUST_000301,Tammy,Garcia,samantha94@example.org,001-565-692-3426,1963-11-25,F,782 Patton Village Suite 128,Bensonhaven,Utah,93902,Guinea-Bissau,2024-02-03,Enterprise,Silver,Fair,184032,True
+CUST_000302,Ronald,Fisher,jmurray@example.org,001-661-229-4398x52989,1992-04-09,F,60787 Christopher Groves Apt. 591,Arianamouth,Arkansas,16418,Saint Vincent and the Grenadines,2024-06-09,Budget,Gold,Poor,59279,True
+CUST_000303,William,Love,zacharyhart@example.com,(332)344-0793,1944-09-09,Other,133 Thomas Village,Myersville,Maryland,53527,Liberia,2025-08-20,Premium,Gold,Good,147282,True
+CUST_000304,Lori,Skinner,lorraine79@example.org,(320)922-3288x37744,1967-10-30,F,6176 Hernandez Haven Suite 196,New Kevinmouth,Arizona,46995,Burundi,2024-02-02,Enterprise,Silver,Good,50378,True
+CUST_000305,Jennifer,Hill,michaelfoley@example.net,758.968.1225,1989-09-28,F,4617 Estes Rest,New Jeanette,North Carolina,86865,Malta,2023-06-19,Enterprise,Platinum,Good,66864,True
+CUST_000306,Heidi,Chapman,breanna61@example.org,5233117753,2001-05-16,Other,661 Cheryl Crescent,Port Karenmouth,Wisconsin,49564,New Caledonia,2024-07-30,Budget,Silver,Good,155617,False
+CUST_000307,Anthony,Thompson,halenicholas@example.net,001-583-434-7743,1972-01-12,F,90130 Patricia Lake,Carrollland,Michigan,24789,Pitcairn Islands,2024-11-16,Budget,Platinum,Excellent,48605,False
+CUST_000308,Rhonda,May,nlee@example.net,385.459.8217x6619,1993-12-22,Other,17309 Johnson View Suite 465,Port Monicaport,California,70548,Morocco,2023-05-30,Enterprise,Silver,Good,177920,True
+CUST_000309,April,Carr,reginald08@example.net,597-740-0564,2000-08-18,M,38503 Jones Port,West Tinachester,Rhode Island,97401,New Zealand,2025-06-22,Premium,Gold,Poor,181635,False
+CUST_000310,Paige,Mendoza,josephwilliams@example.org,883.256.7430x0038,1979-06-29,F,6266 Darrell Crest,Michaelmouth,Nevada,08093,Dominica,2023-05-20,Premium,Bronze,Poor,60110,True
+CUST_000311,Brianna,Perez,ritteralexis@example.net,701.702.7240,1982-08-21,Other,2967 Diane Club,Shawnaborough,New York,92940,Saint Pierre and Miquelon,2025-02-15,Budget,Platinum,Fair,36860,False
+CUST_000312,Priscilla,Trevino,xmarquez@example.net,638-345-8810x5697,1957-07-05,M,348 David Stream,North Tiffany,Vermont,58209,Pakistan,2024-12-23,Standard,Gold,Fair,44275,False
+CUST_000313,Stephanie,Smith,nelsonbrianna@example.com,904-296-7066,1958-10-29,Other,68040 Pineda Rest Suite 493,West Jessicachester,Nevada,96082,Vanuatu,2024-11-22,Enterprise,Gold,Excellent,58728,True
+CUST_000314,Brian,Rodriguez,rfarley@example.com,+1-976-599-8426,1952-12-29,F,4138 Morgan Locks,New Joshuaview,Texas,33336,Slovenia,2024-08-23,Budget,Gold,Fair,62818,True
+CUST_000315,Kelsey,Smith,ashley54@example.org,270.370.7057x836,1962-02-07,Other,72444 Martinez Roads Apt. 290,North Diamond,Idaho,90212,Madagascar,2025-04-08,Enterprise,Bronze,Excellent,35201,True
+CUST_000316,Bethany,Williams,bruceklein@example.com,305-380-9351x187,1959-08-13,Other,561 Liu Divide Apt. 595,Theresastad,New Mexico,39044,Nigeria,2022-10-12,Budget,Platinum,Poor,64043,True
+CUST_000317,Micheal,Carter,rhondajohnson@example.net,258.489.5369,1968-09-10,F,39898 Ryan Crossing,New Thomashaven,North Dakota,58306,Ghana,2023-06-30,Budget,Silver,Poor,186611,True
+CUST_000318,Mary,Carter,marklloyd@example.com,775.313.7651,2002-04-22,Other,376 Ashley Views Apt. 836,New Jorge,Maine,45271,Germany,2023-01-15,Budget,Platinum,Fair,149490,True
+CUST_000319,Ricky,Wagner,barbarachen@example.org,(370)421-6487,1999-06-18,F,21288 Strong Knoll Apt. 683,Davidmouth,Pennsylvania,80292,Nicaragua,2023-01-04,Budget,Bronze,Poor,178014,True
+CUST_000320,Jennifer,Jones,stephanie67@example.net,(847)722-9812x09957,1972-04-25,Other,34750 Mitchell Lights Suite 220,South April,Oregon,81172,Germany,2022-12-26,Premium,Platinum,Fair,196859,True
+CUST_000321,Justin,Wilson,tommy32@example.com,291-534-2138x820,1945-02-08,Other,3496 Meyer Village,Phillipsville,Virginia,93080,Uruguay,2025-03-21,Premium,Platinum,Good,162424,False
+CUST_000322,Sean,Reynolds,christopher24@example.net,+1-715-213-1528x54781,1971-12-28,M,80032 Wiggins Forges Apt. 472,Cervantesfort,Maine,17775,Congo,2024-08-03,Standard,Bronze,Excellent,75012,True
+CUST_000323,Christopher,Black,aaronjones@example.net,+1-432-606-4969x357,1997-08-25,F,776 Daniels Hill Apt. 314,Montesmouth,Kansas,87325,Jamaica,2023-01-12,Budget,Platinum,Good,133255,True
+CUST_000324,Steven,Flores,baileyraymond@example.org,001-777-696-3044x83608,1987-03-18,F,7664 Joseph Stream Apt. 504,Ortizshire,Hawaii,70757,Costa Rica,2025-01-09,Enterprise,Bronze,Good,160969,True
+CUST_000325,Daniel,Donaldson,david80@example.net,5617558108,1978-06-03,Other,634 Renee Isle,Lewisbury,Alabama,05229,Tanzania,2022-09-29,Budget,Platinum,Poor,107248,True
+CUST_000326,Shelby,Garcia,cmoody@example.org,340-333-0416x6241,1976-06-20,F,08921 Lee Rest Suite 568,West Joshuaborough,Connecticut,35139,Palau,2024-05-31,Budget,Gold,Fair,184927,False
+CUST_000327,Nicholas,Jordan,tammyhoffman@example.com,288-836-0765x8173,1993-04-09,M,7914 Thomas Roads Apt. 182,Port Sheri,Pennsylvania,33264,Belize,2023-02-09,Standard,Gold,Fair,83947,True
+CUST_000328,Christina,Wells,briansnyder@example.com,952-705-9960x4387,2005-02-17,F,7788 Samantha Manors,South Davidtown,Hawaii,68650,San Marino,2023-01-19,Standard,Platinum,Fair,150777,True
+CUST_000329,James,Kane,williamsroger@example.org,+1-787-728-6604x1644,1980-03-16,Other,48395 Kennedy Fords,Saraberg,Hawaii,69232,Saint Barthelemy,2025-03-05,Budget,Gold,Excellent,175333,False
+CUST_000330,Alejandro,Butler,thomasholder@example.org,333-718-7510x9792,1984-10-10,F,0344 Silva Inlet,Claudiafurt,Kentucky,74047,Mauritius,2024-08-11,Budget,Silver,Fair,36027,True
+CUST_000331,James,Watkins,crossjoshua@example.com,001-612-989-6599,1957-11-15,Other,31922 Thomas Alley,Christianton,Florida,67571,Sri Lanka,2024-01-02,Premium,Gold,Poor,196959,True
+CUST_000332,Elizabeth,Murphy,allenphillip@example.com,001-475-848-5819x324,1979-12-30,Other,418 Pearson Fall Apt. 575,Lewisside,Illinois,50630,Holy See (Vatican City State),2023-03-23,Enterprise,Silver,Good,166184,True
+CUST_000333,Julie,Smith,mward@example.org,001-645-215-4809,1985-06-17,Other,0440 Michelle Mountains Suite 727,North Mikeberg,Virginia,96995,Christmas Island,2025-04-19,Budget,Silver,Excellent,186396,True
+CUST_000334,David,Barnes,browndana@example.org,818-843-9055x29580,1997-06-17,M,38241 Scott Harbor,Lake William,Idaho,83771,San Marino,2025-03-18,Premium,Silver,Good,38760,True
+CUST_000335,Shelley,Collins,david79@example.net,797-211-1212,1992-12-27,F,57134 Julie Street,West Brian,Virginia,38128,Christmas Island,2023-07-10,Budget,Platinum,Excellent,61036,True
+CUST_000336,Annette,Gutierrez,joshuagonzalez@example.com,274-817-5955x872,1954-06-30,Other,654 Matthew Parkway,Christopherborough,Kentucky,29108,Lao People's Democratic Republic,2023-06-20,Standard,Platinum,Poor,150160,True
+CUST_000337,Sandra,Holmes,thomasmcdonald@example.com,(796)790-5150x267,1985-07-02,F,54278 Karen Mill,Watkinschester,Washington,52842,Lebanon,2025-03-10,Budget,Gold,Excellent,48451,True
+CUST_000338,Johnny,Brooks,timothy64@example.org,281.466.4969,1976-12-14,Other,839 David Isle Apt. 142,Stephenburgh,New Jersey,00611,Palestinian Territory,2023-02-16,Premium,Silver,Poor,71081,True
+CUST_000339,Nicole,Turner,lopezmichaela@example.com,332-985-0725,1979-04-29,F,376 Mccarthy Track Apt. 625,South Kerri,Maine,88941,Saint Lucia,2025-04-21,Enterprise,Silver,Fair,34821,True
+CUST_000340,Candice,Ferguson,tracy90@example.org,+1-523-455-5809x961,1976-03-07,F,46156 Ronald Haven,Paulfort,Arizona,34713,Zimbabwe,2023-12-14,Premium,Gold,Fair,144104,False
+CUST_000341,Frank,Fleming,marshallchristopher@example.net,001-816-802-5298x6707,1993-04-12,M,4197 Norman Station Suite 851,South Amanda,Missouri,88937,Belgium,2023-02-19,Enterprise,Gold,Good,54529,True
+CUST_000342,Matthew,Villa,james97@example.com,7746017750,1971-07-04,M,84245 Smith Islands Suite 091,Jessicaside,West Virginia,52433,Egypt,2023-03-19,Enterprise,Gold,Good,28692,True
+CUST_000343,Amanda,Martinez,cynthiajordan@example.com,(479)338-9701x550,1968-09-29,F,4660 Stephanie Glens,Port Ritaville,Illinois,75329,Eritrea,2025-09-02,Standard,Silver,Poor,137119,True
+CUST_000344,Christina,Ryan,heatherwilliams@example.net,236.842.4809x6244,1957-09-26,M,244 George Roads Suite 133,Lake Markland,South Carolina,38227,Saint Lucia,2024-10-27,Enterprise,Bronze,Good,61860,False
+CUST_000345,Margaret,Matthews,amber78@example.org,255-357-2773x82646,1984-06-18,F,38544 Hayes Mountain Apt. 299,New Michael,Nevada,54947,Serbia,2022-10-03,Standard,Bronze,Fair,125551,True
+CUST_000346,Teresa,Hawkins,yfritz@example.net,(669)411-6331,1999-03-05,F,653 Lester Harbors Suite 515,Perezfurt,New York,99699,Kyrgyz Republic,2023-07-18,Budget,Gold,Fair,177688,True
+CUST_000347,Sandra,Moore,ricardosmith@example.com,001-372-816-9666x30932,2004-04-01,F,329 Cohen Land Apt. 968,Port Robin,New Jersey,48874,Saint Kitts and Nevis,2025-04-23,Budget,Silver,Excellent,55991,False
+CUST_000348,Gregory,Giles,marcuscarter@example.org,997.373.9732,1995-04-26,F,37100 Camacho Mountains Suite 164,Lake Kimberlyside,Virginia,03610,Kazakhstan,2024-02-16,Standard,Platinum,Fair,55779,True
+CUST_000349,Jessica,Carter,uclayton@example.org,(768)876-1124x912,1986-01-17,F,73415 Stephen Station,Goodwinview,Michigan,39205,Portugal,2024-01-08,Standard,Silver,Good,150352,True
+CUST_000350,Kristin,Lyons,brooke22@example.net,603-459-5442x9477,1991-07-17,F,94643 Melissa Prairie,Eddietown,Kentucky,48232,Saint Helena,2024-03-18,Budget,Platinum,Poor,165907,True
+CUST_000351,Monica,Black,kmontgomery@example.com,+1-929-885-8567x2872,1945-08-01,M,3433 Joshua Tunnel,Lake Jamesfort,New Jersey,75134,United States Minor Outlying Islands,2024-08-07,Premium,Platinum,Fair,45474,True
+CUST_000352,Alexander,Francis,judithcox@example.org,(515)581-4888x1079,1960-10-26,M,337 Billy Rest,Andrealand,West Virginia,25406,Saint Martin,2025-03-06,Standard,Silver,Good,111014,False
+CUST_000353,Bryce,Leach,bruce33@example.net,001-997-571-8051x37171,1950-12-24,M,749 Bonnie Wall,Lake Oliviaborough,Pennsylvania,83722,Nicaragua,2024-12-14,Standard,Platinum,Excellent,158791,False
+CUST_000354,Victoria,King,fguzman@example.net,(558)778-4448,1962-01-11,M,712 Smith Pass Suite 722,Port Ryanport,Connecticut,58591,Guam,2024-08-07,Enterprise,Silver,Poor,144746,True
+CUST_000355,Amanda,White,hinesjason@example.net,858-471-4939x2523,1998-05-20,Other,8796 Perez Greens,Michaelport,Mississippi,19504,Gambia,2023-09-08,Enterprise,Gold,Excellent,128795,True
+CUST_000356,Michael,Mcgee,kparker@example.com,001-660-760-6527x40334,1946-03-06,M,5883 Christina Mill Suite 113,West Jennifer,Washington,78218,Latvia,2025-07-17,Standard,Bronze,Excellent,136069,True
+CUST_000357,Stacey,Harrington,twatts@example.com,649.796.0105,1972-04-15,Other,72156 Morgan Radial Suite 938,South Johnshire,Ohio,87099,Eritrea,2024-05-10,Premium,Bronze,Excellent,148750,True
+CUST_000358,Lisa,Norris,kelseyjones@example.net,001-555-673-2573x755,1960-10-09,F,16667 Marie Circle,Allenchester,Arizona,66589,Tunisia,2025-01-29,Enterprise,Silver,Good,193171,False
+CUST_000359,Kristy,Vasquez,cynthia19@example.org,+1-518-328-1979,1993-01-05,F,7725 Hunter Ports Suite 786,South Autumntown,South Carolina,51612,Andorra,2022-09-17,Enterprise,Platinum,Poor,123473,True
+CUST_000360,Marcus,Hernandez,breannasaunders@example.net,239.259.2323x421,1993-10-16,Other,55333 Martin Groves Apt. 350,South David,Missouri,03833,Kenya,2025-04-15,Standard,Gold,Excellent,71785,False
+CUST_000361,Melissa,Clark,griffinraymond@example.org,001-769-711-2898x12317,1970-11-03,Other,85748 Sierra Brook,South Lindafurt,Connecticut,46989,Guyana,2025-07-10,Standard,Silver,Excellent,30959,True
+CUST_000362,Mary,Hamilton,jerome16@example.com,4454023290,1953-07-09,F,09345 Morrow Manor Apt. 282,West Natasha,Delaware,21783,Antarctica (the territory South of 60 deg S),2024-03-06,Enterprise,Platinum,Good,89883,False
+CUST_000363,Kevin,Garrett,christy00@example.com,4704260869,1950-12-29,F,16117 Lucero Walks Suite 290,Thomasview,Florida,42821,Palestinian Territory,2024-04-21,Standard,Gold,Good,54581,True
+CUST_000364,Summer,Barnett,woodskaitlyn@example.net,823.682.2311,2000-07-23,Other,34245 Barnett Pike,Kathleenberg,Massachusetts,55816,Holy See (Vatican City State),2024-09-01,Enterprise,Bronze,Good,79023,True
+CUST_000365,Beth,Michael,adkinslauren@example.net,7322020326,1980-09-22,M,3967 Shawn Greens Suite 148,Matthewburgh,Kentucky,45194,Sri Lanka,2025-04-20,Premium,Platinum,Excellent,89155,True
+CUST_000366,Kelsey,Bryant,barnettmatthew@example.net,615-460-8213x711,1999-09-14,F,6818 Raymond Pass Apt. 230,Lake Julie,North Dakota,79266,Slovakia (Slovak Republic),2023-02-21,Enterprise,Silver,Good,39796,True
+CUST_000367,Michelle,Warren,amber82@example.com,(512)693-2896,1947-10-08,Other,6867 Morris Stravenue Suite 014,Jasonland,Arkansas,99482,Isle of Man,2023-02-08,Budget,Silver,Fair,176381,True
+CUST_000368,Timothy,Martin,petermoore@example.com,(593)935-1342x6192,1953-08-28,M,0184 Kelsey Rapid Suite 374,New Juliamouth,Georgia,09728,Turkmenistan,2025-08-15,Budget,Silver,Good,133412,True
+CUST_000369,Renee,Peterson,stefanie06@example.com,376-392-7438,2007-07-14,F,76601 Kirby Street Suite 485,Estradaview,Minnesota,11392,American Samoa,2022-12-27,Premium,Silver,Poor,170712,False
+CUST_000370,Linda,Sanchez,bwalker@example.net,317-389-9698x609,1980-12-13,M,59966 Michael Turnpike,Phelpsshire,North Dakota,05386,Wallis and Futuna,2023-11-18,Budget,Platinum,Fair,134137,False
+CUST_000371,Linda,Garner,bcaldwell@example.org,001-620-751-4607,1996-03-29,M,3470 Ellis Roads Suite 238,Joystad,Wyoming,23052,Tanzania,2024-03-08,Budget,Platinum,Good,166014,False
+CUST_000372,Christopher,Bell,leslietorres@example.net,965-797-2634,1965-12-01,M,2250 James Inlet Suite 882,Montgomeryland,Illinois,12738,Bermuda,2024-10-26,Standard,Gold,Good,146379,True
+CUST_000373,Robin,Alvarado,dustin58@example.com,(426)614-9915x3703,1946-05-07,Other,333 Wong Forge,North Kenneth,Alaska,80745,Liberia,2025-03-14,Enterprise,Platinum,Good,126821,True
+CUST_000374,Robert,Arnold,robertabbott@example.net,(396)445-4655x3585,1964-12-13,F,921 Nichols Cove,Lake Michael,Vermont,85037,Micronesia,2025-02-23,Standard,Gold,Excellent,142908,True
+CUST_000375,Jeffrey,Adams,stevenssamuel@example.net,(612)608-7805x72151,2004-05-14,M,976 Valerie Forge,Collinsport,Michigan,30983,Montenegro,2025-01-30,Standard,Bronze,Fair,123872,True
+CUST_000376,William,Russell,michelle90@example.net,001-459-211-9186x23392,1985-08-06,M,151 Sophia Ports Suite 667,Port Matthew,Connecticut,41290,Guinea,2023-03-21,Standard,Silver,Poor,79759,True
+CUST_000377,Russell,King,lopezrichard@example.org,(715)371-8409x080,1955-04-21,F,56409 Villarreal Extensions,Lake Christine,Idaho,70652,Cuba,2025-08-12,Premium,Silver,Good,55753,False
+CUST_000378,Collin,Vega,carolberry@example.com,001-328-727-0908x144,1987-09-19,M,73929 Pace Shoals,Bowersville,Texas,73175,Bahrain,2023-09-13,Standard,Platinum,Good,169724,True
+CUST_000379,Michael,Allen,zlopez@example.org,(807)591-8158x998,1962-06-27,F,3466 Bennett Overpass,South Damonside,New Mexico,80410,Iceland,2023-08-09,Enterprise,Platinum,Fair,105851,True
+CUST_000380,Victoria,Townsend,rosebobby@example.org,799-282-5080x0463,1996-07-31,F,882 Maldonado Cape Apt. 172,Lake Luke,Virginia,27188,Lithuania,2023-04-22,Enterprise,Platinum,Excellent,148074,True
+CUST_000381,Danielle,Smith,sharris@example.org,503-652-6356x0229,2000-03-31,M,943 Ortiz Branch Suite 664,Port Kimberly,Kentucky,79161,Algeria,2024-07-25,Budget,Gold,Poor,36984,True
+CUST_000382,Randall,Dominguez,sanderson@example.org,411-627-1285,2004-11-13,Other,8449 Rodriguez Crest Suite 318,Gonzalezhaven,Arizona,61968,Lesotho,2023-01-05,Standard,Bronze,Fair,170047,False
+CUST_000383,Jeremy,Whitaker,christophersteele@example.org,569.557.2790,1990-05-10,F,025 Weeks Keys,Gonzalezton,Montana,50312,Cape Verde,2025-07-11,Standard,Silver,Fair,85298,False
+CUST_000384,William,Perez,matthewgriffith@example.org,313.398.4822x850,1970-07-06,Other,255 Douglas Cove,North Patrick,Oregon,08157,Suriname,2023-11-06,Standard,Platinum,Fair,92456,False
+CUST_000385,Ashley,Vincent,elliottcharles@example.net,996.449.6737x9457,1973-04-20,Other,24264 Micheal Brooks Suite 420,Jenkinsside,Iowa,53222,Brunei Darussalam,2025-03-16,Enterprise,Platinum,Good,117320,True
+CUST_000386,Michael,Mcmahon,dstephenson@example.net,576.575.5562x833,1980-06-29,M,8654 Philip Mountains Apt. 874,Williamsborough,Michigan,72812,Tuvalu,2023-02-26,Enterprise,Silver,Excellent,162348,True
+CUST_000387,Patrick,Holmes,sherryjohnson@example.org,(592)449-2693x2657,1992-09-23,M,9980 Kristin Corner Apt. 005,West Sarahstad,Illinois,97964,Canada,2025-07-23,Premium,Bronze,Poor,61042,True
+CUST_000388,Kyle,Jones,brandy77@example.com,001-824-441-8222x618,1980-01-26,M,431 Regina Court Apt. 267,Woodstown,Pennsylvania,90694,Svalbard & Jan Mayen Islands,2023-10-10,Standard,Bronze,Good,157574,False
+CUST_000389,Scott,Armstrong,fshannon@example.net,001-655-815-1229,2002-06-10,F,354 Michael Union,Smithshire,Nebraska,22660,Haiti,2025-03-28,Premium,Platinum,Poor,29123,True
+CUST_000390,James,Ramirez,burnsrebecca@example.org,+1-234-447-6504x7158,1999-08-16,Other,904 Gonzalez Mountains,Priceview,Vermont,49671,Grenada,2023-10-15,Enterprise,Bronze,Excellent,163783,True
+CUST_000391,William,Chaney,vrussell@example.org,(348)237-4417x158,1995-10-06,Other,12512 Kimberly Way,North Jennifermouth,South Carolina,09726,Cape Verde,2024-06-07,Budget,Bronze,Poor,71993,True
+CUST_000392,Tammy,Costa,kristi19@example.org,5235121106,1947-11-02,M,5837 Jeanette Park,South Keith,Utah,78070,Tonga,2025-04-08,Standard,Silver,Good,187471,True
+CUST_000393,Scott,Romero,thompsonjames@example.org,+1-493-811-3253,1984-09-16,F,684 Ronald Views Suite 380,Juanburgh,California,08577,Bahrain,2024-03-02,Budget,Platinum,Excellent,122793,False
+CUST_000394,Raven,Brown,wmiller@example.net,701.959.5919x457,1968-01-09,F,5833 Brad Knoll Suite 775,Fordmouth,New Hampshire,20513,Cambodia,2024-11-24,Standard,Silver,Fair,46133,True
+CUST_000395,Paul,Herring,kristinajames@example.net,(565)306-2292,1945-09-20,M,45307 Moore Village Suite 337,Reynoldsburgh,New York,87767,Bahamas,2023-09-30,Enterprise,Platinum,Poor,169887,False
+CUST_000396,Daniel,Benton,jfranklin@example.org,473.667.0425x49691,1966-03-05,M,259 Brown Mission Suite 633,Haleymouth,South Dakota,62915,Solomon Islands,2023-07-12,Premium,Silver,Excellent,156034,False
+CUST_000397,Matthew,Leon,rachelsheppard@example.net,001-239-793-3797,1976-11-16,Other,2951 Ford Stream,Carlfurt,Wyoming,25821,Somalia,2024-12-29,Budget,Bronze,Excellent,85231,True
+CUST_000398,Jennifer,Cox,wellsjeffrey@example.org,359-678-2457x59833,1990-11-21,Other,843 Henderson Viaduct,West Joseberg,Maine,03814,Antarctica (the territory South of 60 deg S),2024-08-22,Enterprise,Gold,Excellent,44489,True
+CUST_000399,Kathryn,Miller,jparsons@example.com,+1-968-629-7514x7439,1954-12-13,Other,0105 Wood Island,Piercechester,Tennessee,42953,Indonesia,2023-03-22,Premium,Silver,Fair,29104,True
+CUST_000400,Christie,Hodges,mario90@example.net,4275112218,1950-06-22,Other,5165 Travis Plains Apt. 866,New Mackenzie,Indiana,59286,Cayman Islands,2023-01-12,Standard,Platinum,Excellent,103453,True
+CUST_000401,Rhonda,Green,brianvega@example.org,7377003322,1969-02-05,Other,84706 Billy Radial Apt. 339,Smithland,Pennsylvania,48750,Malawi,2025-05-19,Standard,Platinum,Fair,125622,True
+CUST_000402,Frank,Lewis,hermanjulie@example.com,685-886-2394x535,1952-03-12,Other,0798 Harris Creek Apt. 613,Port Ashley,West Virginia,39640,Syrian Arab Republic,2024-10-02,Premium,Gold,Excellent,50607,False
+CUST_000403,Jason,Watkins,michael03@example.net,738-904-0325x376,2006-09-10,M,7894 Chris Coves,Port Anthonyton,Alabama,36445,Venezuela,2022-09-08,Premium,Gold,Poor,110557,True
+CUST_000404,Sean,Daniel,coltonrichardson@example.net,365.614.6040,1953-08-15,Other,10720 Christopher Freeway Suite 984,Andrewshire,New Mexico,08795,Saint Martin,2024-10-05,Budget,Platinum,Poor,84805,True
+CUST_000405,Jason,Sanders,fjohnson@example.com,262.609.0144x734,2005-05-13,Other,70096 Conner Stravenue,West Michaelstad,New Jersey,62429,Mayotte,2023-03-06,Enterprise,Platinum,Good,178583,False
+CUST_000406,Donna,Watson,malikfowler@example.com,(896)757-5427,2005-04-02,M,425 Brewer Mission,North Matthew,South Dakota,19513,Netherlands Antilles,2023-09-17,Budget,Silver,Excellent,46505,True
+CUST_000407,Cynthia,Garner,tiffanysparks@example.net,(416)518-8081x9048,1987-10-12,M,1558 Mills Viaduct Suite 395,Wattsville,Iowa,84448,Norway,2024-01-18,Enterprise,Silver,Poor,108015,True
+CUST_000408,Mary,Woodard,jenniferbarry@example.net,372-514-3643,1946-03-02,M,1321 Jon Crest,Duffyfurt,Alabama,91965,Nepal,2023-08-03,Premium,Bronze,Fair,141584,True
+CUST_000409,Paul,Clark,eharvey@example.net,+1-390-870-7550x476,1988-01-25,F,706 Sydney Trace Apt. 748,North Johnville,New Jersey,50288,San Marino,2023-09-12,Premium,Silver,Excellent,74123,False
+CUST_000410,Cassandra,Harrison,kyle73@example.net,(810)229-0871x82749,1960-08-21,F,872 Carter Estates,West Carolynchester,Delaware,90522,Cape Verde,2025-08-04,Enterprise,Bronze,Excellent,48493,True
+CUST_000411,Chase,Olson,adamparsons@example.net,(560)942-3597,1995-08-13,Other,22299 Samuel Lakes,Smithhaven,Vermont,48773,North Macedonia,2024-04-25,Premium,Gold,Poor,28235,True
+CUST_000412,Robert,Johnson,bgrant@example.org,314-257-6832,1954-11-22,F,378 Grant Neck,Port Dianashire,Nebraska,15685,Monaco,2022-10-21,Enterprise,Bronze,Good,174935,True
+CUST_000413,James,Evans,dsmith@example.net,7185498042,1998-11-26,Other,77731 Paul Roads,East Elizabethhaven,Georgia,09413,Lesotho,2024-03-23,Enterprise,Silver,Good,95495,True
+CUST_000414,Vanessa,Knight,courtneygutierrez@example.net,(834)960-6056x035,1982-11-22,F,279 Lucas Throughway,East Carol,Maine,65661,Sierra Leone,2022-11-29,Enterprise,Silver,Excellent,68832,False
+CUST_000415,Carol,Butler,bushkimberly@example.net,7546647548,1998-07-29,F,769 Taylor Course Suite 588,West Crystalview,Maine,78414,Malaysia,2023-05-15,Enterprise,Gold,Poor,45164,True
+CUST_000416,Sara,Nguyen,ashleebailey@example.com,458.664.4963,1956-08-27,F,885 Lauren Prairie Apt. 143,New Kristy,Michigan,24497,Tuvalu,2024-08-17,Standard,Platinum,Good,145025,True
+CUST_000417,Tyler,Sanchez,klove@example.com,+1-852-249-1416,1948-11-17,M,7894 Gonzalez Center Suite 791,Kimmouth,Delaware,18815,Cocos (Keeling) Islands,2023-01-20,Budget,Bronze,Poor,112088,False
+CUST_000418,Kathleen,Gamble,boonejoshua@example.net,+1-242-316-3090,1965-12-15,F,6333 Reilly Knoll Apt. 208,Kathrynburgh,Missouri,27127,Mauritius,2024-07-14,Enterprise,Gold,Poor,195665,True
+CUST_000419,Stephanie,Davis,lisa11@example.org,(833)979-2234x10346,1958-02-17,F,67726 Johnson Track,Jamiefort,Nevada,69174,Guam,2023-08-26,Budget,Silver,Poor,107361,True
+CUST_000420,Victor,Gilbert,xobrien@example.org,001-519-662-6335x564,2001-04-15,F,709 Debbie Circles Suite 069,Michaeltown,New York,57686,Saint Kitts and Nevis,2024-01-09,Budget,Gold,Poor,175963,True
+CUST_000421,Roger,Kim,jeremy54@example.com,(823)798-9830,1947-09-16,F,21980 Miller Glens,Hernandezberg,Nevada,37006,Trinidad and Tobago,2025-06-07,Enterprise,Gold,Poor,120686,True
+CUST_000422,Jeremy,Collins,hallchristopher@example.org,001-524-387-6230,1948-12-06,Other,2817 Cummings Drives,East Kristin,Massachusetts,23018,Seychelles,2023-07-03,Standard,Silver,Excellent,146011,True
+CUST_000423,Lisa,Mason,longgary@example.com,(923)495-9473,1989-06-05,F,90162 Justin Pines,Byrdfurt,Oklahoma,71472,Saint Kitts and Nevis,2023-11-24,Budget,Bronze,Poor,155889,True
+CUST_000424,Alicia,Hayden,kristin96@example.com,862.887.2031x95419,1968-05-15,Other,57303 Hampton Terrace Apt. 792,Randyberg,Alaska,30263,United Kingdom,2024-01-02,Budget,Silver,Fair,197664,True
+CUST_000425,Tommy,Owens,nwatson@example.com,(760)932-1450,2001-12-23,Other,94588 Williams Ways Suite 155,West Sandra,Hawaii,01950,Bolivia,2023-02-14,Enterprise,Platinum,Excellent,142720,False
+CUST_000426,Jennifer,Nelson,hickscrystal@example.com,6767597595,1947-11-23,Other,7680 Yolanda Drives,Riveramouth,Washington,95206,North Macedonia,2023-06-27,Enterprise,Platinum,Excellent,119248,True
+CUST_000427,Douglas,Herman,jensenjoshua@example.org,8044023693,1971-08-01,M,01204 Buchanan Forges Suite 271,Lake Stevemouth,South Carolina,95911,Holy See (Vatican City State),2025-03-28,Standard,Gold,Good,194607,True
+CUST_000428,Stephanie,Scott,crystal58@example.org,+1-998-849-3306x74584,1947-12-02,Other,1283 Nicole Gateway Suite 218,Robertfurt,Nebraska,74762,Greenland,2023-08-01,Enterprise,Gold,Poor,52772,True
+CUST_000429,John,Dean,hamptonsara@example.org,(866)526-7055x14377,1970-03-22,M,3925 Carly Ramp,Castanedaville,Colorado,11289,South Africa,2024-11-24,Budget,Silver,Good,141858,True
+CUST_000430,Edward,Patterson,michaellaura@example.net,+1-220-407-2024x5591,2000-12-08,F,09109 Lori Fields Apt. 671,Brittneyhaven,California,80813,Finland,2023-02-06,Enterprise,Silver,Fair,31438,False
+CUST_000431,Steven,Phelps,dawngraves@example.org,693.840.6527x7584,1971-01-07,M,5337 Jacqueline Camp,North Brianaville,Georgia,14614,Kiribati,2023-01-24,Budget,Platinum,Excellent,55426,True
+CUST_000432,Jennifer,Campbell,gwendolyn93@example.net,566.718.9437x0526,1948-11-05,F,6277 Bowers Wall,Shannonmouth,West Virginia,93219,Jamaica,2024-08-29,Budget,Gold,Poor,79229,False
+CUST_000433,Susan,Walton,adrianlogan@example.com,(817)252-0238x97432,1993-04-01,F,595 Smith Orchard Apt. 325,Alyssahaven,Pennsylvania,80777,Vanuatu,2024-07-09,Enterprise,Bronze,Poor,143606,True
+CUST_000434,Ryan,Dodson,gibsonjennifer@example.net,587-704-5069x1767,1997-04-11,M,4403 Foster Avenue,North Jeffrey,New Hampshire,31824,Indonesia,2022-09-10,Budget,Bronze,Excellent,30920,True
+CUST_000435,Brandon,Jones,amanda86@example.org,749.407.9388x41368,1979-01-09,Other,61537 Cory Summit,Garyport,Texas,34198,Israel,2023-03-04,Premium,Silver,Good,160264,True
+CUST_000436,Ronald,Daniel,connor44@example.net,001-981-712-1031x421,1952-05-03,Other,179 Floyd Knolls Apt. 526,New Sierra,Washington,02890,United States Minor Outlying Islands,2025-06-05,Standard,Gold,Poor,146124,True
+CUST_000437,Linda,Mcguire,gayfrancis@example.com,(888)337-5056,1995-07-18,F,23979 Theresa Summit Apt. 787,Morrisstad,Illinois,06001,Argentina,2024-01-17,Standard,Silver,Poor,128699,True
+CUST_000438,Adam,Kelly,deborah60@example.com,712.319.8819x277,1984-01-22,Other,534 Carter Walks,North Sheilaberg,Vermont,34354,Suriname,2023-10-29,Standard,Platinum,Poor,126930,True
+CUST_000439,Eric,Morgan,hzavala@example.com,474-346-0045,1999-06-19,Other,1145 Beasley Falls,New Lauren,Iowa,06933,Falkland Islands (Malvinas),2023-08-15,Standard,Silver,Fair,41400,True
+CUST_000440,Kathleen,Fischer,cainana@example.net,001-684-284-1604x615,1953-04-23,Other,017 Taylor Lake,Weaverview,Hawaii,77945,Wallis and Futuna,2024-05-15,Standard,Gold,Fair,76661,False
+CUST_000441,Laura,Miller,jacobhull@example.net,207-632-2836,1981-01-06,M,8306 Christina Loaf,Port Allison,Minnesota,18354,Iraq,2025-08-10,Budget,Platinum,Fair,181492,False
+CUST_000442,Robert,Lane,john16@example.com,+1-397-501-6934x2929,1953-01-11,Other,30162 Joshua Creek,Lake Jasonville,Vermont,02304,Isle of Man,2023-01-03,Enterprise,Bronze,Fair,117270,False
+CUST_000443,Jamie,Thomas,meltonmark@example.com,(684)873-2365x3377,1947-10-08,Other,7200 Warren Ford,Rodriguezport,Georgia,37652,Fiji,2023-03-21,Standard,Gold,Excellent,60113,True
+CUST_000444,Kayla,Kennedy,willismichael@example.net,573.947.6427,2001-09-08,M,76388 Daniel Stravenue,Alexaville,Louisiana,86784,Maldives,2025-01-31,Standard,Gold,Excellent,72984,True
+CUST_000445,Julie,Smith,allenjustin@example.org,001-789-298-2780x20586,1974-12-28,Other,46449 Courtney Skyway,Codyfort,South Carolina,26226,Tuvalu,2023-06-03,Standard,Platinum,Poor,181349,True
+CUST_000446,Brandon,Rogers,iblake@example.com,936.880.1192x3603,1978-05-22,Other,87233 Nathan Camp,Alexandershire,Nebraska,16266,Fiji,2024-08-12,Enterprise,Platinum,Good,152577,True
+CUST_000447,Pamela,Orozco,petersonjoel@example.org,449-283-0748,2003-01-14,Other,65118 Sandy Harbors Apt. 655,Hawkinsburgh,Alaska,97350,Bhutan,2025-08-17,Standard,Platinum,Fair,61777,True
+CUST_000448,Ashley,Contreras,georgemoore@example.net,9235332470,1983-08-30,F,35462 Martha Estate,Grayburgh,Mississippi,05105,Martinique,2023-03-18,Enterprise,Bronze,Fair,27512,False
+CUST_000449,Megan,Fisher,duranjason@example.org,(516)932-4888x99572,1971-06-15,M,5493 James Hill Suite 871,Port Heatherton,Iowa,97101,Reunion,2024-04-14,Standard,Platinum,Poor,132252,False
+CUST_000450,Mercedes,Castro,lblankenship@example.net,001-320-582-8323x0898,1978-08-23,F,8814 Rivera Dale,North Ronald,Indiana,18813,Spain,2025-01-20,Enterprise,Platinum,Good,46671,True
+CUST_000451,Holly,Davis,colleenjones@example.net,+1-281-357-2450x0000,1965-01-01,M,37178 Brown Roads,Lake Edwardstad,Massachusetts,50183,Peru,2023-01-12,Budget,Bronze,Fair,83941,True
+CUST_000452,Robin,Brewer,jose18@example.org,+1-298-774-7812x248,1968-08-04,M,670 Carol Alley,Ninafurt,Minnesota,83950,Guam,2022-12-14,Enterprise,Platinum,Excellent,175133,True
+CUST_000453,Jennifer,Hill,richardhart@example.org,(224)983-5505x42960,1948-01-11,F,69987 Buchanan Brook,East Caleb,Louisiana,06659,Vanuatu,2023-01-20,Budget,Bronze,Poor,168223,True
+CUST_000454,Peter,Davenport,zamorarose@example.net,5448287738,1989-12-06,F,164 Eric Circles,Lake Ricardo,Utah,39187,Saint Kitts and Nevis,2023-03-14,Premium,Silver,Fair,33449,False
+CUST_000455,Ashley,Caldwell,rickey20@example.org,(825)486-3144x17064,1967-01-12,F,0263 Morgan Springs Apt. 430,South Nicholaschester,Louisiana,38590,Malaysia,2024-05-30,Budget,Bronze,Poor,55772,True
+CUST_000456,Lisa,Wagner,ingramjessica@example.com,288.782.4527,1947-01-19,M,3333 Lee Pine,Brendaville,Montana,95980,Cyprus,2025-02-08,Budget,Platinum,Good,186520,True
+CUST_000457,Linda,Davis,ufox@example.org,+1-509-433-9137,1970-03-14,M,06011 Chang Islands Suite 178,Maxwellhaven,Alabama,01899,United States Minor Outlying Islands,2023-03-29,Standard,Bronze,Fair,164534,True
+CUST_000458,Lori,Osborn,willismatthew@example.com,982-998-0365,1961-04-24,Other,160 Peter Ridge Suite 201,Cassandraville,North Dakota,84293,Sierra Leone,2024-05-30,Standard,Gold,Fair,100846,True
+CUST_000459,Daniel,Carter,randywoods@example.org,001-426-332-2399,1959-10-25,Other,5611 Peck Square Suite 288,Shepardton,Mississippi,83139,Angola,2025-01-07,Premium,Silver,Poor,40541,True
+CUST_000460,Matthew,Vasquez,ypatterson@example.net,2815126003,1967-06-14,Other,106 Gail Cliffs Suite 312,West Priscilla,Minnesota,07323,Svalbard & Jan Mayen Islands,2023-12-23,Standard,Silver,Good,63336,True
+CUST_000461,Andrea,Graham,washingtonmelanie@example.com,001-982-593-8440x13480,1966-04-09,M,8826 Jason Rue,Christinaville,Arkansas,13932,Papua New Guinea,2023-10-19,Enterprise,Platinum,Good,176368,True
+CUST_000462,Hayley,Smith,romerovictoria@example.net,001-814-849-2074x926,1999-06-21,Other,997 Pamela Hill Apt. 859,Walshshire,Kansas,19759,Greenland,2024-05-19,Enterprise,Platinum,Poor,44796,True
+CUST_000463,Kelly,Barton,ashley32@example.org,223-842-6698,1983-11-20,F,726 Stephen Mall,Lake Scottborough,Maryland,74118,Western Sahara,2025-09-02,Budget,Gold,Poor,152937,True
+CUST_000464,Jeremy,Lawson,elizabeth95@example.net,382.480.4056,2001-07-11,Other,0826 Stephens Drive Suite 418,Berrystad,Nebraska,83122,Barbados,2025-06-16,Premium,Bronze,Poor,191419,True
+CUST_000465,Jay,Hoffman,rgarcia@example.org,001-638-659-5143x46823,1984-02-16,M,27300 Burke Loaf,North Darrylfurt,North Carolina,26985,Belarus,2022-12-06,Enterprise,Silver,Poor,80535,False
+CUST_000466,James,Salazar,williamscarl@example.net,9948149150,1993-06-04,F,762 Jessica Forges,Josephfort,New Hampshire,58525,Netherlands Antilles,2023-07-13,Budget,Gold,Fair,168474,True
+CUST_000467,Francis,Klein,umcclure@example.com,001-362-692-5081x77602,1946-02-13,Other,33373 Sharon Island Suite 235,Rodriguezside,Colorado,61351,Algeria,2023-04-20,Enterprise,Gold,Excellent,37043,True
+CUST_000468,Wendy,Velez,millerfrank@example.com,736-838-5277,1952-04-29,Other,1844 Watkins Stream,Port Beth,Arkansas,18962,Tonga,2023-11-15,Enterprise,Bronze,Excellent,66414,False
+CUST_000469,William,Dudley,reynoldsjustin@example.org,473.941.6781,1991-05-13,F,822 Alexis Estates Apt. 798,North Courtney,Kentucky,68583,Venezuela,2025-08-10,Premium,Platinum,Good,59580,True
+CUST_000470,George,Payne,rmueller@example.net,236.738.3182x856,1959-02-09,M,079 Powell Crest Suite 706,Youngfurt,North Dakota,19708,Tokelau,2025-01-23,Budget,Bronze,Fair,90638,True
+CUST_000471,Michael,Smith,christopherpittman@example.org,955.321.6505,1987-12-14,F,218 Charles Ports Apt. 596,Fischerton,Oklahoma,77916,Martinique,2025-01-01,Standard,Bronze,Poor,188998,True
+CUST_000472,Joseph,Jordan,krista02@example.org,6504938694,1963-06-21,Other,988 Deborah Haven Suite 788,Riverston,Vermont,86331,Kazakhstan,2022-12-17,Standard,Platinum,Excellent,49951,True
+CUST_000473,Sandra,Young,ewest@example.org,+1-320-997-4619,1975-11-12,M,8299 Wagner Stravenue Apt. 258,South Virginia,Arizona,84820,Martinique,2023-08-22,Enterprise,Bronze,Good,180629,True
+CUST_000474,Alice,Ross,faithsparks@example.com,2402566957,1987-01-31,Other,8255 King Pine,Murrayfurt,Illinois,18897,Guinea,2025-03-01,Enterprise,Bronze,Excellent,115065,True
+CUST_000475,Cheryl,Lopez,cynthiaanderson@example.net,001-394-763-3891x5624,1956-06-10,F,725 Jackson Ports Apt. 693,West Alyssa,Utah,49004,Bosnia and Herzegovina,2023-05-11,Standard,Platinum,Excellent,85017,False
+CUST_000476,Victoria,Wagner,bwood@example.net,284.568.5095x7443,1964-01-02,M,891 Robin Rapid,Martinborough,North Dakota,92865,Grenada,2024-06-06,Premium,Bronze,Fair,121354,True
+CUST_000477,Joseph,Johnson,jason41@example.com,971-355-3132x5936,1959-09-09,M,5009 Cisneros Drive Apt. 410,Gregoryfurt,South Carolina,69865,Yemen,2025-09-05,Enterprise,Silver,Good,42933,True
+CUST_000478,Heather,Mills,jacobsmary@example.com,8454238885,2000-10-07,Other,660 Shields Prairie Suite 787,Kennethburgh,Florida,65081,Romania,2023-09-13,Standard,Platinum,Fair,80851,True
+CUST_000479,Matthew,Yang,amber59@example.com,(759)242-8249x116,1953-04-06,F,02453 Charles Freeway,Lake Natalie,Delaware,43227,Trinidad and Tobago,2023-08-21,Enterprise,Silver,Excellent,51336,True
+CUST_000480,Jared,Nguyen,njohnson@example.net,+1-968-421-4448x8966,1976-02-28,M,7746 Julie Curve,Meghanburgh,Mississippi,38238,Cote d'Ivoire,2025-07-14,Enterprise,Gold,Poor,107445,True
+CUST_000481,Chad,Robinson,jasminemorton@example.org,001-823-212-3920x4910,2000-06-20,M,4723 Cooper Place,Port Thomas,North Dakota,93059,Benin,2024-09-06,Budget,Bronze,Good,170069,True
+CUST_000482,Gregory,White,timothy54@example.net,(384)972-6290x529,1968-10-11,Other,160 Jennifer Crest,Thompsonmouth,Utah,28690,Congo,2024-01-06,Premium,Gold,Good,160724,True
+CUST_000483,Jennifer,Robinson,suehowe@example.com,(322)899-9362,1995-01-18,Other,438 Joel Expressway,Denisebury,Oregon,71301,Costa Rica,2023-08-24,Enterprise,Gold,Excellent,87741,False
+CUST_000484,Sheila,Adams,burnsdeanna@example.net,001-973-326-4309x5449,1956-01-21,F,970 Ashley Mill Apt. 205,Lake Rachel,New Jersey,69575,United States Minor Outlying Islands,2024-03-06,Premium,Silver,Poor,192269,True
+CUST_000485,Daniel,Henry,devon88@example.org,(520)412-5608,1947-01-22,Other,8797 Bailey Fords,Elizabethstad,Idaho,31538,Northern Mariana Islands,2024-04-16,Premium,Gold,Fair,59598,False
+CUST_000486,Sandra,Lindsey,harrisjoshua@example.com,761.499.5171,2004-10-16,Other,29295 Christopher Flat,Ramirezhaven,Illinois,07931,New Zealand,2025-02-26,Enterprise,Gold,Good,148473,True
+CUST_000487,Rhonda,Ray,rmiller@example.net,919.812.6022x1321,1974-01-29,M,19111 Powell Curve,North David,Washington,04684,Kiribati,2023-02-04,Premium,Bronze,Fair,81555,True
+CUST_000488,Matthew,Newton,mrandolph@example.net,001-930-649-3665x3802,1993-08-12,M,42114 Kristine Springs,Garrettberg,Michigan,01646,Morocco,2024-09-05,Enterprise,Gold,Poor,136037,False
+CUST_000489,Tina,Hernandez,nicholas09@example.org,001-955-261-0399x529,1993-08-06,M,1243 Mcconnell Plaza,Amberfurt,Maryland,17584,Croatia,2025-03-23,Standard,Gold,Excellent,106240,True
+CUST_000490,Jordan,Jones,anthonybranch@example.org,(215)992-7387x40299,1989-12-21,Other,6906 David Wall,Amandaville,Michigan,42370,Eritrea,2025-07-18,Standard,Silver,Fair,127427,True
+CUST_000491,Eric,Johns,walkerjennifer@example.com,9307109567,1971-05-07,F,157 Watson Manors Apt. 347,East Maryview,New Jersey,57410,Afghanistan,2023-01-07,Enterprise,Silver,Excellent,89088,True
+CUST_000492,Angela,Hammond,williamsanthony@example.net,(283)317-6417x26808,1995-11-11,F,1290 Terri Squares Apt. 713,South Shawnbury,Arkansas,61049,Rwanda,2023-05-17,Premium,Platinum,Excellent,106078,True
+CUST_000493,Christopher,Williams,michael84@example.com,736-921-3009x6258,1971-07-09,M,470 David Avenue Suite 339,Mooremouth,Kentucky,57841,Tuvalu,2023-11-13,Premium,Silver,Excellent,67947,False
+CUST_000494,Madeline,Miller,warrenmariah@example.net,300.304.6661x4590,1947-11-15,F,714 Andrew Shoal Suite 938,Port Jenniferview,Oregon,00897,Germany,2023-06-08,Budget,Silver,Fair,58274,True
+CUST_000495,Whitney,Jones,bobbybishop@example.net,5943976987,1957-03-15,Other,166 Garcia Light Apt. 237,Stephaniefort,New Mexico,75345,Ethiopia,2023-06-07,Premium,Bronze,Fair,137544,True
+CUST_000496,Mariah,Gill,vwhite@example.net,499.249.9197x01426,1958-03-11,Other,782 Christopher Centers,Lake Elizabeth,Alaska,83184,Spain,2024-08-31,Premium,Gold,Excellent,155062,False
+CUST_000497,Jordan,Atkinson,younggabrielle@example.net,001-989-289-7211,1990-09-26,Other,801 Shannon Hollow Apt. 217,Alejandrabury,Oregon,58219,Madagascar,2023-10-22,Budget,Bronze,Poor,173605,True
+CUST_000498,Sarah,Ryan,cainjordan@example.org,(375)471-2369x14961,1976-11-14,F,942 Castro Parkways Apt. 769,Beckton,Louisiana,06154,Namibia,2023-10-01,Standard,Gold,Excellent,175447,True
+CUST_000499,Jennifer,Green,tylerrodney@example.com,(307)983-2748x83565,1981-04-16,M,40964 Reyes Gateway Suite 960,Shawnport,Georgia,08989,Kenya,2022-09-20,Premium,Bronze,Excellent,89107,True
+CUST_000500,Ann,Garcia,ernestmahoney@example.net,001-536-248-8208x93486,2000-02-23,F,6728 Guzman Cliff,Johnsonland,Colorado,39809,Barbados,2023-05-01,Budget,Platinum,Good,71913,True
+CUST_000501,Maria,Willis,michaelcampos@example.net,+1-223-661-3376x0523,1964-12-03,Other,5025 Christensen Park,West David,Connecticut,56720,Ghana,2024-08-20,Enterprise,Silver,Fair,90080,False
+CUST_000502,Morgan,Terry,anthony96@example.com,277-218-2498,1999-04-06,Other,214 Scott Loop Apt. 359,South Courtney,Kentucky,72055,Jamaica,2024-07-14,Budget,Gold,Excellent,174824,True
+CUST_000503,Amanda,Ballard,hollyperkins@example.net,+1-687-748-6941x559,1995-04-24,M,19292 Megan Tunnel,Vangbury,Vermont,50503,Tuvalu,2024-10-08,Premium,Silver,Good,160207,True
+CUST_000504,Michael,Jones,hendersonjessica@example.org,+1-688-763-6536x218,1968-02-23,F,7000 Roman Hills,Haroldport,Missouri,49658,Pitcairn Islands,2025-04-13,Premium,Platinum,Fair,106447,True
+CUST_000505,Kristen,Yang,areynolds@example.org,964-620-4565x77580,1993-01-25,M,89062 Melody Land,Laurenfurt,Florida,83539,Colombia,2024-12-30,Enterprise,Bronze,Fair,77604,True
+CUST_000506,Matthew,Roberts,sandersmatthew@example.net,(930)806-2212x242,2005-06-09,Other,746 Kathryn Ridge Apt. 601,East Juanville,Colorado,49326,United States Minor Outlying Islands,2025-08-08,Budget,Silver,Poor,121540,False
+CUST_000507,Wesley,Frye,aholder@example.net,4175986778,1999-10-14,M,957 Sarah Groves,Taylorchester,Kentucky,22011,Northern Mariana Islands,2025-02-13,Standard,Silver,Excellent,132488,True
+CUST_000508,Charles,Cross,brianrice@example.org,001-475-736-5968x0785,2006-08-22,M,2183 Johns Lake,Brandonchester,Kentucky,40543,Palau,2023-10-15,Budget,Bronze,Fair,25383,False
+CUST_000509,Denise,Morgan,mollybruce@example.org,323-927-4897,1972-04-21,Other,34272 James Village Suite 217,Jenniferside,Arkansas,09318,New Caledonia,2025-01-14,Budget,Bronze,Good,163887,True
+CUST_000510,Suzanne,Serrano,mark30@example.com,+1-235-288-2493x534,1998-09-23,F,167 Wagner Passage,Port Ronaldburgh,Louisiana,33806,Equatorial Guinea,2025-06-08,Enterprise,Bronze,Good,98354,True
+CUST_000511,Stephanie,Green,ibrown@example.org,+1-351-279-9378,1985-02-12,M,91287 Sawyer Street Suite 999,Mcneilhaven,North Carolina,20817,Turks and Caicos Islands,2025-05-06,Standard,Platinum,Fair,145182,True
+CUST_000512,Hannah,Brown,timothy27@example.org,472-646-3019x864,1953-01-05,Other,397 Adrienne Freeway,East Theresaside,New York,04444,India,2025-06-12,Premium,Silver,Poor,44616,True
+CUST_000513,Eric,Keith,tonyaholmes@example.net,2984322101,1959-03-06,F,18676 Wilson Burgs,Espinozaville,Alabama,72294,Belize,2025-02-20,Standard,Silver,Fair,93417,True
+CUST_000514,Jaime,Reyes,robertssamantha@example.org,+1-645-831-9807,1994-01-06,F,54695 Austin Flat,South Maryfurt,Idaho,00960,Heard Island and McDonald Islands,2025-02-19,Budget,Gold,Poor,96291,True
+CUST_000515,Joshua,Rivera,ekim@example.com,2068666411,2002-05-27,M,13407 Garcia Ridges Suite 970,West Kendraborough,Nevada,55510,Mexico,2023-04-17,Standard,Silver,Excellent,65739,True
+CUST_000516,Angela,Gray,mmoore@example.com,3839868889,1978-01-08,M,150 Pratt Meadow Apt. 571,Mosleytown,Vermont,78449,Dominica,2023-01-24,Enterprise,Platinum,Fair,131564,True
+CUST_000517,Sherry,Anderson,shawn89@example.net,(460)341-8095,1994-01-28,Other,8517 Bryant Squares Apt. 274,Guzmanland,Connecticut,71517,Peru,2025-01-28,Budget,Silver,Poor,105821,False
+CUST_000518,Deanna,Thomas,franklinbrittany@example.org,(742)622-9758x91704,2002-05-29,F,545 Bass Cape,Ryanhaven,Florida,00879,Tanzania,2024-06-02,Premium,Bronze,Good,104748,True
+CUST_000519,David,Kane,trivas@example.net,9014635640,1957-12-30,M,7282 Clay Turnpike,Adamland,New York,68680,Pakistan,2025-07-10,Budget,Silver,Excellent,90069,True
+CUST_000520,Lisa,White,jennifer31@example.org,(716)285-0710x58011,1983-02-21,F,15261 Julia Forks Suite 092,North Antonio,California,56886,Nauru,2023-08-18,Premium,Gold,Fair,70578,True
+CUST_000521,Alexis,Krueger,rebecca18@example.net,585-843-2987x6989,1966-05-25,F,7161 Tiffany Flats Suite 813,North Jonathanton,Georgia,46611,Singapore,2024-05-15,Enterprise,Silver,Excellent,146121,True
+CUST_000522,Cheryl,Walker,caseystafford@example.org,001-857-248-3526x8064,1991-08-23,M,98344 Amy Fall Suite 364,Hermanside,Arkansas,43865,Grenada,2022-11-05,Premium,Bronze,Excellent,83271,True
+CUST_000523,Lisa,Mcintosh,longshane@example.com,(715)762-3920x908,1951-06-09,M,409 Pamela Courts Apt. 178,Davistown,Georgia,43562,Sri Lanka,2023-07-28,Enterprise,Gold,Excellent,177652,True
+CUST_000524,Sherri,Fleming,mcdanielgregory@example.net,2693535412,1986-09-12,M,5950 Eric Mall,North Luismouth,Indiana,94803,Venezuela,2023-03-27,Premium,Bronze,Good,194341,False
+CUST_000525,Natalie,Levy,scott95@example.org,740.771.7327x980,1985-04-02,M,100 Roberts Springs,West Kendra,Alabama,27143,Portugal,2025-05-18,Premium,Gold,Excellent,36192,False
+CUST_000526,David,Ramirez,sharonjohns@example.com,3895411849,2007-02-01,M,928 Reed Terrace Apt. 595,North Michael,California,04860,Bahamas,2023-11-28,Standard,Platinum,Poor,155056,True
+CUST_000527,Tommy,Shepard,schneiderraymond@example.com,+1-501-986-7740,1976-03-30,F,339 Parker Square,Michelletown,Alabama,51963,Liechtenstein,2024-01-23,Enterprise,Silver,Fair,81286,True
+CUST_000528,Katherine,Bradford,mark32@example.net,(301)973-6542x624,1978-07-13,F,029 Jeffery Forges,Markville,California,02497,Saint Pierre and Miquelon,2025-01-18,Budget,Platinum,Good,34083,True
+CUST_000529,Ashley,Day,ccombs@example.com,408.386.8430,1950-04-03,Other,3290 Kemp Isle Suite 598,Morrisshire,Idaho,11999,Chile,2024-06-19,Budget,Platinum,Poor,169359,False
+CUST_000530,Brittney,Henderson,randallhall@example.org,(420)227-5582x14770,2001-11-05,M,52380 Jaime Squares,North Deborah,Rhode Island,95601,Panama,2023-03-14,Premium,Gold,Poor,60975,False
+CUST_000531,Michael,Lozano,boydrenee@example.net,5597161186,1965-08-15,M,959 Vaughn Mountains,Lake Hannah,Missouri,73378,Maldives,2022-10-26,Standard,Bronze,Poor,119139,False
+CUST_000532,Brent,Riddle,sally78@example.net,+1-631-786-9289x728,2005-04-03,Other,18227 Aaron Fall Apt. 948,Lake Sara,Iowa,18231,Panama,2025-07-10,Enterprise,Gold,Fair,126811,True
+CUST_000533,Brian,Davis,tony43@example.net,(281)416-5993,1991-01-13,M,03042 Melissa Curve,Jimenezberg,Vermont,14032,Ecuador,2023-10-21,Premium,Gold,Good,32681,True
+CUST_000534,James,Roach,wesleybutler@example.org,(346)530-0593x77756,1953-01-01,M,029 Robert Via,South Kennethton,Hawaii,76790,San Marino,2025-07-21,Enterprise,Gold,Good,66844,True
+CUST_000535,Jeffery,Raymond,bakermegan@example.net,+1-341-596-6229,2003-11-01,M,0805 Grant Land Suite 670,Hallfurt,Georgia,11525,Montserrat,2024-03-22,Standard,Gold,Excellent,82517,False
+CUST_000536,Phillip,Ward,bianca44@example.net,8767634933,1945-03-23,F,73226 Ryan Village Apt. 142,Javierchester,Texas,18516,Uruguay,2025-03-04,Standard,Silver,Good,180325,True
+CUST_000537,Matthew,Pena,joseph21@example.net,880.687.9919x62341,1958-08-02,Other,24725 Michael Freeway Apt. 343,Port Hannahland,Colorado,93091,Syrian Arab Republic,2023-10-13,Budget,Bronze,Fair,173806,True
+CUST_000538,Elizabeth,Porter,brooksjennifer@example.com,769.547.5769x453,1972-03-10,Other,6698 Rivers Circles Suite 342,East Matthewstad,Alaska,70688,Qatar,2025-05-30,Standard,Platinum,Fair,71021,False
+CUST_000539,Ashley,Schaefer,william52@example.com,+1-225-959-6647x213,1999-07-03,M,35914 Paul Via Suite 048,East Laura,Hawaii,54955,Svalbard & Jan Mayen Islands,2023-01-13,Premium,Bronze,Good,182722,True
+CUST_000540,Kimberly,Mercado,jenniferbrown@example.net,(337)331-0081x78522,1967-11-22,M,84523 Ochoa Shoals Suite 268,Greenfort,Arkansas,15237,Luxembourg,2023-04-08,Enterprise,Bronze,Fair,185991,True
+CUST_000541,Tammie,Kane,holtrobert@example.com,001-523-977-7296x6563,1944-11-25,M,05278 Angel Land Suite 800,East Timothyburgh,Washington,17281,Bahrain,2023-08-12,Budget,Silver,Fair,40612,True
+CUST_000542,Luis,Bates,davidjohnson@example.com,291.536.8172,1952-05-07,M,552 Thompson Stravenue Apt. 929,Bowersstad,Florida,94759,Holy See (Vatican City State),2025-08-02,Standard,Bronze,Fair,44013,True
+CUST_000543,Michael,Barry,reneehernandez@example.org,+1-573-793-8992x0457,1958-11-22,Other,6185 Terrence Course,New Theresaton,North Carolina,25068,Iceland,2024-07-04,Enterprise,Bronze,Fair,104105,True
+CUST_000544,Kristin,Martinez,mariagonzalez@example.org,507-412-6158,1989-03-03,M,648 Chan Neck Apt. 574,East Jason,Indiana,91052,Cape Verde,2023-02-10,Standard,Platinum,Poor,195178,True
+CUST_000545,Evan,Joseph,walterskaren@example.com,425-789-2225x606,1957-12-25,M,3731 Amanda Groves,Suttonfort,Louisiana,14203,Sweden,2023-05-25,Budget,Silver,Good,124191,True
+CUST_000546,Todd,Stewart,kelsey85@example.org,8135626084,1980-08-26,Other,561 Cross Turnpike Suite 055,Ashleyburgh,South Dakota,86967,Bangladesh,2023-10-16,Budget,Silver,Good,25471,False
+CUST_000547,Ronnie,Le,joneskatie@example.net,956-740-9196x93957,1995-05-23,Other,0204 Ryan Estate,North Cindyfort,Connecticut,18320,Saint Lucia,2024-09-02,Premium,Silver,Fair,185269,True
+CUST_000548,Edward,Jones,ashleywalton@example.com,+1-367-489-7609x873,1971-07-19,Other,19227 Leonard Burgs Suite 598,Wongchester,Minnesota,31595,Tajikistan,2024-08-06,Premium,Platinum,Good,111813,True
+CUST_000549,Jared,Mccoy,james91@example.net,001-465-343-0895x23120,1981-08-11,M,57644 Marsh Haven Suite 000,South Tammy,New Jersey,52358,Gambia,2023-08-12,Budget,Gold,Good,191772,True
+CUST_000550,Elizabeth,Graham,cevans@example.net,241.863.6560x450,1960-01-28,Other,373 Brianna Lights Suite 969,South Scott,Delaware,83730,Mongolia,2024-08-20,Budget,Platinum,Excellent,94523,True
+CUST_000551,Derrick,Dominguez,manuelwilliams@example.com,001-470-925-5128,1970-09-27,M,4315 Hendricks River,Cherylstad,Maine,54757,Palestinian Territory,2023-12-28,Premium,Gold,Fair,53320,True
+CUST_000552,Kenneth,Rivera,nancy43@example.com,001-541-649-1699x939,1962-01-22,M,3946 Smith Trace Apt. 230,Vincentberg,Rhode Island,95259,Lesotho,2024-11-09,Enterprise,Platinum,Poor,68604,False
+CUST_000553,Jeffery,Johnston,cory21@example.org,001-597-620-2170x75485,1984-05-24,F,5792 Benjamin Branch Apt. 449,Charlesfurt,California,19949,Saint Kitts and Nevis,2024-07-08,Enterprise,Gold,Poor,51588,False
+CUST_000554,Ashley,Morrow,phyllisbaxter@example.org,(813)575-6589,1965-07-10,Other,708 Arellano Common Apt. 145,Jaimemouth,Montana,51342,Cyprus,2022-12-09,Standard,Silver,Poor,44322,True
+CUST_000555,Jeffrey,Weaver,brandon34@example.org,662.420.3347,1961-05-22,F,104 Elizabeth Station,Gordonfurt,Ohio,04173,Antigua and Barbuda,2024-05-05,Premium,Gold,Fair,52453,True
+CUST_000556,Rachel,Herring,jennifer29@example.com,(690)521-7741x7430,1997-09-12,F,38502 Lisa Ridge,Robertmouth,Idaho,59280,Sao Tome and Principe,2023-09-12,Standard,Platinum,Good,44661,True
+CUST_000557,Monica,Nielsen,jamesanderson@example.org,+1-230-520-2569x133,1946-01-26,F,6771 Ellen Meadow,Diaztown,New Hampshire,56451,Cambodia,2025-01-05,Enterprise,Bronze,Poor,196346,True
+CUST_000558,Chelsea,Reed,john02@example.com,+1-253-501-2398x4723,1961-10-01,Other,28471 Christopher Stravenue,East Dorothy,Florida,38862,Austria,2025-04-30,Enterprise,Silver,Excellent,51544,True
+CUST_000559,Brian,Olsen,qhendricks@example.net,+1-471-677-5461,1947-11-03,M,838 Moore Springs Suite 258,East Ericton,Pennsylvania,90690,Guam,2023-11-04,Standard,Platinum,Fair,198171,True
+CUST_000560,Katherine,Campbell,robin23@example.com,337.291.2121,1952-03-13,F,035 Aguirre Summit Apt. 170,Carterton,South Dakota,30062,Netherlands Antilles,2023-02-20,Standard,Bronze,Excellent,127996,False
+CUST_000561,Dale,Bonilla,heather29@example.com,001-917-412-2276x4338,1954-12-28,M,2216 Nicholas Islands Suite 963,Lake Jill,Vermont,71224,Svalbard & Jan Mayen Islands,2023-04-10,Premium,Gold,Excellent,137094,True
+CUST_000562,Theresa,Phillips,bwiley@example.com,887.789.9504x70205,1949-03-08,F,77492 Simmons Shoals Apt. 295,Hallburgh,New Hampshire,65775,Lebanon,2023-08-23,Enterprise,Silver,Excellent,31746,True
+CUST_000563,George,Barr,andresmiller@example.com,(681)329-2059x229,1949-03-07,M,02955 Hall Gardens Suite 262,Elizabethburgh,Arizona,57053,Honduras,2022-11-30,Budget,Bronze,Poor,55279,True
+CUST_000564,Elizabeth,Hanson,lucasandrea@example.org,531.438.0049,1948-09-24,F,21215 Dixon Creek,Amandachester,Ohio,55178,Mauritania,2024-03-08,Enterprise,Platinum,Fair,48890,False
+CUST_000565,Richard,English,gallagherdaniel@example.com,988-906-4420x062,1984-11-23,M,58566 Bautista Locks Suite 196,East Kenneth,Idaho,15153,New Zealand,2023-02-09,Budget,Platinum,Fair,73911,False
+CUST_000566,Sarah,Stokes,charleswhite@example.com,001-310-342-9483x147,1974-05-13,M,69999 Johnston Pine Apt. 283,Lake Andreaton,Iowa,57122,Jamaica,2023-12-01,Budget,Platinum,Poor,94048,True
+CUST_000567,Joan,Mcgee,brownmichael@example.org,001-428-653-8631x0505,1960-01-28,F,058 Sara Ville,Lake Kimberly,Wyoming,80646,Bahamas,2022-11-12,Premium,Silver,Excellent,47467,True
+CUST_000568,Raymond,Terry,lynnavila@example.org,928.838.9633,2001-05-23,Other,518 Thompson Motorway,East Ryanport,Wyoming,14743,Afghanistan,2025-08-09,Enterprise,Silver,Excellent,126477,False
+CUST_000569,James,Beck,jamesperez@example.net,(318)983-5279,1965-03-08,Other,7761 Roberto Roads,Margaretburgh,Alabama,83706,United Arab Emirates,2025-06-28,Enterprise,Silver,Poor,103342,True
+CUST_000570,Alexandra,Chase,john19@example.org,597.661.7815x969,1966-09-25,F,02665 Ferguson Track Apt. 959,East Marioborough,Maryland,81338,Madagascar,2024-06-19,Premium,Silver,Excellent,142713,True
+CUST_000571,Patricia,Martin,jeffrey46@example.net,+1-807-842-9907x4729,1981-11-15,M,79967 Anna Plaza Suite 474,Ginashire,Maine,53667,Falkland Islands (Malvinas),2022-11-29,Standard,Silver,Good,36187,False
+CUST_000572,William,Lang,daniel73@example.com,285.636.9881x649,1962-12-16,M,286 Mark Extension,Port Pamton,Hawaii,52729,Burundi,2025-07-27,Enterprise,Silver,Good,180988,True
+CUST_000573,Benjamin,Ross,smithamy@example.com,+1-545-281-3088,1965-06-20,F,883 Green Walk Apt. 856,North Edward,New Hampshire,49070,United States Virgin Islands,2022-09-21,Premium,Bronze,Poor,170847,False
+CUST_000574,Aaron,Williams,jennifer61@example.net,001-695-830-5641x84937,1972-12-17,Other,701 Martin Wells,North Danielborough,Nevada,49307,Tuvalu,2024-09-30,Budget,Gold,Poor,28241,False
+CUST_000575,Brandon,Nelson,kevin42@example.net,+1-206-874-5686x524,1953-08-13,M,55996 Taylor Manors,East Sheila,Idaho,16869,New Caledonia,2022-09-16,Enterprise,Silver,Good,173529,True
+CUST_000576,Joe,Frederick,scott04@example.com,476-348-4559x3965,1998-02-11,M,350 Rivas Dam,Masonstad,Indiana,13821,Chad,2024-10-15,Premium,Gold,Fair,132712,True
+CUST_000577,Michelle,Carlson,figueroapreston@example.net,(811)673-2772,1978-06-17,F,585 Spencer Extension,New Elizabeth,Hawaii,89796,Tajikistan,2023-09-22,Enterprise,Platinum,Excellent,70141,True
+CUST_000578,Jennifer,Edwards,gwilson@example.com,359.617.1050x8054,1972-12-03,F,7353 Barton Hills Suite 841,Wilsonshire,Maryland,92556,Sri Lanka,2025-08-17,Standard,Platinum,Excellent,128754,True
+CUST_000579,Stephen,Green,benjaminhall@example.net,+1-303-531-8361,1959-10-14,Other,0878 Lisa Point,West Laurafort,Ohio,62788,Congo,2022-09-18,Standard,Bronze,Poor,95407,True
+CUST_000580,Margaret,Graham,gabrielle52@example.org,346.753.5378x018,1971-06-14,M,44671 Ramos Lane Apt. 969,West Jeffreyfurt,Florida,77526,Netherlands,2024-05-30,Budget,Gold,Fair,98491,False
+CUST_000581,Pamela,Soto,vgreen@example.org,+1-999-590-0108x985,1981-01-23,Other,521 Amber Lodge,Rebeccaburgh,Tennessee,39142,Iceland,2023-07-08,Premium,Silver,Good,103769,False
+CUST_000582,Sharon,Frank,christine97@example.net,(372)285-7595x828,1955-12-22,F,9789 Lori Hills,Lake Charlene,New Hampshire,11242,Kyrgyz Republic,2022-09-23,Budget,Platinum,Excellent,74266,False
+CUST_000583,Mark,Carpenter,ruth45@example.org,236-572-8681x123,1977-12-17,M,8119 Chelsea Overpass Apt. 459,Port Andrewshire,South Dakota,22380,Syrian Arab Republic,2023-01-01,Enterprise,Platinum,Fair,39734,True
+CUST_000584,Taylor,Williams,dylan66@example.net,235.715.8807,1956-12-24,M,11939 Alex Walks Apt. 974,Lake Michelle,Minnesota,16395,Ecuador,2024-11-08,Budget,Platinum,Good,162438,True
+CUST_000585,Bobby,Brown,margaret18@example.net,504-850-2437,1949-01-28,M,873 Todd Dam Suite 135,Carrollborough,Minnesota,32219,South Georgia and the South Sandwich Islands,2024-07-17,Standard,Silver,Excellent,90402,True
+CUST_000586,Janet,Sims,theresa61@example.com,+1-747-731-5663x9792,1994-06-12,F,64369 Donna Villages,South Todd,New Jersey,04193,Timor-Leste,2023-02-28,Premium,Gold,Good,96821,True
+CUST_000587,Brooke,Barajas,vortiz@example.org,928-716-4416x1019,1984-08-31,F,8464 Theresa Crossing,East Elizabethside,Alabama,18244,Liechtenstein,2025-08-17,Enterprise,Bronze,Excellent,88422,True
+CUST_000588,Alan,Thomas,iclark@example.net,744-547-1893,2003-01-22,F,067 Green Throughway Apt. 922,Sheenahaven,New Jersey,35840,Tunisia,2023-08-24,Enterprise,Silver,Poor,178847,True
+CUST_000589,Susan,Rodriguez,mariahwang@example.net,001-372-871-7430x6881,1997-07-20,F,034 Brittany Trace Apt. 873,Ramosstad,North Carolina,29657,Saint Martin,2023-05-22,Standard,Gold,Excellent,99729,True
+CUST_000590,Richard,Juarez,qsmith@example.org,809.209.1538,1956-06-03,F,2542 Sandra Cliff,Port Molly,Colorado,80613,Antigua and Barbuda,2024-11-09,Premium,Silver,Good,83025,True
+CUST_000591,Michael,Murray,adamsjoshua@example.org,7795419324,1997-08-13,Other,97941 Douglas Harbor,Johnsonside,New Mexico,20295,Samoa,2023-11-09,Standard,Gold,Poor,159553,True
+CUST_000592,Jonathan,Mahoney,lharris@example.com,474-822-4043,1950-12-19,Other,34686 Grace Forge,South Alexanderside,Montana,59306,Puerto Rico,2024-08-23,Premium,Platinum,Good,194704,True
+CUST_000593,Brian,Conrad,johnsonmatthew@example.org,(962)919-5368x9005,1982-10-18,Other,17325 Anthony Mountain,New Steven,Illinois,99150,Slovakia (Slovak Republic),2022-10-15,Premium,Silver,Fair,184473,True
+CUST_000594,Shannon,Martin,harrislisa@example.net,2876167221,1964-08-10,Other,617 Ashley Plaza Apt. 707,Kirkchester,Arkansas,19467,Sweden,2023-05-13,Budget,Platinum,Poor,116412,False
+CUST_000595,Kevin,Vincent,isaiahthomas@example.net,(602)952-3941x2094,1994-12-13,F,69032 May Knoll Suite 132,Ortizmouth,Rhode Island,39836,Saint Helena,2024-05-10,Standard,Platinum,Fair,161482,False
+CUST_000596,Tara,Byrd,stacy59@example.net,(316)402-1191x589,1995-06-05,Other,498 Scott Point Suite 862,South Nicolas,Arkansas,01768,Macao,2024-04-05,Premium,Bronze,Fair,172182,True
+CUST_000597,Larry,Green,samuelsandoval@example.org,001-319-807-4992,1963-08-20,F,9836 Martha Turnpike,Tinaview,Ohio,35761,Malawi,2023-12-31,Premium,Platinum,Excellent,113154,True
+CUST_000598,Shane,Sampson,davidandrews@example.net,(754)762-2021x23720,1944-10-12,Other,00008 Wright Highway,Chavezshire,Delaware,80741,Albania,2022-09-11,Budget,Gold,Fair,196997,True
+CUST_000599,Adriana,Tate,martinezdavid@example.org,5919692327,1991-06-11,M,906 Amber Street Suite 481,Castilloview,Missouri,32606,Armenia,2022-11-02,Standard,Silver,Excellent,182295,False
+CUST_000600,Sandra,Cabrera,gabrielle36@example.org,737-611-8151,1965-06-16,Other,420 Cynthia Valley,North Michaelmouth,Wisconsin,31849,Fiji,2023-12-04,Budget,Silver,Excellent,196809,False
+CUST_000601,Anthony,Morris,justin46@example.com,420.410.8240x281,1985-10-19,F,402 Taylor Pines Suite 817,Haleyberg,New Jersey,30306,Somalia,2025-06-04,Budget,Platinum,Poor,126783,True
+CUST_000602,Dana,Lee,ernest35@example.com,7043129182,1979-04-09,Other,25590 Wade Locks Apt. 007,East Brian,Nevada,54030,Anguilla,2022-11-05,Standard,Gold,Good,165151,False
+CUST_000603,David,Allen,stephenjohnson@example.net,001-723-229-6151x2048,1976-01-17,Other,5344 Swanson Wells Suite 227,Huertaport,Missouri,03797,Botswana,2024-07-20,Budget,Gold,Good,197389,True
+CUST_000604,Mason,Smith,zball@example.net,347.924.3586,2007-08-19,F,51272 Chavez Alley,Boonefurt,Minnesota,92092,Slovenia,2023-11-20,Premium,Platinum,Good,92804,True
+CUST_000605,Elijah,Anderson,huberchristine@example.com,(787)284-9477x12903,1946-12-26,Other,489 Holder Drive,East Lawrence,Louisiana,27957,Gambia,2022-11-05,Budget,Bronze,Good,118135,True
+CUST_000606,Jessica,Koch,hkelley@example.org,456-249-5254,2005-10-15,Other,1119 Schroeder Plains Apt. 827,North Mercedes,Nevada,31106,Gambia,2023-05-12,Budget,Platinum,Fair,122434,True
+CUST_000607,Erica,Mccormick,jenniferrice@example.com,001-368-306-6405,2007-03-30,Other,25434 Leah Ferry,Port Anthony,Virginia,53119,Austria,2023-08-14,Budget,Platinum,Excellent,148348,True
+CUST_000608,Julie,Rice,colonjohn@example.org,386-900-3203,1979-05-20,Other,14003 Ellison Mountains,East Danielfort,West Virginia,13464,Namibia,2025-02-25,Premium,Platinum,Good,156197,True
+CUST_000609,Kathleen,Peters,normandaniel@example.net,001-762-259-0841x94785,1984-04-17,Other,75358 Jasmin Brooks,Livingstonside,North Dakota,89105,Trinidad and Tobago,2025-03-13,Enterprise,Gold,Poor,39172,True
+CUST_000610,Alexandra,Smith,kimberlygeorge@example.org,001-937-416-1608x819,1952-11-11,M,996 Castillo Trail,New Jamesmouth,Iowa,05785,Kiribati,2025-04-27,Standard,Gold,Poor,174265,False
+CUST_000611,Anita,Rodriguez,whitejustin@example.org,+1-885-457-8002x44323,1954-11-28,M,9069 Arnold Vista,Greenfort,Alaska,51479,Spain,2024-01-05,Budget,Silver,Excellent,152816,True
+CUST_000612,Felicia,Jones,sanchezmelissa@example.com,001-921-250-1642x610,1958-05-24,Other,84243 Christine Way Apt. 924,Wesleybury,Alaska,01840,Gabon,2025-06-04,Standard,Gold,Excellent,26235,False
+CUST_000613,Joanna,Burke,cervantesleslie@example.org,8216516758,1970-02-26,F,95348 Clarence Islands,Port Davidview,New York,55631,Eritrea,2024-12-28,Standard,Silver,Good,153339,True
+CUST_000614,Eric,Wagner,hfoley@example.com,438.555.1281x7751,1981-12-31,M,155 Moore Walk Apt. 972,Lake Patrick,Georgia,39250,Solomon Islands,2023-07-25,Enterprise,Platinum,Poor,137466,False
+CUST_000615,Katherine,Kirby,kelsey67@example.com,(205)917-1073,1952-05-27,F,7837 Jay Oval Suite 438,Port Jacobmouth,Maine,10055,Tajikistan,2023-08-04,Premium,Bronze,Good,122806,True
+CUST_000616,Melanie,Thornton,patrickmartin@example.org,846-686-2728x84076,1953-04-05,F,632 Dougherty Wall Apt. 538,Alvarezberg,Minnesota,79634,Brunei Darussalam,2023-05-04,Standard,Bronze,Excellent,189282,True
+CUST_000617,Allison,Bowen,alawson@example.net,001-504-688-6932x055,1945-01-24,M,892 Gonzalez Manor,West Caitlynmouth,Nevada,34235,Singapore,2022-09-17,Budget,Gold,Good,51924,False
+CUST_000618,James,Douglas,robert07@example.net,+1-677-455-4261x903,1997-12-04,Other,62732 Jasmin Extensions Apt. 711,Port Stevenstad,Tennessee,64738,Japan,2024-07-03,Budget,Silver,Excellent,36984,True
+CUST_000619,Tanya,Rodriguez,brianphillips@example.net,+1-551-244-8698,1968-04-19,F,9039 Jacob Falls,Cooleyshire,Oklahoma,02324,Bhutan,2025-09-04,Enterprise,Gold,Poor,60072,True
+CUST_000620,Pamela,Lopez,eadams@example.org,(280)217-7031x63705,1963-01-12,F,26724 Bennett Fork,Port Lindseyburgh,Oregon,37022,Slovenia,2024-01-07,Budget,Silver,Good,130746,True
+CUST_000621,Tiffany,Moon,fernandezsusan@example.org,001-565-540-2599x8519,1952-09-13,M,2812 Lynn Forges,Deniseport,Wyoming,74322,Svalbard & Jan Mayen Islands,2023-12-22,Standard,Silver,Good,30744,True
+CUST_000622,David,Jordan,pchavez@example.com,(672)784-5397,1946-02-28,M,864 Robert Park,Karentown,Hawaii,06346,Mayotte,2022-09-19,Budget,Bronze,Poor,192856,True
+CUST_000623,Jennifer,Garcia,brookemartin@example.org,(443)490-4489x093,1966-08-22,Other,32023 Jones Drives,Rebeccamouth,Minnesota,08283,Brazil,2024-07-16,Premium,Bronze,Excellent,196328,True
+CUST_000624,Jessica,Hays,mark03@example.com,001-588-484-3933,1963-03-30,M,2962 Lisa Burg,Anneside,Tennessee,30711,British Virgin Islands,2023-01-24,Premium,Platinum,Poor,124681,True
+CUST_000625,Tammy,Adams,christopher90@example.com,001-859-565-9992x01237,1949-06-05,Other,9542 Rebecca Lights Apt. 941,South Matthew,Connecticut,77303,Bulgaria,2023-03-25,Budget,Platinum,Good,78869,True
+CUST_000626,Sean,Warner,olsonjesse@example.com,(864)375-2864,2001-03-19,F,096 Shane Trafficway,North Adam,Pennsylvania,21254,Palestinian Territory,2024-11-29,Enterprise,Bronze,Fair,188262,True
+CUST_000627,Amanda,Adams,josephlee@example.net,615-535-5051,1990-01-12,F,91430 Washington Ramp,Littleview,New Jersey,79860,Brunei Darussalam,2023-10-23,Premium,Bronze,Fair,54887,True
+CUST_000628,Joyce,Heath,tarashaw@example.org,001-245-881-9204x877,1975-09-23,F,333 Brianna Point Suite 515,East Matthewside,Texas,38490,Jersey,2023-07-06,Standard,Silver,Fair,162139,True
+CUST_000629,Nicole,Cook,jill83@example.net,+1-625-867-2620,1975-01-25,F,4355 Kristi Lock,New Erik,Idaho,46423,Algeria,2024-12-13,Enterprise,Gold,Good,35329,False
+CUST_000630,Amanda,Gomez,tjackson@example.com,(486)439-4201,1960-03-01,M,49929 Kristin Rest Suite 627,East Roberttown,Kentucky,45418,Sweden,2025-03-15,Enterprise,Gold,Good,25717,True
+CUST_000631,Sydney,Ward,jacobwoods@example.com,+1-400-439-1019x3353,1954-10-15,Other,19360 Robert Brooks Apt. 770,Ricardofurt,Delaware,90296,San Marino,2023-12-10,Premium,Bronze,Poor,64097,True
+CUST_000632,Mary,Wells,zberg@example.com,485.500.9537,1961-10-13,Other,6231 Tonya Flat,Wilsonview,Maine,93896,Bermuda,2025-07-31,Premium,Bronze,Fair,193909,True
+CUST_000633,Kevin,Mcmillan,pricejoshua@example.com,937-827-7685,2001-01-09,F,3494 Cindy Cape,Nicholeland,New Mexico,43465,Togo,2023-09-15,Budget,Gold,Poor,38128,True
+CUST_000634,William,Alexander,hufftroy@example.net,001-532-942-0248,1964-01-26,M,72345 Norman Underpass Apt. 869,Shanetown,Hawaii,47547,Tunisia,2023-07-26,Premium,Gold,Fair,106974,False
+CUST_000635,Amanda,Mcgee,iwilkinson@example.com,+1-690-347-2386,1985-10-24,Other,538 Garrett Island,Harmonview,Idaho,12477,India,2024-11-11,Premium,Bronze,Excellent,27535,True
+CUST_000636,Jimmy,Deleon,conleyantonio@example.org,681.646.0476x1437,1958-01-22,Other,6187 Johns Glens,Sweeneyberg,Utah,51317,Saudi Arabia,2023-05-22,Standard,Gold,Fair,139744,True
+CUST_000637,Angela,Lamb,richardsonkenneth@example.net,985-989-9002,2002-12-05,Other,108 Cook Square,Santosside,Missouri,03179,French Guiana,2025-08-13,Premium,Gold,Fair,72938,True
+CUST_000638,Michael,Mullins,cjohnson@example.org,001-937-546-9833x067,1946-02-02,F,1822 Robert Walks Suite 941,Port Williamhaven,Tennessee,66963,Jersey,2023-09-03,Enterprise,Platinum,Fair,126113,False
+CUST_000639,Wayne,Rivera,hugheskaren@example.net,(434)428-9876x05504,1996-11-16,F,48618 Vega Mills Apt. 663,Port Bruce,California,53220,Serbia,2023-03-05,Standard,Bronze,Good,40373,True
+CUST_000640,Sarah,Lowe,wellssherry@example.net,001-328-491-9827,1971-01-23,M,37170 Short Inlet Suite 269,Ericborough,Virginia,91655,Nauru,2024-04-16,Enterprise,Platinum,Poor,72516,False
+CUST_000641,Stephanie,Young,craigjohn@example.com,490-314-5996x7069,1983-07-21,F,05498 Susan Groves Apt. 884,Port Brian,Georgia,91430,Philippines,2025-02-24,Premium,Silver,Poor,152958,True
+CUST_000642,Charles,Hardy,perrywayne@example.org,(464)331-5890x1649,1965-05-21,F,0170 Robert Hills,South Nicholeborough,Alaska,67764,Norfolk Island,2024-04-21,Enterprise,Bronze,Excellent,93580,True
+CUST_000643,Zachary,Villanueva,gibsonrichard@example.net,(296)282-4485,1973-07-08,M,274 Charles Plains Apt. 691,Garrisonburgh,New Mexico,53735,India,2023-01-31,Standard,Gold,Excellent,138468,True
+CUST_000644,Angela,Moreno,allendavid@example.org,+1-726-934-4435x9624,2001-05-20,F,04242 Lewis Ranch,New Christopherberg,Iowa,60601,Haiti,2023-06-07,Budget,Platinum,Good,171366,True
+CUST_000645,Ian,Blankenship,tsullivan@example.org,796.470.2436,1997-11-20,M,55364 Holly Via Suite 540,Port Ricardo,Vermont,36149,Tajikistan,2025-04-26,Standard,Platinum,Poor,68359,True
+CUST_000646,William,Thomas,morgan97@example.com,585.846.6232,1947-02-09,F,9986 Richards Curve Suite 949,Faulknerburgh,Florida,98607,Australia,2025-07-16,Budget,Silver,Fair,97917,True
+CUST_000647,Jacob,Warren,gabrieljenkins@example.net,(806)466-1799,1956-08-08,Other,9992 Jason Terrace Suite 688,Mckinneymouth,South Carolina,25049,Holy See (Vatican City State),2025-06-08,Standard,Platinum,Poor,86603,True
+CUST_000648,Ryan,Turner,jonathanthompson@example.net,493-815-3983x912,1945-04-22,F,44076 Mary Stream,Port Kevinbury,Arizona,37757,Saint Martin,2025-06-29,Enterprise,Platinum,Excellent,155667,False
+CUST_000649,Chad,Turner,harrislisa@example.com,428-672-0998x65642,2001-12-04,F,208 Jesus Village Apt. 097,Pattersonville,South Carolina,34713,Monaco,2025-05-27,Premium,Platinum,Excellent,51907,False
+CUST_000650,Richard,Sexton,banksmeredith@example.com,+1-820-817-5307,1951-01-07,F,572 Atkinson Avenue Suite 347,Davidburgh,Massachusetts,30062,Barbados,2024-08-27,Premium,Bronze,Excellent,183388,True
+CUST_000651,Timothy,Montgomery,ddavis@example.com,273.421.7503x6192,1988-06-21,Other,387 Jason Canyon,West Jessica,Maine,41200,Falkland Islands (Malvinas),2025-03-23,Standard,Platinum,Fair,120248,True
+CUST_000652,Justin,Lynch,trevor07@example.net,+1-762-335-1076,1993-08-29,M,0851 Neal Shoals,Port Amanda,Minnesota,10784,Ethiopia,2023-09-28,Enterprise,Gold,Poor,197272,True
+CUST_000653,James,Scott,grantmichael@example.org,(558)311-5744x965,2002-10-05,Other,770 Justin Radial,Port Laurie,Virginia,41327,Ghana,2025-05-13,Enterprise,Bronze,Excellent,197729,True
+CUST_000654,David,Hill,vangjohn@example.net,+1-822-418-0396,1993-01-06,M,85886 Fuller Square,Lake Seanside,Alabama,20365,India,2023-08-26,Budget,Gold,Fair,168573,True
+CUST_000655,Cathy,Morgan,bcampbell@example.net,+1-633-635-6230x397,1998-03-27,Other,7089 Riddle Canyon,North Tiffany,Virginia,15899,Netherlands Antilles,2024-10-13,Premium,Bronze,Good,154085,True
+CUST_000656,Christopher,Combs,michelle11@example.org,+1-426-861-1584x85805,1959-11-13,Other,96047 Dwayne Island,New Rebecca,Utah,01419,Lebanon,2024-02-13,Enterprise,Bronze,Fair,185131,True
+CUST_000657,Joseph,Dawson,timothy08@example.net,+1-623-817-1461x99539,1999-11-24,M,6262 Mark Trace Suite 053,East Kaitlynland,West Virginia,70574,Gabon,2022-09-26,Premium,Platinum,Good,144811,True
+CUST_000658,Nathaniel,Hess,ysmith@example.net,(205)406-3066x3605,1990-09-25,Other,640 Alex Forge,New Davidburgh,Arkansas,97596,Dominica,2024-08-08,Budget,Bronze,Poor,37189,True
+CUST_000659,Douglas,Taylor,matthew37@example.com,001-279-253-1926,1983-12-14,F,27574 Scott Groves Apt. 054,Heathermouth,Iowa,67845,Bermuda,2023-01-22,Enterprise,Silver,Poor,26137,True
+CUST_000660,Allen,Hoffman,wbailey@example.net,744.456.6229,1952-06-16,Other,56603 Garcia Manor Apt. 486,South Alexmouth,South Dakota,20720,Saudi Arabia,2023-12-14,Enterprise,Platinum,Good,176664,True
+CUST_000661,Sandra,Smith,michaelgamble@example.com,750.815.3017x31671,1948-02-01,Other,052 Jonathan Club Apt. 395,Scottview,Arkansas,93516,Honduras,2025-08-04,Standard,Bronze,Poor,197365,True
+CUST_000662,Jessica,Diaz,frazierluis@example.com,001-805-871-9189,2005-06-11,Other,693 Rivera Crossing Apt. 359,Bakerside,New Jersey,52403,Mexico,2025-07-20,Enterprise,Platinum,Good,96721,False
+CUST_000663,Nicholas,Harrison,tarachaney@example.net,771.884.3019x2209,1975-06-26,F,29732 Ariana Wall,Robertston,Idaho,73989,Uruguay,2023-02-01,Budget,Platinum,Good,61223,False
+CUST_000664,John,Martin,ddonovan@example.com,+1-792-442-7739x238,1947-08-19,Other,209 John Alley,South Christinabury,Wisconsin,23463,Maldives,2023-07-10,Budget,Gold,Good,77661,True
+CUST_000665,Devon,Nixon,mkeller@example.net,929.707.5515x45260,1972-03-06,Other,83100 Kramer Gardens,Lake Eric,Wyoming,99901,Jersey,2025-08-31,Budget,Gold,Good,195416,True
+CUST_000666,Jenny,Hernandez,trevormcdonald@example.org,216.980.6647,1944-11-26,Other,36059 Jackson Parkway Suite 241,Lake Thomasport,Washington,07532,Bulgaria,2025-05-18,Budget,Bronze,Fair,172398,False
+CUST_000667,Joseph,Leonard,wkennedy@example.com,826.576.2590x62003,1995-05-23,Other,646 Justin Mission Suite 597,North Alexandra,Indiana,77450,Qatar,2024-12-30,Enterprise,Gold,Poor,28347,True
+CUST_000668,Erin,Goodman,megan91@example.com,+1-486-809-9550x493,1993-07-07,M,3223 Barry Courts Apt. 128,Lake Michelleville,Michigan,81230,France,2024-05-16,Enterprise,Silver,Excellent,39838,True
+CUST_000669,Matthew,King,lyonsian@example.com,(922)339-8474x22567,1998-01-23,F,37887 Mark Plains,Carloshaven,Arkansas,50887,Qatar,2022-12-01,Standard,Gold,Fair,63385,True
+CUST_000670,Jessica,Wolfe,barbara56@example.com,699.884.6058x679,1956-10-31,Other,97236 Brent Plains,New Nicolechester,Colorado,50857,Iran,2023-01-31,Budget,Silver,Excellent,119026,False
+CUST_000671,Corey,Morris,jessica86@example.com,678-265-5575x12476,1945-02-12,M,758 Stokes Walks Apt. 405,South Patrickview,Massachusetts,14461,Cape Verde,2023-03-18,Standard,Platinum,Good,158935,True
+CUST_000672,Jonathan,Turner,carrillobrianna@example.com,902-233-8686x0835,1990-09-08,Other,36309 Patrick Grove Apt. 386,East Brandonmouth,Washington,06859,Mauritius,2024-07-09,Premium,Platinum,Poor,134200,True
+CUST_000673,Amanda,Johnson,julie34@example.net,001-909-461-9797,1997-08-25,Other,84135 Lynch Pine Apt. 450,Harrisfurt,Wisconsin,91111,Liechtenstein,2023-08-01,Premium,Bronze,Fair,78238,False
+CUST_000674,William,Terrell,tyrone39@example.com,+1-205-598-0260x29442,2005-10-04,M,925 Bishop Ways Apt. 734,North Jeremy,Oregon,98031,Kazakhstan,2024-09-05,Budget,Silver,Good,102116,False
+CUST_000675,Thomas,Patel,xcox@example.org,+1-741-886-4823x08829,1988-07-21,M,96233 Tasha Meadow Apt. 586,Gabrielchester,New Mexico,38844,Vanuatu,2024-03-26,Premium,Silver,Good,159701,True
+CUST_000676,Corey,Hendrix,hollycruz@example.org,001-431-651-8178,1993-10-04,F,5946 Sarah Drives Apt. 272,Lake Thomas,New Hampshire,82378,Macao,2025-07-10,Premium,Platinum,Fair,170908,True
+CUST_000677,Anthony,Hernandez,jeremyshelton@example.net,6069548708,2006-09-14,M,417 Crawford Island Apt. 981,Port Shaunborough,New Jersey,67896,Bahrain,2023-09-29,Standard,Gold,Excellent,111655,False
+CUST_000678,Calvin,Snyder,grantkevin@example.net,+1-562-268-3848x876,1998-12-11,Other,761 John Locks,East Dannytown,South Dakota,44244,Saint Pierre and Miquelon,2022-12-13,Standard,Bronze,Good,109575,True
+CUST_000679,Natalie,Payne,sarahholland@example.net,961.482.0706x69010,1958-07-06,Other,826 Jeffrey Squares,Stanleymouth,Arizona,32300,Rwanda,2023-08-20,Budget,Platinum,Fair,44105,True
+CUST_000680,Robert,Murphy,yatkins@example.net,335.457.0773,1997-08-06,Other,55505 Lowe Bypass,Davidland,North Dakota,63211,Niger,2024-06-30,Standard,Silver,Excellent,157419,True
+CUST_000681,Natalie,Walker,jennifer44@example.org,458-583-1141x4701,2006-04-14,F,36871 Burton Lock Apt. 097,Williamsonside,Arkansas,19129,Djibouti,2024-08-08,Enterprise,Bronze,Fair,82985,True
+CUST_000682,Kevin,Strickland,michael84@example.com,(779)940-3664x01632,1958-06-17,Other,315 Diaz Squares Apt. 927,North William,Oklahoma,97892,Cote d'Ivoire,2024-10-25,Budget,Gold,Fair,101958,True
+CUST_000683,Derrick,Gallegos,angie42@example.org,624.516.5185,1981-06-02,Other,73446 Fletcher Loaf Apt. 159,Amyland,South Dakota,64340,Ethiopia,2024-11-27,Enterprise,Bronze,Excellent,115703,False
+CUST_000684,Sandra,Lynch,abrown@example.com,3226181698,2000-10-31,M,44760 Roth Ford,Cochranport,Alaska,96962,Brunei Darussalam,2024-06-17,Standard,Bronze,Fair,124974,True
+CUST_000685,Jennifer,Martinez,oroberts@example.org,402.365.0996,1979-10-30,F,6771 Fritz Loop,Cisnerostown,Florida,41585,San Marino,2023-11-13,Budget,Gold,Excellent,160493,True
+CUST_000686,John,Thompson,taylormelinda@example.org,(934)899-8013,1979-07-28,Other,5901 Lin Ridges Apt. 524,Lisaville,Louisiana,39005,Anguilla,2024-07-14,Enterprise,Platinum,Excellent,102708,True
+CUST_000687,Jason,Frank,bryan46@example.com,(742)860-1863x72631,2000-12-25,F,9227 Bennett Greens Apt. 490,East Saraside,Massachusetts,00826,Christmas Island,2024-11-30,Premium,Bronze,Good,166026,True
+CUST_000688,Matthew,Brown,mariecasey@example.com,001-944-586-7228x83904,2004-12-15,Other,5461 Parks Highway,East Michael,Delaware,34673,Qatar,2025-01-11,Premium,Silver,Good,136203,True
+CUST_000689,Stephen,Holmes,jason20@example.com,3955437766,1947-12-13,M,001 Hanna Corner Suite 391,Christopherland,Kentucky,30495,Jersey,2024-02-17,Enterprise,Bronze,Good,31226,False
+CUST_000690,Robert,Welch,tuckeramy@example.net,210.896.8564x257,1985-02-24,Other,69331 Mcmahon Fall,North Richard,Arkansas,24708,Congo,2022-11-06,Budget,Bronze,Excellent,44201,True
+CUST_000691,Susan,Reynolds,tiffany50@example.net,722-341-1420x66701,1960-10-26,M,16633 David Walk,West Benjamin,Massachusetts,30923,Trinidad and Tobago,2025-08-14,Budget,Bronze,Good,92803,False
+CUST_000692,David,Ortega,watsondonald@example.org,590-511-3484,1980-12-18,F,25286 Laura Estate,Lake Carla,Michigan,54466,Philippines,2023-07-15,Enterprise,Platinum,Poor,107943,True
+CUST_000693,David,Torres,zevans@example.com,+1-476-202-4986x634,1990-08-27,F,67734 Thompson Mountains Apt. 561,Haleyfurt,Montana,49119,Suriname,2023-09-07,Premium,Bronze,Excellent,178513,True
+CUST_000694,Melanie,Adams,xhorne@example.org,+1-880-796-6414x7533,1954-09-20,Other,6653 Clark Prairie Suite 298,Julieberg,Maine,27049,Turkey,2025-06-02,Premium,Gold,Excellent,100978,True
+CUST_000695,Kari,Price,kennethmorgan@example.org,(676)838-3543,1979-03-30,Other,90616 Kenneth Mountains Apt. 998,South Colebury,Utah,66049,Belize,2022-12-28,Premium,Gold,Poor,124985,False
+CUST_000696,Penny,Robertson,heatherdavis@example.org,2733726072,1961-12-09,Other,8082 Dennis Ports Apt. 121,Raymondborough,Pennsylvania,39540,Slovenia,2025-01-02,Premium,Platinum,Good,164845,True
+CUST_000697,Randy,Morris,mary92@example.com,001-645-263-3917x299,1958-03-31,M,112 Park Lights Suite 971,Hayestown,Nebraska,89882,Tuvalu,2024-05-03,Enterprise,Gold,Good,103133,True
+CUST_000698,Jeffery,Walker,johnsonstephanie@example.org,(659)201-6399,1992-08-27,M,33443 Lowery Manor,Douglasborough,Utah,36366,Martinique,2025-01-25,Standard,Bronze,Excellent,26318,False
+CUST_000699,Juan,Petersen,christopher01@example.com,393.201.4811x6049,1947-09-07,Other,202 Castaneda Crest Suite 801,East Kellyville,Wyoming,26790,Eritrea,2024-03-11,Premium,Gold,Good,115138,True
+CUST_000700,Julia,Murphy,pamela03@example.com,316.507.9179,2002-09-11,F,15711 Wilson Wells Apt. 194,East Kevinmouth,Texas,01065,Central African Republic,2025-08-06,Standard,Silver,Good,82878,True
+CUST_000701,Abigail,Pratt,robertsdavid@example.net,945.827.1936x785,1963-03-30,M,91381 Samantha Parks Suite 916,Port Beckyport,Hawaii,33203,Norway,2023-02-21,Premium,Silver,Excellent,168878,False
+CUST_000702,Michael,Wiley,mckinneychristopher@example.com,850.669.6261,1995-12-23,Other,52741 Don Lakes Suite 717,Abigailstad,Nevada,51675,Netherlands,2023-07-14,Premium,Gold,Excellent,90716,True
+CUST_000703,Ashley,Herring,tinajohnson@example.org,001-656-475-6355,1998-05-06,M,1726 Anderson Shoal,Richardtown,Kentucky,50672,Tunisia,2022-09-16,Enterprise,Gold,Fair,58610,True
+CUST_000704,Andrew,Williams,michele41@example.org,3682624087,1944-11-25,M,8904 Todd Plain Apt. 076,East Walter,Delaware,16454,Guernsey,2025-04-18,Budget,Bronze,Good,108305,False
+CUST_000705,Donna,Taylor,andreawhite@example.net,(540)784-7528,2007-09-06,F,04108 Chavez Unions Apt. 351,East Michaeltown,Wyoming,41712,Congo,2023-08-23,Budget,Gold,Good,173256,True
+CUST_000706,Kimberly,Ramos,fredday@example.net,(906)541-5780,1946-07-12,F,04194 Sanchez Club,Monicaberg,Wisconsin,67418,Senegal,2025-05-28,Enterprise,Silver,Excellent,107107,True
+CUST_000707,Sarah,Baker,zpeters@example.com,728-902-1889x3063,2006-07-05,M,378 Elizabeth Court,Port Donna,Washington,94705,Kenya,2023-06-09,Enterprise,Gold,Fair,60207,True
+CUST_000708,Samantha,Allen,acarlson@example.com,285-857-5994x08429,1982-08-29,F,045 April Unions Suite 061,South Martinmouth,Kansas,31110,Korea,2024-12-14,Enterprise,Platinum,Fair,105077,False
+CUST_000709,Nathan,English,rossdouglas@example.com,436-781-4980,1958-07-18,Other,437 Gilbert Estates,Phillipsport,New Jersey,65892,Tokelau,2025-05-31,Premium,Silver,Excellent,98561,True
+CUST_000710,Marcus,Walter,schmidtemma@example.org,001-624-323-4800x4172,1990-01-20,Other,69158 Stewart Haven Apt. 627,Smithview,Hawaii,48856,Korea,2022-11-14,Standard,Gold,Excellent,44765,True
+CUST_000711,Wendy,Lewis,christinemorgan@example.net,252-431-5828x6304,1982-10-22,Other,99172 Todd Estate Apt. 204,South Stevenburgh,Delaware,47579,Poland,2023-05-29,Premium,Platinum,Good,34609,True
+CUST_000712,Gregory,Sullivan,thomasmooney@example.org,(732)250-3139x2804,1956-05-03,Other,1901 Dawn Forest,Christinefort,Rhode Island,64361,Belize,2024-06-30,Enterprise,Silver,Fair,127891,True
+CUST_000713,Aaron,Lucas,jeannewong@example.com,762-725-6471,2005-10-13,Other,79923 Justin Tunnel Suite 323,South Debramouth,New Jersey,70555,Seychelles,2022-11-29,Budget,Silver,Poor,156366,True
+CUST_000714,Martin,Roberts,mary70@example.net,994-853-9117,2005-09-29,F,0527 Jones Burg Apt. 815,Kelleychester,Texas,10223,South Georgia and the South Sandwich Islands,2024-11-06,Budget,Bronze,Good,185965,True
+CUST_000715,Brian,Anderson,leonardpeter@example.net,+1-470-467-6353,1957-03-09,Other,85921 Nicholas Roads Suite 856,South Christopher,Maine,20453,New Caledonia,2023-08-15,Standard,Platinum,Good,71961,True
+CUST_000716,Andrew,Johnson,shawnrogers@example.org,001-889-723-1324,1982-06-14,Other,9327 Garcia Shoals Apt. 765,West Paulahaven,Florida,05906,Bhutan,2022-12-24,Enterprise,Gold,Excellent,82362,False
+CUST_000717,Joshua,Harrell,klara@example.net,(764)526-7351x27245,2005-04-22,M,5656 Madden Green,Dixonshire,Nevada,21438,Chad,2023-07-10,Premium,Gold,Fair,86346,True
+CUST_000718,Leah,Roberts,maria04@example.com,+1-325-406-9296x5685,1996-03-30,Other,2767 Carla Fort,Jacquelinemouth,Pennsylvania,28748,Equatorial Guinea,2024-09-27,Standard,Gold,Poor,148122,False
+CUST_000719,Joseph,Taylor,barbaraturner@example.net,(902)923-4778x045,1998-09-26,M,1840 Johnson Forks,North Kelly,Oklahoma,89713,Tajikistan,2025-07-11,Premium,Gold,Excellent,161674,True
+CUST_000720,Traci,Thomas,jamesbrewer@example.org,001-509-845-1676x706,1984-05-20,Other,630 Carlos Dam,North Lorraine,Arkansas,94878,Philippines,2024-03-28,Budget,Silver,Poor,196357,False
+CUST_000721,Wesley,Adams,xmontoya@example.net,433.867.9608,1976-02-09,F,360 Bowman Glen,Pamelaberg,Alaska,74201,Heard Island and McDonald Islands,2025-06-09,Premium,Gold,Poor,83431,False
+CUST_000722,Joshua,Espinoza,wilsonjacob@example.com,+1-851-393-5001x154,1974-08-16,F,038 Justin Route,North Juanview,Kansas,08873,Guernsey,2023-11-26,Budget,Platinum,Poor,183390,True
+CUST_000723,Patricia,Morgan,marthalee@example.net,+1-214-283-7475x5803,1951-03-08,Other,564 Rodriguez Ville Suite 840,New Benjaminmouth,Texas,13963,Iraq,2025-05-18,Standard,Platinum,Good,85290,True
+CUST_000724,Alison,Hansen,timothygarcia@example.org,958-866-8611,1972-04-24,Other,326 Thomas Canyon,Michellemouth,Ohio,27682,Holy See (Vatican City State),2023-04-03,Budget,Silver,Good,73996,True
+CUST_000725,Michael,Ryan,robert72@example.net,(835)433-9982x426,1950-08-17,F,8015 Hickman Meadow Suite 930,North Edward,North Carolina,45192,Costa Rica,2023-02-27,Premium,Silver,Poor,111566,True
+CUST_000726,Margaret,White,jjordan@example.net,745.615.0252,1971-07-22,F,87308 Martinez Stravenue,Lake Stephenbury,Oklahoma,94220,Tanzania,2023-03-09,Enterprise,Platinum,Good,179872,True
+CUST_000727,Timothy,Alvarez,wgillespie@example.org,584-225-2786,1993-11-03,Other,71210 Jennifer Harbors,East Kenneth,Maine,64576,Cuba,2025-05-08,Enterprise,Bronze,Good,36310,True
+CUST_000728,Tamara,Bailey,sallison@example.net,871.796.1997x165,1993-04-24,Other,6409 Warren Freeway Apt. 440,New Jenniferberg,Hawaii,37404,Western Sahara,2023-02-06,Standard,Silver,Excellent,175016,True
+CUST_000729,Emily,Fleming,james79@example.org,001-722-619-1439x070,1974-10-25,M,0157 Christopher Isle,Lake Jacquelineton,California,52532,Russian Federation,2025-03-04,Standard,Gold,Good,160434,False
+CUST_000730,Edward,Smith,taylormichael@example.net,001-534-775-9783x354,1975-09-06,Other,214 Kennedy Course,Patrickhaven,Nebraska,83544,Iceland,2025-03-30,Premium,Gold,Excellent,81778,False
+CUST_000731,Erika,Allen,andrewclark@example.com,001-626-465-2824x685,2006-12-17,Other,240 Lisa Spurs Apt. 086,North Kevinfurt,Alaska,42395,Benin,2024-06-14,Enterprise,Platinum,Good,82504,False
+CUST_000732,Anita,Morgan,madisonsimpson@example.org,(230)233-5636x9301,1990-03-13,Other,993 Angela Pike,Lake Adamport,Ohio,06380,China,2024-04-07,Standard,Silver,Fair,68967,True
+CUST_000733,Toni,Hall,caleb89@example.org,+1-809-830-4376x613,1955-06-03,F,122 Meyer Keys,Kimberlyview,Wyoming,60531,Tanzania,2022-09-12,Premium,Silver,Poor,126046,True
+CUST_000734,Michael,Robbins,holdermichelle@example.org,5589330967,1983-09-01,M,18914 Elizabeth Rest Apt. 765,Port Jessicafurt,New York,56487,Lesotho,2024-10-03,Premium,Silver,Poor,64206,True
+CUST_000735,Corey,Simpson,ikane@example.net,883.463.6885x01627,1981-12-27,M,6678 Ashley Spurs,South Dawn,Colorado,52297,Svalbard & Jan Mayen Islands,2023-08-30,Enterprise,Bronze,Excellent,49429,False
+CUST_000736,Jacob,Rangel,fordbeverly@example.org,998-812-5597x77265,1963-05-11,Other,580 Johnson Cliffs,Davidmouth,Connecticut,51295,Greenland,2024-02-19,Standard,Bronze,Poor,161850,False
+CUST_000737,Brandi,Armstrong,brittanyrush@example.com,(751)288-7114x8600,1944-12-17,F,4928 Hoffman Overpass,Danielleton,South Dakota,31029,Norway,2022-09-26,Premium,Platinum,Good,151385,False
+CUST_000738,Donald,Gonzalez,garcianatalie@example.com,+1-701-486-0742x9069,2007-05-26,F,36931 Patrick Canyon,Port Stephanieborough,Alaska,18340,Sudan,2023-06-21,Premium,Platinum,Good,91720,False
+CUST_000739,Gerald,Cruz,staylor@example.net,753.874.0571x446,1987-06-02,M,0687 Michael Hollow Suite 534,Jennyview,Missouri,86394,Japan,2025-05-17,Premium,Gold,Poor,92582,True
+CUST_000740,Theresa,Bates,ggomez@example.org,+1-848-834-8358x62673,1996-12-19,M,20775 Smith Pass Suite 326,Lake Maria,Kentucky,39923,Ecuador,2025-04-19,Premium,Bronze,Excellent,123311,True
+CUST_000741,Jessica,Shea,michelle05@example.org,001-245-905-0928x46720,1957-02-06,Other,390 Griffin Streets,Meadowsshire,Massachusetts,35843,North Macedonia,2025-01-19,Budget,Platinum,Fair,52940,True
+CUST_000742,Michael,Fuller,allensara@example.org,(325)685-1502x04502,1957-11-24,F,27943 Karen River,Jacobville,Delaware,19144,Dominican Republic,2024-08-27,Budget,Gold,Poor,173024,True
+CUST_000743,Barbara,Hill,richardlopez@example.com,528-566-2510x857,1979-08-03,Other,4514 Davila Union Apt. 935,North Thomasport,Minnesota,47356,Germany,2024-12-14,Budget,Platinum,Good,133325,False
+CUST_000744,Jeffrey,Chavez,bradshawrobert@example.com,(881)367-3374,2007-07-16,M,57562 Scott Courts,Port Roger,North Carolina,34257,Malta,2023-01-15,Budget,Platinum,Fair,105387,True
+CUST_000745,Theresa,Pena,lmoore@example.net,5697319630,2004-07-10,Other,704 Johnson Isle Apt. 267,Lake Linda,Idaho,28722,Fiji,2025-01-11,Enterprise,Silver,Excellent,85233,False
+CUST_000746,Maria,Schmidt,parkermax@example.org,+1-442-502-5936x45028,1951-06-07,Other,75576 Lopez Ridge Apt. 154,Lake Justinview,Illinois,11652,Mali,2025-03-28,Standard,Bronze,Good,158259,False
+CUST_000747,James,Evans,xandrade@example.org,202-897-7115,1953-12-14,F,792 Berger Junction,South Jasonburgh,North Carolina,15121,Tajikistan,2023-12-20,Premium,Silver,Poor,191691,True
+CUST_000748,Gina,Miller,simontracy@example.net,(721)998-3691,1958-05-30,M,7105 Annette Springs Suite 707,Michaelland,Mississippi,26256,Azerbaijan,2023-06-13,Standard,Platinum,Poor,48105,True
+CUST_000749,Louis,Smith,adamparsons@example.com,001-783-887-8903x4502,1973-03-14,F,30409 Joshua Spur Suite 541,East Kristina,Ohio,66690,Bhutan,2022-10-26,Standard,Gold,Excellent,184653,True
+CUST_000750,Pamela,Greer,seanjones@example.com,433-446-0184,1944-11-14,Other,825 Glenn Trail,Lake Jessica,Wisconsin,88596,Iceland,2024-04-03,Enterprise,Platinum,Fair,181623,True
+CUST_000751,Jennifer,Walsh,robertsmith@example.net,001-617-936-9078,1971-09-04,M,00521 Hale Courts,South Robinmouth,Delaware,57347,Dominican Republic,2023-06-29,Enterprise,Platinum,Excellent,77876,True
+CUST_000752,Michael,Bauer,dalton37@example.org,951.419.1944x54569,1983-07-19,M,6192 Patterson Common Apt. 771,Bradychester,Kansas,77132,Guinea,2023-11-21,Premium,Silver,Good,34453,True
+CUST_000753,Dennis,Morales,cmclean@example.net,905.657.3713,1996-07-18,M,23461 Phillips Lock,Thompsonchester,Indiana,95858,Cuba,2022-09-08,Premium,Silver,Excellent,97335,False
+CUST_000754,Stephanie,Rodriguez,gbutler@example.net,521-852-4831x9686,1961-03-10,F,6568 Watkins Orchard,East Nicholasside,Wyoming,30821,Afghanistan,2022-10-09,Enterprise,Platinum,Good,160723,True
+CUST_000755,Amber,Tucker,richardperez@example.org,001-659-322-9127x06593,1947-06-10,Other,62911 Jackson Passage Apt. 471,North Christopher,Delaware,59004,Qatar,2024-06-08,Premium,Bronze,Fair,171568,True
+CUST_000756,Vanessa,Morales,charlestimothy@example.net,289.784.9749x979,1954-11-04,F,71148 Gibbs Mall,Zacharyville,Oklahoma,81740,Martinique,2024-09-03,Budget,Silver,Good,144212,False
+CUST_000757,Wanda,Vance,reynoldstravis@example.net,+1-456-831-6312x97557,1951-03-14,Other,637 Christopher Villages Apt. 899,South Alyssaburgh,Vermont,06708,Brazil,2024-12-22,Premium,Gold,Good,131727,True
+CUST_000758,Dawn,Smith,simmonstristan@example.org,+1-621-263-3613x17985,1992-03-16,Other,9037 Carolyn Summit,Nathanmouth,North Carolina,29980,Guam,2024-10-08,Premium,Gold,Fair,55673,True
+CUST_000759,Rebecca,Hoover,erinstark@example.net,001-312-474-3922x55174,1965-01-05,Other,476 Rebecca Coves,Lake Jacob,Arizona,16428,Qatar,2024-04-24,Budget,Platinum,Poor,172631,False
+CUST_000760,Jesus,George,jonathan38@example.com,731-256-3093x07968,1985-09-03,M,459 Taylor Harbors Apt. 899,Lake Daniel,New Mexico,83869,Singapore,2025-05-12,Budget,Platinum,Poor,178833,True
+CUST_000761,Mark,Bautista,barneswilliam@example.org,439.373.6707,1974-11-07,F,402 Anderson Extension,Lake Melissa,Louisiana,12829,Portugal,2024-07-14,Premium,Gold,Excellent,125315,True
+CUST_000762,Nichole,Franco,lisabrown@example.net,323.665.4018,1962-12-20,Other,8420 Heather Gardens,Adrianport,New Hampshire,54417,Guernsey,2024-10-15,Standard,Gold,Poor,117562,True
+CUST_000763,Sharon,Wilson,vsandoval@example.com,309-594-1475x398,1974-02-19,Other,2451 William Views Apt. 611,Lake Jamesfurt,Massachusetts,81307,Ethiopia,2023-03-25,Budget,Silver,Fair,49381,False
+CUST_000764,Becky,Branch,waltersgreg@example.com,(866)396-9229x5338,1980-07-06,Other,83909 Krista Inlet,West Desiree,Georgia,39043,Afghanistan,2023-10-27,Budget,Bronze,Good,149926,True
+CUST_000765,Emily,Hunt,josephlee@example.com,+1-688-293-3437x51866,1976-09-02,F,2438 Patrick River Apt. 855,South Josephmouth,Alaska,76210,Tokelau,2023-09-23,Standard,Gold,Good,74851,False
+CUST_000766,Terri,Phelps,chelsea70@example.org,001-369-964-5359,1970-03-11,Other,7188 Adam Track,Joshuaside,North Carolina,60181,Croatia,2025-06-28,Standard,Silver,Good,94574,True
+CUST_000767,Valerie,Stevenson,hestrada@example.com,(279)389-9470x61706,1997-12-31,M,10384 Garcia Lock Suite 566,Aaronmouth,California,71649,Saint Lucia,2024-03-14,Standard,Silver,Fair,65893,True
+CUST_000768,Sherry,Parks,shenry@example.com,001-723-243-5969,2000-04-23,M,0566 Todd Inlet Apt. 242,Jonesside,Pennsylvania,22497,United Arab Emirates,2023-09-05,Premium,Platinum,Excellent,166944,True
+CUST_000769,Sean,Turner,richardmark@example.net,385.876.2648,1992-08-08,F,493 Villarreal Ways,Lake Paulmouth,North Carolina,46480,Cyprus,2022-09-28,Budget,Gold,Poor,175606,True
+CUST_000770,Mary,Johnson,horndonald@example.net,001-769-451-9304,2001-10-18,F,5867 Patricia Loaf Suite 620,Lake Roberto,Kentucky,40352,Pitcairn Islands,2023-07-13,Standard,Gold,Poor,83220,True
+CUST_000771,Courtney,Scott,tburgess@example.org,818.312.3357,1974-09-21,M,3174 Delacruz Mountain,Mercadoburgh,Utah,54696,Tuvalu,2023-02-03,Enterprise,Platinum,Excellent,156720,True
+CUST_000772,John,Long,heather89@example.net,+1-777-447-5944x348,1981-09-10,F,7403 Price Manor,Campbellview,Georgia,03453,Tonga,2024-02-16,Standard,Platinum,Excellent,160844,False
+CUST_000773,Tanner,Miller,tbell@example.org,257-233-0990,1980-08-28,F,065 Kelly Parkways Apt. 344,Johnmouth,Tennessee,86644,Jamaica,2023-10-13,Premium,Bronze,Good,124464,True
+CUST_000774,Matthew,White,michelleanderson@example.com,(700)804-7091x10349,1949-08-03,F,1181 Shaw Summit Suite 466,West Jessicafort,New Hampshire,56213,Uzbekistan,2022-12-18,Budget,Gold,Good,168802,True
+CUST_000775,Dawn,Wong,rcaldwell@example.net,896.766.8290x525,2006-04-18,M,89142 Heather Alley Apt. 927,Odonnelltown,Massachusetts,36970,Taiwan,2024-02-17,Budget,Platinum,Fair,120924,True
+CUST_000776,John,Nichols,robinjones@example.org,(513)518-6604x747,1979-06-13,F,7852 Gibson Way,Mariatown,Illinois,43402,New Caledonia,2023-06-22,Enterprise,Silver,Poor,122598,True
+CUST_000777,Dakota,Conrad,sabrinaperez@example.net,335.518.6647x7413,2002-07-24,F,302 Palmer Flat,Rachelchester,Wyoming,42218,Martinique,2025-02-16,Budget,Platinum,Good,174791,True
+CUST_000778,Michael,Tapia,dana17@example.net,+1-855-799-0984x128,1967-06-06,Other,7592 Amanda Walk,New Jeffreyside,Wisconsin,75466,Bermuda,2024-04-30,Standard,Bronze,Fair,86814,False
+CUST_000779,Jennifer,Williams,haneysusan@example.org,963-542-9242x195,2006-04-21,F,121 Moore Fields,Christopherland,Maine,95361,Iran,2022-12-13,Standard,Silver,Good,148990,True
+CUST_000780,John,Cook,michael01@example.com,303.304.4077,2000-12-27,M,9845 Bryant Streets Suite 345,Davidside,West Virginia,24587,Nepal,2024-06-16,Enterprise,Platinum,Good,190321,True
+CUST_000781,Donald,Mcmillan,matthew06@example.com,+1-419-410-6166x91008,1986-07-12,F,168 Robert Parkway,East Gloria,South Dakota,65934,Guinea-Bissau,2025-06-20,Budget,Gold,Excellent,129438,True
+CUST_000782,Richard,Santos,khouston@example.com,(208)734-7910,1980-07-06,Other,572 Andrea Motorway,Lake Jamesberg,Alaska,06612,Oman,2024-09-01,Standard,Bronze,Good,91660,False
+CUST_000783,Roberta,Adams,christina24@example.org,+1-471-229-5145,1965-07-20,Other,286 Linda Cape,Andreaburgh,Idaho,34861,American Samoa,2023-12-10,Premium,Platinum,Fair,93096,True
+CUST_000784,Michael,Evans,zbaker@example.com,001-895-809-0418x985,2005-05-08,F,01655 Trujillo Forges Suite 888,Lunafurt,Minnesota,56281,Qatar,2025-08-19,Budget,Gold,Excellent,132940,True
+CUST_000785,Tiffany,Hanson,charlesprice@example.org,(622)990-1138x60479,2001-07-18,F,903 Jared Crossing,Melodyhaven,Pennsylvania,42791,Saint Lucia,2023-06-04,Standard,Silver,Fair,118089,True
+CUST_000786,Gary,Higgins,kyle91@example.com,390.853.4728x395,1974-07-25,Other,532 Snyder Valley,Michellehaven,Montana,82655,Marshall Islands,2024-12-06,Enterprise,Platinum,Excellent,124895,True
+CUST_000787,Robert,Marsh,jbarker@example.net,(358)522-8280,1954-05-28,F,06885 Nichols Hills Suite 767,New Stacyview,Massachusetts,72808,Cyprus,2024-02-15,Standard,Silver,Fair,135576,False
+CUST_000788,Joseph,Campbell,mariah75@example.org,435-931-7555,1961-12-25,M,1148 Sutton Estate Suite 751,Port Christinafort,Nevada,34209,Grenada,2023-05-11,Premium,Silver,Fair,84825,True
+CUST_000789,Christie,Kelly,charles56@example.com,296-578-9630,1966-10-18,F,16301 Johnston Run,East Sandra,Georgia,17049,Malta,2023-07-12,Budget,Gold,Poor,96106,False
+CUST_000790,Amber,Mcgee,kelsey92@example.com,(268)509-8460x1804,1957-01-25,F,015 Samuel Garden Suite 866,Garciastad,Massachusetts,34738,Faroe Islands,2023-12-08,Enterprise,Platinum,Good,73204,True
+CUST_000791,Alfred,Sanchez,patriciawilliams@example.com,346.327.2053x6499,1982-06-10,M,856 Rodgers Springs,Port Walter,West Virginia,06081,Chile,2025-08-18,Standard,Gold,Excellent,80200,True
+CUST_000792,Natasha,Avery,jennifer38@example.org,8774558212,1970-12-11,F,567 Roberts Locks,South Anntown,New Mexico,45510,Belize,2024-09-07,Premium,Bronze,Excellent,149042,True
+CUST_000793,Patricia,Terry,lawsoncalvin@example.com,(551)329-4414x925,1971-09-28,M,828 Zachary Row Suite 974,Wallacestad,Missouri,42344,Myanmar,2025-05-19,Enterprise,Bronze,Excellent,93800,True
+CUST_000794,Timothy,Ward,jessica43@example.net,636-287-7156x9220,1975-05-12,M,1535 Owens Center,North Davidmouth,Tennessee,33565,Kyrgyz Republic,2024-01-19,Enterprise,Gold,Good,89853,True
+CUST_000795,Jeremy,Roberts,john14@example.net,+1-872-625-5785,1951-03-25,F,7416 Hutchinson Landing Suite 395,East Michelle,Ohio,48567,Holy See (Vatican City State),2023-09-26,Standard,Silver,Good,32489,True
+CUST_000796,Andres,Rowe,todd94@example.com,(481)566-0284x136,1958-02-17,Other,0407 John Valley Suite 147,Lebury,Maine,16817,Moldova,2023-09-25,Budget,Gold,Poor,147471,True
+CUST_000797,Luis,Peterson,holmesjay@example.com,(960)717-0396x101,1983-06-24,Other,017 Shelby Mount,Autumnfort,Ohio,57186,Reunion,2024-06-23,Enterprise,Silver,Good,179882,False
+CUST_000798,Sherry,Edwards,sandersjane@example.org,001-959-538-9676x3536,1967-11-15,Other,896 Tracy Motorway Apt. 288,West Kimberly,Indiana,30710,Spain,2023-09-21,Enterprise,Gold,Fair,151262,True
+CUST_000799,Daniel,Lee,jonesjake@example.net,842.974.9366x357,1993-02-09,M,480 Jane Walk,Lake Brettmouth,Utah,94992,Denmark,2025-02-05,Enterprise,Gold,Fair,133056,True
+CUST_000800,Kim,Kim,ann26@example.org,825.326.3794x12886,1950-04-05,M,232 Joseph Shoals,West Michelle,Missouri,11328,Uzbekistan,2023-01-04,Budget,Bronze,Excellent,162184,True
+CUST_000801,Tracy,May,meganpatrick@example.com,(357)344-6532x5544,1977-06-29,F,36738 Gloria Divide Apt. 388,Lake Brittanymouth,Washington,56709,Malaysia,2023-08-03,Budget,Platinum,Excellent,153956,False
+CUST_000802,Cory,Osborne,michelle14@example.com,+1-322-401-4833x35401,1972-08-03,F,0308 Johns Locks,Taylorfort,Arizona,96486,Montserrat,2022-09-19,Premium,Platinum,Fair,181500,True
+CUST_000803,Robert,Ortega,irodriguez@example.org,001-976-429-5076x71621,1947-04-27,M,041 Cervantes Forges Apt. 326,Destinyfurt,Kentucky,81078,Japan,2024-02-02,Budget,Silver,Poor,171945,False
+CUST_000804,Daniel,Salazar,tjohnson@example.net,001-739-306-4909x70342,1989-02-09,F,018 Jo Landing Apt. 368,New Peter,Alabama,61104,Falkland Islands (Malvinas),2023-03-18,Standard,Silver,Poor,124184,True
+CUST_000805,Susan,Nielsen,georgedana@example.com,001-925-726-0221x6908,1994-08-16,F,93358 Katelyn Views,Jamesland,Alabama,54011,Guyana,2024-01-12,Premium,Platinum,Good,160426,True
+CUST_000806,Nicole,Nguyen,castillomatthew@example.com,(593)551-0214x0128,1950-02-25,F,8979 Sarah Junction Suite 177,Port Toddtown,Illinois,04781,Guatemala,2023-12-02,Budget,Platinum,Good,42947,True
+CUST_000807,Shannon,Brown,charles46@example.org,616-348-3895x33768,1992-04-25,M,7760 Paul Fork Suite 597,Port Christopher,Wisconsin,62421,Senegal,2023-05-25,Budget,Bronze,Poor,186934,False
+CUST_000808,Jeremy,Thompson,ugoodman@example.net,657.945.1048x480,1990-05-20,F,81560 Bruce Estates,Williamsshire,Mississippi,76486,Saint Barthelemy,2025-05-10,Enterprise,Silver,Fair,30084,True
+CUST_000809,Leah,Gutierrez,garciabrett@example.net,964.475.4565x7289,1955-03-04,M,8540 Bethany Rest,Suefurt,North Dakota,46228,Saint Vincent and the Grenadines,2023-12-08,Premium,Silver,Excellent,98954,True
+CUST_000810,Megan,Gray,sandrafinley@example.net,(713)982-6870x97777,1947-04-06,M,962 Walker Mountain,Lake Lindsey,New Hampshire,09644,Paraguay,2025-01-15,Enterprise,Bronze,Good,48644,True
+CUST_000811,Brian,Kim,vanessamartinez@example.net,+1-562-520-6824x323,1947-12-15,M,99344 Johnson Locks,Port Melaniefurt,Oregon,34394,Russian Federation,2023-05-14,Enterprise,Silver,Fair,135164,True
+CUST_000812,Sally,Ross,destiny35@example.com,+1-765-529-4128,1975-01-28,F,64488 Mitchell Neck,Johnville,Pennsylvania,83305,Sao Tome and Principe,2024-12-24,Budget,Platinum,Excellent,111572,True
+CUST_000813,Abigail,Smith,michaelmccarty@example.org,905.837.6425x50786,1946-05-31,M,39221 Pam Orchard,North Christymouth,Oklahoma,53098,Israel,2025-06-15,Premium,Gold,Poor,43713,False
+CUST_000814,Stephanie,Rowe,amberkennedy@example.net,001-372-987-3142x49562,2002-05-17,M,4160 James Falls Apt. 700,Christianton,Idaho,69585,Libyan Arab Jamahiriya,2023-08-16,Standard,Gold,Poor,28307,True
+CUST_000815,Gail,Hernandez,thomaserik@example.net,+1-401-375-4541x6487,1948-03-09,Other,6275 Kimberly Knolls Apt. 697,Joshuaton,Iowa,95044,Indonesia,2022-11-07,Standard,Platinum,Poor,89792,True
+CUST_000816,Amanda,Wang,jessica33@example.org,001-258-872-3836,1947-10-09,M,5792 Dennis Oval,West Judithside,Michigan,66058,Romania,2022-12-26,Enterprise,Bronze,Good,148948,False
+CUST_000817,Cynthia,Smith,bradley19@example.com,497.720.9251x9201,1952-08-23,Other,297 Marie Ports,Port Thomas,Michigan,66760,Central African Republic,2024-06-19,Budget,Gold,Good,189931,True
+CUST_000818,Dakota,Nichols,robin11@example.com,797.914.9207,1963-10-04,Other,2487 Brandi Estate,Andersonland,North Dakota,71989,Dominica,2024-10-06,Premium,Gold,Poor,192384,True
+CUST_000819,Gregory,Delgado,pluna@example.net,(977)424-4343x54978,1982-09-17,M,7156 Walker Path Apt. 299,Port Lindaview,Ohio,85340,Andorra,2024-08-10,Budget,Bronze,Good,54603,True
+CUST_000820,David,Ruiz,owoodward@example.org,001-409-640-9165x7376,2000-01-23,Other,2254 Sandra Forges Suite 930,Lake Susanton,Connecticut,89468,Grenada,2023-02-17,Enterprise,Gold,Excellent,68872,True
+CUST_000821,John,Raymond,goodwinjack@example.org,(441)547-5690x0184,1958-05-21,Other,847 Martin Ports Apt. 596,Buckfort,New Mexico,11303,Guinea,2023-06-08,Premium,Platinum,Good,27340,True
+CUST_000822,Brooke,Clarke,ryandurham@example.net,273-265-0032x9909,1971-12-03,Other,1442 Gordon Gateway Suite 540,Gregorybury,Delaware,53002,Niger,2024-03-01,Enterprise,Silver,Fair,48456,True
+CUST_000823,Douglas,Thornton,navarroscott@example.com,793-593-4396x904,1991-04-07,M,528 Grant Forges,Stephenbury,North Carolina,13425,Uganda,2023-05-08,Enterprise,Bronze,Fair,188874,True
+CUST_000824,Andrew,Olson,matthew30@example.org,264.712.2474,1956-09-17,M,03350 Moon Locks Apt. 232,Codytown,New York,93391,Benin,2023-10-13,Budget,Silver,Excellent,57984,False
+CUST_000825,Michael,Ferguson,lbrown@example.com,+1-404-722-4564x1199,1995-11-27,M,53807 Brenda Vista,Port Tiffany,Minnesota,03295,Guernsey,2024-10-31,Budget,Gold,Poor,75584,True
+CUST_000826,Jeffrey,Barker,sarah19@example.net,415.675.5716x6328,1970-06-28,Other,1621 Snow Stravenue,Youngberg,Alabama,00602,Kuwait,2023-12-29,Enterprise,Gold,Good,90718,True
+CUST_000827,Charles,Williams,brianlawson@example.net,(285)269-7714x3360,1951-07-29,F,6103 Todd Passage,New Brittneyton,Louisiana,51715,Palestinian Territory,2023-01-11,Enterprise,Gold,Poor,74748,True
+CUST_000828,Shawna,Peters,russellwilliam@example.net,+1-251-885-6905,1965-09-24,Other,826 Thompson Bypass Apt. 727,Port Aaron,South Dakota,73111,Bouvet Island (Bouvetoya),2024-09-14,Budget,Gold,Poor,97174,True
+CUST_000829,Sherry,Roberts,cynthiaellis@example.com,(740)378-3083x06978,1985-02-06,M,9836 Snow Green Suite 749,South Nicholashaven,Washington,55270,Korea,2023-10-21,Standard,Platinum,Fair,94035,True
+CUST_000830,Miranda,Morgan,fbarry@example.com,256-905-9563x4318,1957-11-19,F,02585 Rivera Turnpike,East Kaylee,Virginia,62998,Liberia,2025-01-25,Premium,Platinum,Good,29907,True
+CUST_000831,Andrew,Gonzalez,jsimpson@example.com,492-261-5487,1998-05-15,Other,0254 Morris Shoals,West Kennethton,North Carolina,98067,Saint Helena,2022-10-17,Standard,Gold,Excellent,197566,False
+CUST_000832,Anna,Hull,ashleycrawford@example.net,538.687.2461x630,1960-05-10,M,000 Kelly Island,New Kyle,Iowa,02828,Liechtenstein,2024-10-05,Enterprise,Silver,Fair,109567,False
+CUST_000833,Jennifer,Rodriguez,redwards@example.com,001-762-489-7351x89622,1973-03-08,Other,600 David Camp Apt. 340,Patrickmouth,New Hampshire,13881,Colombia,2023-10-06,Budget,Bronze,Excellent,162153,True
+CUST_000834,Donna,Stone,mckenziecurtis@example.net,+1-528-405-1666x0812,1975-06-02,M,7909 Marsh Mall Apt. 527,Carrside,Maine,40182,Gabon,2023-02-25,Standard,Silver,Excellent,77973,True
+CUST_000835,Duane,Lloyd,heather24@example.net,+1-663-713-7371,1947-04-22,F,80266 Samantha Turnpike,New Kathrynshire,Nebraska,01340,Hungary,2022-12-10,Standard,Bronze,Excellent,174687,False
+CUST_000836,Joseph,Arias,marksashley@example.net,619-992-5692,1970-06-19,Other,1034 Juan Flat,New Daleside,South Dakota,14075,Georgia,2022-09-18,Enterprise,Gold,Excellent,121037,True
+CUST_000837,Tonya,Dorsey,ericfields@example.com,001-204-647-0856,1994-08-09,Other,1487 Chad Flat Apt. 456,Leroyberg,Wisconsin,20485,Kuwait,2023-09-02,Premium,Bronze,Good,196900,False
+CUST_000838,Tiffany,Greene,gibsonjoseph@example.org,274.549.9987,1960-03-29,M,369 Davis Via,Richmondland,Alabama,51004,Andorra,2023-05-11,Enterprise,Bronze,Fair,171281,False
+CUST_000839,Ronald,Lamb,jesus18@example.org,(676)831-0108x965,1994-04-03,F,3606 Smith Harbors,Robertshaven,Montana,61302,Netherlands Antilles,2023-08-03,Premium,Gold,Excellent,43451,True
+CUST_000840,Anna,Hampton,william81@example.com,3369100770,1975-04-28,M,759 Larson Valleys,Port Veronica,Arizona,58716,Marshall Islands,2022-12-30,Standard,Bronze,Excellent,85559,False
+CUST_000841,Sarah,Jones,berrykatherine@example.org,3497021444,1965-09-27,M,4333 Alvarado Stream Suite 552,New Valerie,New Mexico,89591,Anguilla,2025-02-21,Standard,Silver,Good,171387,False
+CUST_000842,Jessica,Ward,walterkatherine@example.com,+1-999-526-6536x197,1951-03-23,Other,94624 Robbins Drive Apt. 858,Hodgebury,South Carolina,20611,Tonga,2024-02-15,Premium,Gold,Poor,199389,False
+CUST_000843,Lisa,Tran,greenchristian@example.org,793-317-9670x605,1974-10-12,M,7921 Paul Junction,South Heidishire,Oklahoma,80763,Comoros,2025-06-28,Standard,Silver,Poor,157302,True
+CUST_000844,Nathan,Baker,richard98@example.net,+1-670-414-5570x393,1974-08-21,Other,866 Michael Crossroad,West Andrewburgh,Missouri,07525,Albania,2022-10-30,Standard,Platinum,Fair,107615,True
+CUST_000845,Christopher,Mullen,contreraskara@example.org,461-361-9738x44981,1998-07-30,F,88238 Wade Lane,Port Erinside,Montana,63162,Brunei Darussalam,2023-04-11,Enterprise,Platinum,Fair,184491,True
+CUST_000846,Sarah,Jones,elizabeth81@example.com,+1-473-465-5619x22188,1946-01-04,Other,86417 Brown Roads,Port Anthony,Illinois,54694,Estonia,2024-12-23,Standard,Platinum,Fair,119374,False
+CUST_000847,Hannah,Graham,rodneylopez@example.net,+1-391-567-6403x239,1986-03-06,F,82671 Oscar Rapids Apt. 794,Meganburgh,Idaho,41529,Colombia,2025-05-29,Enterprise,Bronze,Excellent,99575,True
+CUST_000848,Robert,Scott,gabriela43@example.net,+1-668-268-1114x3306,1982-10-20,Other,8771 Stewart Keys,Port Daniellefurt,Vermont,22376,Slovakia (Slovak Republic),2024-02-17,Standard,Gold,Excellent,103730,True
+CUST_000849,Timothy,Lynch,sandraray@example.net,(404)863-7216,1969-08-03,M,23584 Amanda Avenue,New Luis,Texas,81664,Namibia,2024-05-22,Budget,Bronze,Fair,170139,True
+CUST_000850,Tracy,Hammond,ycordova@example.net,495.679.5519,1990-01-12,M,111 Leonard Lock Suite 038,Hernandezstad,Montana,86082,Kyrgyz Republic,2025-04-10,Premium,Platinum,Fair,65922,True
+CUST_000851,Dalton,Martin,jessica23@example.org,4084056308,1984-04-07,F,732 Benjamin Mountains,North George,New Hampshire,30585,Saint Barthelemy,2023-12-19,Budget,Silver,Good,92172,True
+CUST_000852,Michael,Gillespie,edward07@example.org,9196708428,1996-12-13,M,2796 Crystal Islands,East Colleenmouth,Minnesota,44019,Bermuda,2024-09-27,Enterprise,Silver,Excellent,110116,False
+CUST_000853,Andrew,Krueger,johnsondanny@example.com,001-284-922-6230x036,1953-03-03,M,0283 Janice Field,Feliciaview,Illinois,60387,Greenland,2025-02-08,Enterprise,Bronze,Fair,34796,False
+CUST_000854,Autumn,Hooper,melissacastro@example.net,966-631-6696,1945-04-08,M,45441 Perry Mews,Bakermouth,Alabama,04515,Poland,2024-04-29,Premium,Gold,Fair,138850,False
+CUST_000855,Kelly,Navarro,garciajessica@example.org,364.729.6280x9241,1945-01-25,M,969 Garcia Stravenue,North Mark,Hawaii,93345,Greenland,2023-10-21,Standard,Bronze,Poor,39189,True
+CUST_000856,Helen,Horton,donnapetty@example.org,488-737-7435x40476,1991-09-10,Other,501 Darrell Isle,Port Mark,North Carolina,90393,Jordan,2025-03-10,Premium,Gold,Good,110676,True
+CUST_000857,Steven,Padilla,richardwalker@example.com,989-303-0458x809,1997-05-27,M,42293 Bernard Isle Suite 592,West Jillstad,Oregon,53816,Kenya,2023-08-26,Premium,Platinum,Poor,181010,True
+CUST_000858,Tyler,Lawson,rodriguezjacob@example.com,001-983-604-5762,1965-03-03,M,60895 Buck Camp,West Donnaburgh,Idaho,15742,Singapore,2023-04-20,Enterprise,Gold,Poor,63800,True
+CUST_000859,Nicholas,Boyd,gbrown@example.org,976-612-8989x930,1969-04-13,F,139 Ray Wall,South Daniel,Michigan,91718,India,2025-06-28,Premium,Platinum,Excellent,168694,False
+CUST_000860,Rita,Chase,jasonrhodes@example.net,+1-885-328-5898,1979-02-02,F,97630 Deanna Mountains Apt. 794,Kimberlymouth,New Jersey,90153,United Arab Emirates,2024-08-12,Premium,Platinum,Poor,59177,True
+CUST_000861,Johnny,Marsh,daniel07@example.com,001-926-726-5434,2007-04-11,F,604 Matthew Run,New Zachary,South Dakota,83971,Russian Federation,2025-04-09,Standard,Platinum,Poor,195983,True
+CUST_000862,Joyce,Murray,ucox@example.com,937.556.8167x84340,1948-04-06,Other,177 Davis Spur Apt. 500,Romeroborough,Missouri,77029,Cayman Islands,2023-02-17,Standard,Silver,Excellent,94797,False
+CUST_000863,James,Dawson,justin33@example.com,001-599-352-8502,1992-11-17,F,653 Stephen Island,Lisaport,South Carolina,59547,Cape Verde,2023-06-22,Premium,Bronze,Poor,136028,True
+CUST_000864,Hannah,Lopez,johnolson@example.org,469-250-9355x5570,1947-04-08,F,4136 Baker Turnpike,Annefort,Montana,15070,Seychelles,2023-03-02,Standard,Gold,Fair,180681,True
+CUST_000865,Andrea,Wright,fryedylan@example.net,001-206-750-7612x2283,1969-01-06,F,8530 Watson Islands Suite 950,South Jason,Michigan,56692,Albania,2024-03-08,Standard,Gold,Poor,188363,True
+CUST_000866,Tony,Ryan,sandra33@example.net,(276)239-9046,1977-06-01,F,9626 Isaiah Spur,East Bryan,New Hampshire,49590,Yemen,2023-09-12,Premium,Silver,Good,122994,True
+CUST_000867,Andrew,Garcia,reynoldssheena@example.com,5156120039,1964-03-04,Other,6972 Patrick Stream,New Deborahbury,Wisconsin,90450,Svalbard & Jan Mayen Islands,2023-05-19,Premium,Bronze,Excellent,88713,True
+CUST_000868,Jessica,Wyatt,yangeric@example.com,+1-292-210-5307x1226,2001-03-29,F,83774 Shawn Center,Justinside,Massachusetts,64856,Saint Pierre and Miquelon,2024-04-23,Premium,Gold,Excellent,104984,False
+CUST_000869,Pamela,Mccormick,bryanlee@example.org,001-880-712-6980x446,1976-05-23,F,47609 Cardenas View Apt. 647,Lake Courtney,Michigan,23685,Guyana,2024-01-26,Premium,Gold,Good,166034,True
+CUST_000870,Shawn,Owens,taylor88@example.com,9702946577,2007-04-23,M,98897 Amy Drives,Boydberg,North Carolina,19719,Uganda,2023-11-21,Budget,Platinum,Good,29820,False
+CUST_000871,Jennifer,Zimmerman,cscott@example.org,8538718605,1978-11-17,Other,16647 Fields Divide,Aguilarborough,Delaware,23333,Senegal,2024-12-20,Premium,Gold,Good,40757,True
+CUST_000872,Jose,Hawkins,john54@example.org,(201)399-1984x8087,1974-05-18,M,1520 Mcdonald Cove Apt. 740,Jeremychester,Oklahoma,76389,Holy See (Vatican City State),2024-11-18,Budget,Bronze,Poor,196640,True
+CUST_000873,Carla,Chavez,deborahcarter@example.org,+1-705-211-0900x70178,1990-06-16,M,0254 Martin Track,Lake Felicia,Idaho,04796,Belgium,2022-09-21,Enterprise,Gold,Fair,53283,True
+CUST_000874,Emily,Harvey,ndiaz@example.net,747.453.9659x7442,1968-11-07,F,204 Richard Creek Suite 374,Port Kristinstad,Colorado,25097,Dominican Republic,2024-01-23,Enterprise,Silver,Poor,158310,True
+CUST_000875,Kimberly,Salazar,mirandaclarke@example.com,001-399-976-8160x8557,1963-08-30,F,8496 Joshua Radial,New Brianmouth,North Carolina,53030,Chile,2023-07-15,Enterprise,Bronze,Good,77133,False
+CUST_000876,Brandon,Kelly,joseph09@example.net,001-486-932-4535,1991-02-04,Other,11085 Suzanne Glen,Byrdhaven,South Carolina,73102,Paraguay,2025-09-03,Premium,Bronze,Good,163783,True
+CUST_000877,Marc,Walker,charleskelly@example.net,(618)430-7348x00226,1966-06-30,F,205 Phillips Views Apt. 987,Lake Chelsealand,Wisconsin,37452,Latvia,2025-08-08,Enterprise,Platinum,Good,29816,True
+CUST_000878,Jonathan,Daniel,sean60@example.com,(493)371-7847,1961-03-17,Other,2758 Lindsey Key,New Marilyn,Idaho,56052,Kiribati,2025-04-12,Budget,Gold,Fair,86919,True
+CUST_000879,Mary,Harvey,ilawrence@example.net,675.244.5847x413,1951-12-19,M,936 Hayley Rapids,Whitemouth,Michigan,87465,Bahrain,2025-08-25,Budget,Platinum,Excellent,170474,True
+CUST_000880,Bonnie,King,zacharyjohnson@example.org,784-847-9365x611,1979-08-12,M,23070 Rogers Glen Apt. 531,Johnsonberg,New Hampshire,83818,Uzbekistan,2023-08-02,Standard,Gold,Poor,197210,True
+CUST_000881,John,Lewis,lhorne@example.net,001-371-386-2447x563,1952-11-17,M,80782 Ryan Union,South Robertmouth,Vermont,39666,Guatemala,2024-07-21,Enterprise,Silver,Poor,88009,True
+CUST_000882,William,Palmer,bhall@example.com,001-441-880-2882x521,1971-12-14,F,9469 Thompson Parkway,Lake Mary,Maine,59353,Turks and Caicos Islands,2022-10-17,Budget,Gold,Poor,167143,True
+CUST_000883,Eric,Sanchez,maryjackson@example.net,+1-887-812-3203,1977-08-19,M,77862 Duffy Squares Suite 272,Rodgerstown,Washington,32377,Canada,2022-09-14,Standard,Silver,Good,106002,True
+CUST_000884,Victoria,Webb,mariahkim@example.org,001-806-428-3345x5735,1956-11-02,F,7004 Lewis Pines,Janicefort,Indiana,08482,Western Sahara,2023-01-23,Standard,Silver,Fair,42777,True
+CUST_000885,Steven,Mcgee,georgecooper@example.com,6428402555,1977-07-09,M,770 Garcia Mall,Maddoxside,California,47645,Solomon Islands,2024-06-08,Budget,Silver,Excellent,108542,False
+CUST_000886,Dana,Lin,dbooth@example.org,465.469.0448x46733,1983-12-22,F,248 Bell Mountain,Johnsonchester,Hawaii,31847,Philippines,2024-07-12,Budget,Platinum,Fair,64834,True
+CUST_000887,Shelby,Aguilar,susan64@example.org,260.389.5301x2033,1959-11-21,M,62833 Coleman Road Apt. 581,New Emilyville,Mississippi,29134,Costa Rica,2024-01-21,Standard,Silver,Excellent,185427,True
+CUST_000888,Mary,Gonzalez,iellis@example.net,+1-777-928-7156x5969,1988-08-02,Other,7595 Cherry Burg Suite 536,New Jennifer,Colorado,58580,Brazil,2023-08-03,Standard,Silver,Good,31837,True
+CUST_000889,Michael,Wu,priscilla83@example.net,(825)725-2078x821,1950-10-02,M,214 Henry Station,Luiston,Indiana,05791,Somalia,2025-02-08,Enterprise,Silver,Poor,195280,True
+CUST_000890,Derek,Mccoy,steven08@example.net,001-482-540-3532x12440,2007-08-08,M,40941 Laura Corners Apt. 525,Armstrongshire,Oregon,08513,Russian Federation,2022-10-07,Enterprise,Platinum,Poor,61048,True
+CUST_000891,Sara,Mendoza,christopher32@example.com,760-918-9113x4348,1949-01-04,M,962 Patterson Mall,East Tristanport,Florida,15702,Seychelles,2023-01-13,Standard,Bronze,Poor,28935,True
+CUST_000892,Anthony,Martin,andradejasmine@example.net,430-214-9480,1979-09-19,F,664 Moore Crescent,Lake Barbarashire,Arizona,67758,Cape Verde,2022-11-23,Standard,Silver,Good,42337,True
+CUST_000893,Jay,Flores,clintonhaley@example.org,001-366-970-4171x03891,1962-12-28,F,13320 Joseph Union Suite 956,South Chasehaven,New Mexico,51729,Guatemala,2022-11-10,Enterprise,Gold,Poor,89692,False
+CUST_000894,Jennifer,Chavez,michaelheath@example.com,(931)363-1603,1950-07-14,F,7039 Heath Ford,South Raymondmouth,Alaska,02292,Guatemala,2024-06-19,Premium,Platinum,Fair,128324,True
+CUST_000895,Juan,Sloan,msanders@example.org,001-223-937-0071x580,1999-04-14,Other,0863 Ian Hills,Port Anthony,Wisconsin,53745,Guadeloupe,2025-05-09,Premium,Platinum,Poor,36119,True
+CUST_000896,Kimberly,Carter,cindycurtis@example.org,759.709.7228x582,1991-06-23,Other,1391 Harrington Forest Suite 823,Simpsonside,Indiana,72302,Russian Federation,2024-02-25,Enterprise,Bronze,Poor,160299,True
+CUST_000897,Randy,Hart,dustinallen@example.org,8438647584,2001-04-18,M,674 Philip Overpass Apt. 206,North Stephen,Minnesota,22607,Morocco,2024-01-05,Budget,Platinum,Poor,104837,True
+CUST_000898,Reginald,Martinez,william08@example.org,644-515-7281,1988-12-23,F,68611 Hughes Burgs,South Charles,North Dakota,80136,Chad,2023-11-20,Standard,Platinum,Fair,185729,True
+CUST_000899,Kaitlin,Patton,matthew46@example.com,626-283-6843x771,1957-03-09,Other,545 Craig Turnpike Suite 003,Port Christopherchester,Tennessee,18545,Canada,2024-03-05,Standard,Platinum,Poor,48708,True
+CUST_000900,Edward,Walker,emarsh@example.com,+1-221-573-6838x50957,1960-12-24,M,5081 Jacob Unions,Melissatown,Kansas,36558,Suriname,2024-04-08,Standard,Platinum,Poor,109793,False
+CUST_000901,Johnathan,Nelson,chess@example.org,001-762-679-5951x429,1962-08-24,M,9542 Tina Terrace Suite 562,Cooperhaven,Alabama,02071,Bouvet Island (Bouvetoya),2023-12-06,Standard,Platinum,Good,144192,True
+CUST_000902,Sarah,Small,wongsean@example.com,579-445-9235x1638,1971-04-23,F,100 Sean Mountain Apt. 294,Shaneland,West Virginia,97289,Dominican Republic,2022-10-22,Budget,Silver,Excellent,48905,True
+CUST_000903,Joseph,Duarte,anita14@example.org,+1-835-952-8337x2875,1980-10-31,Other,302 Mcclure Lane,Danafort,Connecticut,11352,Guam,2024-03-28,Enterprise,Gold,Excellent,162315,False
+CUST_000904,David,Daniel,houstonmichelle@example.com,3898410791,1952-03-14,Other,4461 Yvonne Walks Apt. 097,Laurenburgh,Washington,40081,Tunisia,2025-06-10,Standard,Platinum,Poor,36509,True
+CUST_000905,Jason,Dennis,tara23@example.com,001-774-587-7007x8812,1955-07-24,F,18082 Richard Ports,New Robertfurt,Nebraska,95923,Andorra,2023-02-17,Standard,Silver,Good,71888,True
+CUST_000906,Russell,Lozano,andrealewis@example.net,+1-957-216-4682x1003,1997-02-05,F,0378 Allison Passage,Ellisonchester,Wisconsin,76528,Czech Republic,2023-03-06,Budget,Gold,Poor,100702,True
+CUST_000907,Victor,Pittman,duncanpamela@example.net,948.849.2674,2003-07-09,M,650 Lindsey Spring,Lisafurt,Massachusetts,58387,Burkina Faso,2023-12-20,Standard,Silver,Excellent,188200,True
+CUST_000908,Randall,Rhodes,ayalawilliam@example.net,279-547-7950,1964-01-18,M,02626 Brian Crossroad,Alvaradoview,Minnesota,23023,Zambia,2025-06-19,Enterprise,Platinum,Poor,167475,True
+CUST_000909,Stephanie,Walker,carrjennifer@example.org,640.963.5168x522,1969-11-13,Other,1258 Timothy Roads Apt. 053,Cummingschester,Rhode Island,27877,Congo,2023-02-04,Enterprise,Silver,Good,179366,False
+CUST_000910,Ryan,Robinson,david85@example.net,(328)237-2372x2593,1959-05-16,F,700 Thomas Fords,Selenaton,Indiana,97895,Kiribati,2022-09-20,Enterprise,Platinum,Excellent,182605,True
+CUST_000911,James,Hall,feliciachen@example.net,538.945.6125x78047,1951-01-19,M,176 Fernandez Shoal Suite 455,Kevinberg,Connecticut,48689,Liechtenstein,2024-09-06,Budget,Silver,Excellent,73454,True
+CUST_000912,Amber,Walker,ryanjohnson@example.org,001-427-539-6885x934,1984-09-24,M,97997 Erica Common,Andrewburgh,Connecticut,78339,Malawi,2023-10-23,Budget,Bronze,Good,33501,True
+CUST_000913,Bonnie,Craig,lauren10@example.org,906-366-8606x73476,1999-07-19,F,28959 Pamela Alley Apt. 852,Dwaynefort,Missouri,22638,Cape Verde,2022-12-30,Premium,Bronze,Excellent,134302,True
+CUST_000914,Michael,Malone,rebeccaalexander@example.org,001-663-299-4959,1957-05-09,M,4656 Gonzalez Mountains Apt. 873,North Edwardland,Alaska,87295,Cameroon,2024-11-22,Budget,Silver,Poor,176772,True
+CUST_000915,Sierra,Case,opowers@example.net,001-525-367-3223x4874,1971-07-13,M,19109 Kevin Path Suite 607,Port Julie,Nebraska,41073,Gabon,2025-06-16,Premium,Gold,Fair,121618,False
+CUST_000916,Seth,Mack,elizabethpalmer@example.net,(841)676-0909x371,2002-05-07,M,810 Bell Overpass Apt. 466,Jonathanfort,Indiana,90765,Djibouti,2024-04-21,Enterprise,Bronze,Fair,148421,True
+CUST_000917,Kayla,Khan,david90@example.net,566-951-8378x47719,1961-11-29,M,0968 Montgomery Parkway Apt. 625,East Johnhaven,Oregon,85032,Nauru,2025-03-04,Budget,Gold,Poor,162532,True
+CUST_000918,Peter,Long,josephwalker@example.org,(248)569-5212x156,1976-06-18,Other,88035 Barnes Highway,Simmonsport,Pennsylvania,08181,Croatia,2024-02-12,Standard,Bronze,Excellent,174780,True
+CUST_000919,Jordan,Hill,lnavarro@example.org,+1-816-312-2150x39655,1984-11-28,F,41589 Jason Landing,Port Amy,Virginia,94233,Panama,2023-11-21,Budget,Platinum,Fair,93068,True
+CUST_000920,Craig,Walker,leslie00@example.org,001-457-638-0101,1995-10-03,M,81580 Adkins Shoal Apt. 949,East Robinstad,Arizona,47194,Guadeloupe,2023-01-18,Enterprise,Platinum,Poor,72161,True
+CUST_000921,Cody,Hess,martharay@example.net,418.567.1708x049,1989-03-27,Other,71961 Sydney Forges Apt. 213,Barbaraburgh,Florida,06017,Mongolia,2025-04-20,Budget,Silver,Excellent,55987,True
+CUST_000922,Michele,Stokes,wadesherry@example.org,217.875.8856x2748,1969-11-06,F,262 Debra Circle,Vargasstad,California,56773,Ghana,2024-02-27,Premium,Silver,Poor,133538,True
+CUST_000923,Christopher,Rodriguez,pwilliams@example.org,+1-211-423-9933,1965-02-17,F,206 Jeffrey Turnpike Suite 596,Port Andrewshire,Virginia,51213,North Macedonia,2023-01-04,Budget,Silver,Excellent,192934,True
+CUST_000924,Kathryn,Dalton,rasmussenmichael@example.com,(311)820-3608,1994-03-16,Other,804 Burgess Valley,Larsenside,Vermont,10380,Puerto Rico,2024-07-08,Budget,Gold,Excellent,105680,True
+CUST_000925,Rebecca,Scott,joshuaelliott@example.com,995-606-0958x062,1966-02-19,Other,839 Duncan Canyon Suite 429,Christianberg,Texas,81590,Palestinian Territory,2022-09-25,Budget,Bronze,Excellent,112368,True
+CUST_000926,Christine,Gibson,lvelez@example.com,784.576.6919,1947-07-08,F,7286 Taylor Hill Suite 859,East Tammyfurt,Florida,80291,Sri Lanka,2024-01-09,Premium,Silver,Good,111642,True
+CUST_000927,Paul,Martinez,xhughes@example.net,+1-666-803-4982,1999-11-18,Other,0165 Moore Parks Suite 402,West Lydiafort,Florida,27538,Benin,2024-11-01,Enterprise,Platinum,Excellent,194253,True
+CUST_000928,Dylan,Hernandez,susanpeterson@example.com,001-460-308-5894x9617,1967-06-28,F,2053 Gonzalez Corners,Lake David,Louisiana,49189,Uruguay,2023-12-05,Standard,Platinum,Fair,146233,False
+CUST_000929,Mark,Yu,keithhernandez@example.org,(510)391-2944,1994-08-20,Other,140 Hunt Greens Apt. 779,Lake Morgan,Arizona,99634,Canada,2022-12-22,Premium,Gold,Fair,170536,True
+CUST_000930,Danny,Arias,jeremyrobinson@example.net,001-481-681-0096,1954-12-06,M,7896 Erin Lake Suite 745,South Jason,Vermont,39889,Macao,2024-04-02,Budget,Gold,Excellent,64139,True
+CUST_000931,Amanda,Gonzalez,jholloway@example.com,242-725-3511x7882,1947-08-03,M,5538 William Mountains,North Valerie,New Hampshire,52498,Lebanon,2023-12-28,Budget,Platinum,Good,174679,False
+CUST_000932,Robyn,Erickson,amberbooker@example.com,587-312-0753x13685,1968-02-01,M,2107 Joseph Corner,Kristyview,Iowa,00998,North Macedonia,2025-02-21,Premium,Gold,Fair,33291,True
+CUST_000933,Alexis,Hughes,sandra52@example.net,+1-964-357-4433x199,1995-10-06,F,33497 Cindy Ville Suite 010,Lake Jamieport,Iowa,39100,Gabon,2024-06-26,Premium,Platinum,Good,122408,False
+CUST_000934,Tyler,Rodgers,lisa61@example.net,988.617.8602x15992,1958-05-19,F,82749 Stephanie Fords Apt. 122,East Monica,Massachusetts,35109,Moldova,2022-10-22,Standard,Gold,Good,54420,True
+CUST_000935,Nichole,Smith,hclark@example.com,001-283-568-7477x7407,1970-01-20,M,6007 Rivers Dam Apt. 821,Port Grace,Ohio,17154,British Indian Ocean Territory (Chagos Archipelago),2024-06-05,Standard,Bronze,Poor,157643,True
+CUST_000936,Sarah,Trevino,igrimes@example.org,784.872.6439x3304,1980-08-03,F,6604 Hinton Court,East Johnny,Kentucky,27447,Guam,2024-04-01,Standard,Silver,Fair,151739,True
+CUST_000937,Jessica,Lane,rodriguezabigail@example.com,(251)624-2106x37817,1979-11-29,F,4811 Barber Prairie,Saraside,South Dakota,93529,Holy See (Vatican City State),2024-05-27,Standard,Bronze,Good,78788,True
+CUST_000938,Jonathan,Jones,victorfischer@example.org,863.965.9727,1971-08-18,F,7593 Kramer Manors Apt. 341,Scottland,Pennsylvania,45857,Cyprus,2025-01-03,Enterprise,Bronze,Excellent,106521,True
+CUST_000939,Wendy,Johnson,harold72@example.org,299.307.6150,1949-05-30,Other,154 Kyle Falls,South Teresa,New York,81565,Cayman Islands,2024-12-16,Premium,Gold,Poor,37095,True
+CUST_000940,Jose,Richards,millermichelle@example.net,(516)247-9049x9157,1968-09-18,Other,3672 Brandy Lock Apt. 023,Whiteport,Iowa,88925,China,2022-11-09,Budget,Bronze,Fair,192470,True
+CUST_000941,William,Hughes,rpollard@example.com,+1-371-355-7932x770,1987-08-10,F,917 Harris Valley Apt. 609,Romerochester,North Carolina,72829,Portugal,2024-04-17,Standard,Silver,Fair,97522,True
+CUST_000942,Danielle,Pierce,johnsonkatelyn@example.com,+1-697-935-8679x43364,1947-11-26,F,27676 Wheeler Valley Suite 587,Cruzview,Pennsylvania,83471,Estonia,2025-08-08,Premium,Gold,Good,66286,True
+CUST_000943,Julie,Bailey,joshuaramos@example.com,802-740-5377x29084,2000-01-12,M,0375 Spencer Bypass Suite 805,New Jason,Washington,70451,Holy See (Vatican City State),2025-06-17,Premium,Bronze,Good,167220,True
+CUST_000944,Betty,Lopez,wrightcarolyn@example.com,001-280-840-7373x0415,1958-06-12,Other,51026 Black Ways Suite 963,West Sandra,New Jersey,37349,Oman,2023-12-20,Budget,Gold,Good,99256,True
+CUST_000945,Heather,Cuevas,vshields@example.org,332.773.9974,1982-02-23,M,941 Natalie Brooks,Lake Tracy,Arizona,63800,Spain,2024-04-14,Premium,Gold,Fair,166709,False
+CUST_000946,Evelyn,Carlson,myerstiffany@example.com,001-277-897-3833,1950-03-07,M,57547 Melissa Brooks Suite 260,Port Tanner,Washington,53386,Tokelau,2024-04-08,Standard,Bronze,Poor,38226,True
+CUST_000947,Matthew,Avila,castillodana@example.net,+1-312-492-3613,1956-07-03,F,5998 Choi Cove Apt. 376,Smithhaven,Wyoming,02035,Liechtenstein,2024-06-03,Premium,Bronze,Poor,127738,True
+CUST_000948,Katherine,Burton,xkirk@example.org,6649070783,1978-02-18,Other,303 Holmes Trafficway Suite 736,Donnatown,Maine,34883,Niger,2023-01-27,Enterprise,Gold,Fair,112118,True
+CUST_000949,Jack,Brown,lopezmichelle@example.net,636.243.1678x59844,1979-05-22,Other,930 Wendy Road Apt. 756,Port Jennifermouth,Georgia,55987,Niger,2024-07-23,Premium,Platinum,Good,49357,False
+CUST_000950,Brian,Paul,jamiebarr@example.org,(499)596-6330,1967-04-03,M,4030 Harper Ramp Apt. 540,Lake Steven,Hawaii,03876,British Indian Ocean Territory (Chagos Archipelago),2023-02-14,Enterprise,Gold,Poor,148350,True
+CUST_000951,Theresa,Lynch,clarencebray@example.com,8044231820,1995-07-29,M,8109 Renee Centers,Kennethport,Virginia,59258,Cuba,2025-06-07,Standard,Gold,Fair,127780,True
+CUST_000952,Michael,Avila,ngreene@example.net,524.455.3815x18272,1972-03-10,Other,95185 Monica Lakes Suite 688,West Rebeccashire,Arizona,32440,Austria,2025-06-30,Budget,Gold,Poor,152796,True
+CUST_000953,David,Henderson,megan48@example.com,(415)604-8849x1508,1962-11-02,M,35076 Reed Knoll Apt. 558,Port Bryanberg,Texas,20495,Kiribati,2024-01-01,Enterprise,Bronze,Fair,150475,False
+CUST_000954,Mark,West,fburton@example.com,(592)954-1238x724,1982-03-30,M,70455 Kelley Inlet,Murrayview,Washington,14332,Jordan,2023-12-19,Budget,Gold,Good,158155,True
+CUST_000955,James,Elliott,fhopkins@example.org,(855)993-5027,1961-04-15,F,4122 Hernandez Orchard,Wardland,Maine,48711,Yemen,2023-01-10,Premium,Gold,Excellent,104198,False
+CUST_000956,Courtney,Hill,oescobar@example.org,7547558345,2000-08-11,F,2168 James Underpass Suite 668,New Loristad,Wisconsin,01520,Gabon,2025-08-26,Enterprise,Silver,Good,168641,True
+CUST_000957,Julia,Davis,dmalone@example.com,417.315.5785,1984-02-09,F,336 Eaton Tunnel Apt. 160,Debbietown,Colorado,04880,Heard Island and McDonald Islands,2023-10-20,Enterprise,Bronze,Fair,79588,False
+CUST_000958,Kathryn,Gonzalez,davismike@example.org,(502)564-0093,2003-12-07,F,79020 Amy Roads Suite 821,New Kenneth,New Hampshire,68623,Bolivia,2024-12-10,Budget,Silver,Good,198699,True
+CUST_000959,Robert,Chavez,rwright@example.org,001-908-634-8124x2664,1954-01-25,Other,4047 Katie Track Apt. 796,Allenmouth,North Dakota,12680,Pitcairn Islands,2024-10-06,Enterprise,Bronze,Poor,110295,True
+CUST_000960,Thomas,Summers,joseph92@example.com,(387)714-4693x9953,1965-06-29,F,4239 Smith Drives Suite 908,Adamsshire,Missouri,51681,Italy,2024-09-08,Standard,Gold,Poor,43247,True
+CUST_000961,Lindsey,Brown,stanleyamanda@example.org,001-423-224-6872,1958-12-17,Other,78406 James Loop,Gillespiehaven,Massachusetts,65482,Macao,2023-06-03,Enterprise,Gold,Poor,194080,True
+CUST_000962,Sarah,Cobb,breanna57@example.net,(957)886-8005x5126,1961-02-19,M,436 Gabriel Camp Suite 614,Kellyview,Kentucky,23775,Armenia,2022-11-14,Standard,Silver,Excellent,63463,True
+CUST_000963,Edward,Hooper,dramos@example.net,752-203-5191,1995-05-14,F,1335 Williams Corners Suite 322,Nolanchester,Virginia,27346,Colombia,2025-04-01,Budget,Platinum,Poor,76292,True
+CUST_000964,Emily,Holt,chandavid@example.org,+1-210-260-8917,1967-08-06,Other,184 Stevens Villages,Bettychester,Mississippi,81521,Netherlands Antilles,2022-09-30,Budget,Gold,Fair,138961,True
+CUST_000965,Melanie,Kennedy,michaeloliver@example.org,943-958-3040,1990-10-10,M,30610 Penny Dam Apt. 689,Robertsborough,New Jersey,14949,Finland,2025-09-06,Premium,Platinum,Good,102118,True
+CUST_000966,John,Flowers,campbellchristopher@example.org,543.512.6665x602,1969-12-29,F,5806 John Islands Suite 526,Bentleyton,Utah,32214,Iraq,2024-07-28,Premium,Bronze,Fair,53756,True
+CUST_000967,Thomas,Brown,hramsey@example.org,7569870690,2004-12-21,M,18167 Lisa Garden,Laurenborough,Oregon,30599,Senegal,2024-10-10,Standard,Platinum,Poor,188896,True
+CUST_000968,Jesse,Soto,joseph49@example.net,216-457-0794x32183,1961-10-14,Other,468 Fuller Spur Suite 190,Lake Austin,California,86018,United Kingdom,2022-11-18,Enterprise,Platinum,Poor,139082,True
+CUST_000969,Jennifer,Stephens,maxwellcorey@example.net,534.265.3363,1964-07-29,Other,437 Aaron Viaduct Suite 164,South Sarah,Arizona,84359,Oman,2023-02-15,Standard,Platinum,Good,74342,False
+CUST_000970,Kristie,Smith,scott12@example.com,001-892-383-3971x785,1973-04-15,F,0591 Crane Freeway Apt. 010,Jennifershire,Colorado,50101,New Caledonia,2024-12-28,Enterprise,Silver,Fair,57911,True
+CUST_000971,Jaime,Love,freemanjason@example.com,770-589-4406x5452,2003-05-13,M,0765 Barbara Lock Apt. 078,Ronaldburgh,New Hampshire,15005,Mozambique,2024-09-02,Premium,Bronze,Good,152585,False
+CUST_000972,Ethan,Johnson,tiffanygreer@example.net,(311)686-8010x9360,1997-11-16,M,170 Monica Dale,Vaughnburgh,North Dakota,03662,Guatemala,2025-06-22,Premium,Silver,Poor,144545,False
+CUST_000973,Leah,Estrada,fmarshall@example.com,3143972682,1980-03-01,Other,964 Johnson Overpass Suite 359,Petershire,Utah,15190,Nauru,2025-02-19,Standard,Platinum,Poor,169716,False
+CUST_000974,Edward,Gomez,maddoxmicheal@example.org,001-897-948-9250x0751,1991-09-30,F,735 Andrea Street Apt. 774,Acevedoport,New York,59631,New Caledonia,2023-05-27,Budget,Silver,Good,136351,True
+CUST_000975,Michelle,Mendez,diamond43@example.net,756.499.9712,1993-05-21,Other,306 Simmons Ports,East Patrickfort,Delaware,76172,Benin,2024-05-23,Enterprise,Silver,Fair,132698,True
+CUST_000976,Suzanne,Andrews,mikegregory@example.org,+1-913-787-8305x6828,1959-04-24,M,2620 Carmen Harbor Suite 478,North Jacobburgh,Montana,77950,Timor-Leste,2024-09-05,Premium,Platinum,Fair,54665,False
+CUST_000977,James,Reese,hayesashley@example.org,(729)231-7786,1994-08-28,Other,750 Nguyen Orchard Suite 791,Turnerland,Florida,88229,Gabon,2023-04-28,Premium,Silver,Fair,146880,True
+CUST_000978,Danielle,Clark,wesleydominguez@example.org,001-257-550-9272x094,1968-08-29,Other,5629 Gonzalez Ports Apt. 686,Brayhaven,Ohio,41844,Greece,2022-09-26,Premium,Silver,Poor,190324,True
+CUST_000979,Ashley,Nelson,joseph10@example.net,504-727-9749,1962-03-24,Other,01818 Carr Road,East Susanshire,Kansas,48959,Kiribati,2025-08-07,Budget,Bronze,Fair,165255,True
+CUST_000980,Manuel,Rice,garciamark@example.com,6344756016,1968-11-24,F,5462 Rhonda Crossing Apt. 546,East Elizabeth,Oregon,37789,Albania,2024-02-27,Enterprise,Platinum,Fair,135366,True
+CUST_000981,Michelle,Potter,elizabethperez@example.com,(309)254-7006x0398,1972-07-01,F,63521 Chen Street Apt. 202,West Cynthia,New York,44797,Iran,2022-11-20,Budget,Silver,Excellent,181666,True
+CUST_000982,Xavier,Whitehead,ryan18@example.net,341-733-3665x02859,2001-09-08,Other,179 Elizabeth Stream Suite 829,Lake Markport,Pennsylvania,23868,Chile,2022-12-10,Budget,Bronze,Poor,176556,True
+CUST_000983,Brenda,Wilson,santosernest@example.net,+1-848-514-1401x385,1981-04-04,Other,65201 Lori Burgs Apt. 740,North Christine,North Carolina,85252,Gabon,2024-10-16,Premium,Gold,Excellent,100187,False
+CUST_000984,Ryan,Petty,npowell@example.com,+1-818-927-2913,2000-07-23,M,164 Benson Ports Apt. 532,New Diamondville,Connecticut,25494,Bahamas,2024-03-28,Standard,Bronze,Fair,91073,True
+CUST_000985,Nicole,Robinson,richard82@example.org,528-440-2246x2671,1945-04-26,Other,3423 Alexander Canyon,Wellstown,Maryland,18145,Niger,2025-06-10,Budget,Gold,Fair,28723,True
+CUST_000986,James,Haney,bbowman@example.net,(674)208-7721x0752,1945-12-22,Other,051 Hailey Via,Levyberg,Maine,61049,Spain,2025-08-11,Standard,Silver,Poor,121932,True
+CUST_000987,Melvin,White,keith16@example.net,+1-389-439-2763x98523,1994-10-09,F,3278 Black Neck,West Henrybury,Minnesota,60349,Sierra Leone,2024-08-20,Standard,Platinum,Good,163251,True
+CUST_000988,Christian,Mendez,beth11@example.net,(299)921-3534x70507,1974-11-22,F,884 Hopkins Ridge,Gonzalezstad,New Jersey,50031,Madagascar,2023-12-08,Premium,Silver,Good,155009,False
+CUST_000989,Susan,Martinez,youngsarah@example.com,001-451-494-8454,2001-05-26,F,1330 Salazar Keys Suite 196,Lake Haley,Delaware,98498,Romania,2025-06-16,Standard,Platinum,Good,80274,True
+CUST_000990,Cory,Carlson,gparker@example.net,663.365.9050,1975-08-20,M,23426 Bridges Turnpike Suite 032,Lake Margaret,Delaware,18841,Maldives,2022-12-04,Budget,Bronze,Excellent,68935,False
+CUST_000991,Bryan,Sparks,michaelvalencia@example.net,552.311.2759x637,1950-03-18,F,10886 Terri Center,Dennismouth,Pennsylvania,34503,Peru,2025-03-06,Enterprise,Gold,Poor,164597,True
+CUST_000992,Anthony,Cervantes,hicksandrew@example.net,(248)351-0021x82414,1972-11-22,F,461 Walters Mountains,Mayborough,Idaho,08919,Finland,2024-05-22,Enterprise,Platinum,Fair,63050,False
+CUST_000993,Audrey,Atkins,clarkdavid@example.org,834-774-3344x210,1948-11-12,M,46010 Rodriguez Crossing,West Michael,West Virginia,60166,Montserrat,2023-08-06,Budget,Platinum,Poor,107755,True
+CUST_000994,Brandon,Kennedy,gabrielleanderson@example.org,+1-956-972-1761x898,1975-08-17,M,751 Vincent Mountain Apt. 239,New Tashabury,South Carolina,60331,Norway,2024-08-04,Budget,Platinum,Fair,112809,True
+CUST_000995,Eugene,Ramirez,rwalker@example.com,994-555-8681,1962-05-12,F,9640 Connie Underpass,West Nancymouth,North Carolina,43945,Niger,2023-04-07,Premium,Gold,Poor,145876,True
+CUST_000996,Ashley,Saunders,john62@example.org,(644)293-3927x195,2004-02-08,Other,567 Donald Center,Stuartland,Wyoming,47046,Congo,2024-01-23,Standard,Gold,Good,107121,True
+CUST_000997,Diane,Lopez,michael55@example.org,+1-454-440-7896x77888,2006-02-08,Other,07204 Kayla River,Troyland,Delaware,23279,French Polynesia,2023-11-23,Premium,Bronze,Excellent,132806,True
+CUST_000998,Hailey,Richardson,amedina@example.com,804-686-6718,2004-08-07,Other,2447 Heather Port,Harrisonville,Alaska,15898,Macao,2024-01-28,Premium,Platinum,Fair,82518,True
+CUST_000999,Kimberly,Hall,markfrank@example.net,943-607-3246x6899,1982-07-13,F,04381 Ramos Ranch,West Richard,Oregon,21583,Finland,2024-02-01,Standard,Bronze,Excellent,187371,True
+CUST_001000,Justin,Rose,hickmanerin@example.org,786-843-2314,1996-01-25,M,127 Wheeler Viaduct,Brownbury,Louisiana,32224,United Kingdom,2024-12-17,Standard,Bronze,Excellent,47645,True

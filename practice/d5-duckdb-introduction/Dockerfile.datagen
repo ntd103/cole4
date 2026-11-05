@@ -1,0 +1,19 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install required packages
+RUN pip install --no-cache-dir \
+    pandas==2.1.4 \
+    faker==20.1.0 \
+    numpy==1.24.3 \
+    pyarrow==14.0.1 \
+    tqdm==4.66.1
+
+# Copy data generation script
+COPY generate_sample_data.py /app/
+
+# Create data directory
+RUN mkdir -p /app/data
+
+CMD ["python", "generate_sample_data.py"]

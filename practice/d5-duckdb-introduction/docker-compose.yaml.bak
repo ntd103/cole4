@@ -1,0 +1,29 @@
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data
+      - ./scripts:/home/jovyan/scripts
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=duckdb-demo
+    command: start-notebook.sh --NotebookApp.token='duckdb-demo' --NotebookApp.password=''
+
+  data-generator:
+    build:
+      context: .
+      dockerfile: Dockerfile.datagen
+    volumes:
+      - ./data:/app/data
+    command: python generate_sample_data.py
+    depends_on:
+      - jupyter
+
+volumes:
+  data:
+  notebooks:

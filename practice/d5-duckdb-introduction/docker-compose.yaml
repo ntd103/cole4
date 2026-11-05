@@ -1,0 +1,30 @@
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${JUPYTER_PORT:-8888}:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data
+      # ./scripts removed: no notebook references it
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=${JUPYTER_TOKEN:-duckdb-demo}
+    command: start-notebook.sh --NotebookApp.token='${JUPYTER_TOKEN:-duckdb-demo}' --NotebookApp.password=''
+
+  data-generator:
+    build:
+      context: .
+      dockerfile: Dockerfile.datagen
+    volumes:
+      - ./data:/app/data
+    environment:
+      - CUSTOMERS=${CUSTOMERS:-1000000}
+      - TRANSACTIONS=${TRANSACTIONS:-10000000}
+      - PRODUCTS=${PRODUCTS:-100000}
+      - CHUNK_SIZE=${CHUNK_SIZE:-500000}
+      - SEED=${SEED:-42}
+    command: python generate_sample_data.py
+    # depends_on removed: generator writes files, it does not need Jupyter running

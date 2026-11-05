@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,city,signup_date,loyalty_tier
+CUST0001,Robert,Brown,46,San Diego,2022-11-10,Bronze
+CUST0002,Michael,Miller,28,San Diego,2023-10-28,Silver
+CUST0003,Jennifer,Williams,39,Phoenix,2022-02-08,Silver
+CUST0004,Lisa,Johnson,77,Phoenix,2023-03-30,Bronze
+CUST0005,Lisa,Rodriguez,66,San Jose,2021-11-30,Bronze
+CUST0006,Michael,Miller,69,Dallas,2023-02-28,Gold
+CUST0007,Robert,Jones,26,San Antonio,2023-07-21,Gold
+CUST0008,Jane,Martinez,26,San Jose,2021-07-18,Bronze
+CUST0009,Robert,Davis,64,Chicago,2020-07-24,Bronze
+CUST0010,Jane,Davis,21,Los Angeles,2022-10-18,Silver
+CUST0011,Patricia,Brown,71,Los Angeles,2021-12-30,Bronze
+CUST0012,Patricia,Brown,31,San Diego,2023-06-29,Bronze
+CUST0013,Jennifer,Jones,33,Los Angeles,2022-05-28,Gold
+CUST0014,Patricia,Rodriguez,77,Dallas,2023-03-26,Gold
+CUST0015,John,Rodriguez,24,Dallas,2023-09-29,Bronze
+CUST0016,Jennifer,Davis,28,Chicago,2021-08-15,Silver
+CUST0017,Michael,Smith,76,Phoenix,2020-08-18,Silver
+CUST0018,Robert,Rodriguez,25,Los Angeles,2022-11-22,Bronze
+CUST0019,Robert,Davis,54,Chicago,2021-11-14,Silver
+CUST0020,Michael,Smith,52,Phoenix,2021-10-04,Silver
+CUST0021,Patricia,Miller,31,San Antonio,2022-03-05,Silver
+CUST0022,Patricia,Martinez,77,Chicago,2022-05-13,Silver
+CUST0023,Sarah,Brown,47,Phoenix,2023-12-01,Silver
+CUST0024,Sarah,Miller,76,Chicago,2023-01-14,Gold
+CUST0025,Patricia,Rodriguez,70,Philadelphia,2022-03-06,Gold
+CUST0026,Sarah,Martinez,72,Dallas,2023-06-08,Gold
+CUST0027,John,Rodriguez,44,Dallas,2021-09-19,Bronze
+CUST0028,Michael,Miller,23,San Diego,2023-12-05,Bronze
+CUST0029,David,Smith,68,San Jose,2021-11-14,Bronze
+CUST0030,Lisa,Davis,58,Houston,2023-02-10,Bronze
+CUST0031,Patricia,Brown,29,San Antonio,2023-11-10,Silver
+CUST0032,David,Smith,73,New York,2021-11-29,Silver
+CUST0033,Jane,Garcia,40,Phoenix,2023-06-02,Silver
+CUST0034,Jane,Jones,61,San Jose,2023-12-10,Silver
+CUST0035,Robert,Davis,76,New York,2022-02-05,Gold
+CUST0036,David,Brown,51,Philadelphia,2022-09-08,Silver
+CUST0037,John,Rodriguez,77,Philadelphia,2021-04-08,Bronze
+CUST0038,Sarah,Brown,36,San Jose,2020-05-26,Bronze
+CUST0039,Robert,Brown,58,New York,2021-07-04,Gold
+CUST0040,John,Rodriguez,42,Los Angeles,2020-05-30,Silver
+CUST0041,Patricia,Williams,24,San Jose,2021-09-15,Silver
+CUST0042,John,Johnson,18,Phoenix,2022-11-26,Gold
+CUST0043,Robert,Rodriguez,58,Chicago,2022-03-26,Gold
+CUST0044,Sarah,Davis,71,San Diego,2021-09-19,Bronze
+CUST0045,Jennifer,Brown,55,San Diego,2020-09-10,Bronze
+CUST0046,William,Williams,42,Los Angeles,2022-05-27,Silver
+CUST0047,Lisa,Williams,33,Dallas,2020-06-09,Bronze
+CUST0048,David,Brown,73,San Diego,2023-03-04,Silver
+CUST0049,John,Williams,39,San Antonio,2022-11-11,Bronze
+CUST0050,Lisa,Garcia,62,Chicago,2021-03-13,Gold
+CUST0051,Jane,Jones,47,New York,2020-10-10,Silver
+CUST0052,John,Jones,77,Chicago,2021-06-30,Silver
+CUST0053,John,Jones,23,Chicago,2022-11-26,Gold
+CUST0054,John,Jones,48,Chicago,2021-11-30,Gold
+CUST0055,David,Miller,50,Chicago,2020-05-07,Bronze
+CUST0056,Patricia,Garcia,75,Chicago,2021-11-16,Bronze
+CUST0057,Lisa,Miller,19,San Jose,2023-11-10,Bronze
+CUST0058,Jennifer,Smith,26,Philadelphia,2023-04-14,Silver
+CUST0059,Patricia,Miller,43,Chicago,2022-07-09,Silver
+CUST0060,Patricia,Miller,74,Houston,2021-11-15,Bronze
+CUST0061,Jennifer,Williams,40,Los Angeles,2022-04-13,Bronze
+CUST0062,Lisa,Williams,42,San Jose,2021-07-28,Platinum
+CUST0063,Lisa,Martinez,75,Philadelphia,2020-10-31,Bronze
+CUST0064,Lisa,Garcia,60,Phoenix,2022-09-19,Gold
+CUST0065,David,Miller,21,Philadelphia,2022-05-26,Bronze
+CUST0066,Michael,Miller,57,Houston,2021-10-17,Platinum
+CUST0067,Patricia,Williams,34,San Diego,2022-04-10,Bronze
+CUST0068,Patricia,Miller,43,Phoenix,2020-04-26,Bronze
+CUST0069,William,Jones,18,San Jose,2021-09-25,Bronze
+CUST0070,Jane,Garcia,65,Dallas,2021-05-02,Gold
+CUST0071,John,Miller,22,Philadelphia,2022-05-10,Bronze
+CUST0072,Patricia,Williams,54,Philadelphia,2021-11-27,Bronze
+CUST0073,David,Smith,47,Houston,2021-03-28,Bronze
+CUST0074,Patricia,Martinez,65,Phoenix,2021-07-04,Bronze
+CUST0075,David,Miller,75,San Jose,2023-01-28,Bronze
+CUST0076,Patricia,Martinez,36,San Jose,2022-02-07,Silver
+CUST0077,Sarah,Davis,33,San Antonio,2020-09-14,Bronze
+CUST0078,Sarah,Davis,29,Los Angeles,2021-01-14,Bronze
+CUST0079,Michael,Jones,29,Chicago,2023-12-11,Silver
+CUST0080,Jane,Williams,67,Chicago,2021-12-27,Bronze
+CUST0081,Jennifer,Martinez,27,San Jose,2022-10-18,Gold
+CUST0082,William,Miller,21,San Jose,2023-01-03,Gold
+CUST0083,Sarah,Rodriguez,38,Dallas,2021-11-06,Bronze
+CUST0084,William,Davis,52,New York,2023-01-27,Bronze
+CUST0085,Jane,Smith,56,San Diego,2021-10-24,Gold
+CUST0086,David,Smith,72,San Antonio,2020-08-04,Bronze
+CUST0087,John,Smith,79,Houston,2021-12-29,Bronze
+CUST0088,Michael,Smith,53,Dallas,2020-03-16,Bronze
+CUST0089,Sarah,Williams,75,Phoenix,2022-12-28,Bronze
+CUST0090,William,Brown,76,Phoenix,2023-03-20,Silver
+CUST0091,Robert,Jones,59,San Jose,2022-07-23,Platinum
+CUST0092,Patricia,Jones,52,San Antonio,2022-01-02,Bronze
+CUST0093,Jane,Rodriguez,27,San Jose,2021-05-06,Gold
+CUST0094,Lisa,Miller,63,San Diego,2020-06-18,Bronze
+CUST0095,Patricia,Johnson,22,Phoenix,2023-12-16,Platinum
+CUST0096,John,Garcia,69,New York,2021-05-25,Gold
+CUST0097,Sarah,Brown,23,Chicago,2021-03-20,Bronze
+CUST0098,Robert,Martinez,43,Chicago,2020-02-08,Bronze
+CUST0099,Jane,Martinez,37,San Diego,2022-04-08,Gold
+CUST0100,Robert,Smith,20,Dallas,2023-04-29,Bronze
+CUST0101,William,Davis,50,Philadelphia,2023-02-14,Platinum
+CUST0102,David,Garcia,38,Phoenix,2023-06-04,Silver
+CUST0103,William,Johnson,64,Dallas,2023-08-21,Silver
+CUST0104,John,Jones,71,Philadelphia,2023-07-06,Gold
+CUST0105,William,Martinez,49,San Diego,2020-12-23,Bronze
+CUST0106,David,Davis,75,Houston,2020-03-30,Bronze
+CUST0107,Jane,Jones,58,Houston,2021-05-16,Bronze
+CUST0108,William,Smith,70,Houston,2021-04-05,Silver
+CUST0109,Michael,Garcia,35,Chicago,2020-09-12,Silver
+CUST0110,William,Johnson,27,San Diego,2022-03-08,Gold
+CUST0111,David,Miller,73,New York,2021-01-08,Gold
+CUST0112,John,Jones,43,Dallas,2022-04-06,Gold
+CUST0113,John,Johnson,58,Chicago,2021-05-25,Bronze
+CUST0114,Robert,Garcia,45,New York,2021-12-09,Platinum
+CUST0115,Lisa,Williams,70,San Antonio,2022-09-23,Silver
+CUST0116,Patricia,Martinez,36,New York,2023-01-13,Bronze
+CUST0117,John,Williams,62,Houston,2021-03-24,Silver
+CUST0118,Jane,Davis,56,San Jose,2020-09-06,Silver
+CUST0119,Lisa,Williams,76,Los Angeles,2020-09-24,Gold
+CUST0120,David,Rodriguez,34,San Antonio,2023-05-15,Silver
+CUST0121,Jane,Williams,56,Philadelphia,2022-02-02,Platinum
+CUST0122,Jane,Johnson,35,Chicago,2021-03-22,Silver
+CUST0123,William,Garcia,50,San Diego,2023-09-20,Bronze
+CUST0124,Robert,Martinez,68,New York,2020-05-12,Silver
+CUST0125,Patricia,Davis,34,San Jose,2022-02-23,Bronze
+CUST0126,Jennifer,Jones,51,Philadelphia,2020-02-22,Bronze
+CUST0127,Michael,Rodriguez,40,San Antonio,2022-04-27,Bronze
+CUST0128,Lisa,Davis,21,San Diego,2022-06-18,Bronze
+CUST0129,Michael,Williams,44,Los Angeles,2020-03-01,Bronze
+CUST0130,Michael,Jones,22,Los Angeles,2021-08-26,Bronze
+CUST0131,Lisa,Jones,23,New York,2021-10-06,Bronze
+CUST0132,Patricia,Johnson,66,San Jose,2023-01-01,Bronze
+CUST0133,William,Garcia,64,San Diego,2020-12-15,Bronze
+CUST0134,John,Martinez,53,New York,2020-01-08,Silver
+CUST0135,Sarah,Davis,39,San Jose,2020-01-28,Bronze
+CUST0136,Jennifer,Johnson,62,San Jose,2021-06-09,Bronze
+CUST0137,Michael,Miller,20,San Antonio,2022-01-19,Silver
+CUST0138,Jane,Martinez,55,Chicago,2022-11-04,Bronze
+CUST0139,Robert,Jones,45,San Jose,2022-11-28,Bronze
+CUST0140,Robert,Garcia,43,Dallas,2020-05-24,Bronze
+CUST0141,William,Brown,27,Chicago,2020-08-20,Bronze
+CUST0142,Sarah,Garcia,51,San Diego,2023-10-24,Silver
+CUST0143,Patricia,Rodriguez,54,Philadelphia,2021-11-22,Silver
+CUST0144,Jane,Davis,76,Philadelphia,2023-11-01,Bronze
+CUST0145,Lisa,Jones,23,Philadelphia,2021-09-15,Bronze
+CUST0146,Jennifer,Miller,26,San Antonio,2022-06-17,Silver
+CUST0147,Jennifer,Jones,53,San Diego,2023-05-31,Gold
+CUST0148,Sarah,Brown,32,Philadelphia,2020-04-27,Bronze
+CUST0149,Jennifer,Garcia,68,Dallas,2020-07-12,Silver
+CUST0150,Jennifer,Martinez,68,Phoenix,2020-11-21,Platinum
+CUST0151,Sarah,Williams,37,New York,2021-06-15,Bronze
+CUST0152,John,Martinez,31,Philadelphia,2020-05-18,Gold
+CUST0153,Michael,Smith,23,Los Angeles,2020-01-10,Silver
+CUST0154,Patricia,Johnson,30,San Diego,2020-11-16,Bronze
+CUST0155,William,Smith,26,San Diego,2023-12-13,Bronze
+CUST0156,John,Jones,79,Los Angeles,2020-11-29,Gold
+CUST0157,William,Johnson,29,Chicago,2021-05-27,Silver
+CUST0158,Lisa,Davis,28,Dallas,2023-06-06,Bronze
+CUST0159,Michael,Jones,54,Phoenix,2022-04-30,Silver
+CUST0160,Patricia,Brown,42,San Jose,2020-03-29,Silver
+CUST0161,Jennifer,Miller,57,Chicago,2021-02-25,Silver
+CUST0162,John,Rodriguez,34,New York,2022-10-03,Bronze
+CUST0163,David,Davis,57,Chicago,2022-11-28,Bronze
+CUST0164,Lisa,Williams,24,Chicago,2021-07-07,Bronze
+CUST0165,John,Brown,47,San Antonio,2022-07-11,Silver
+CUST0166,Lisa,Rodriguez,50,Phoenix,2023-12-05,Silver
+CUST0167,Sarah,Garcia,19,San Jose,2021-05-31,Gold
+CUST0168,John,Garcia,55,Houston,2020-08-03,Silver
+CUST0169,Jennifer,Jones,46,Houston,2022-04-23,Silver
+CUST0170,Michael,Williams,53,Houston,2022-03-04,Bronze
+CUST0171,David,Brown,28,San Jose,2022-05-21,Silver
+CUST0172,Jennifer,Miller,64,San Jose,2020-10-28,Silver
+CUST0173,Patricia,Davis,79,Los Angeles,2022-09-11,Bronze
+CUST0174,Jennifer,Brown,65,Houston,2023-03-02,Gold
+CUST0175,Jennifer,Martinez,66,San Jose,2022-10-10,Bronze
+CUST0176,Jennifer,Rodriguez,39,San Antonio,2022-03-24,Bronze
+CUST0177,Patricia,Brown,71,San Antonio,2022-04-04,Bronze
+CUST0178,Lisa,Miller,68,San Diego,2021-10-22,Bronze
+CUST0179,David,Rodriguez,27,Houston,2020-11-08,Bronze
+CUST0180,William,Williams,69,Dallas,2020-03-15,Gold
+CUST0181,Robert,Johnson,44,Los Angeles,2020-12-12,Bronze
+CUST0182,Michael,Garcia,41,Dallas,2023-04-18,Bronze
+CUST0183,Jennifer,Smith,66,Philadelphia,2021-10-27,Bronze
+CUST0184,David,Smith,24,New York,2023-01-12,Bronze
+CUST0185,Sarah,Garcia,39,San Diego,2021-07-14,Bronze
+CUST0186,Robert,Williams,76,San Diego,2021-12-23,Bronze
+CUST0187,John,Davis,36,Los Angeles,2022-02-07,Silver
+CUST0188,Jane,Johnson,71,New York,2020-04-23,Bronze
+CUST0189,Michael,Brown,18,San Diego,2022-07-13,Bronze
+CUST0190,Michael,Martinez,27,Chicago,2020-06-10,Bronze
+CUST0191,Robert,Miller,45,Los Angeles,2023-11-15,Silver
+CUST0192,John,Rodriguez,72,Chicago,2021-03-18,Silver
+CUST0193,Jennifer,Garcia,74,Phoenix,2021-08-01,Gold
+CUST0194,Jennifer,Johnson,52,San Diego,2023-01-06,Silver
+CUST0195,Sarah,Brown,54,Philadelphia,2021-04-13,Bronze
+CUST0196,Robert,Johnson,24,San Jose,2022-02-13,Silver
+CUST0197,David,Williams,65,Chicago,2023-08-01,Bronze
+CUST0198,Jane,Smith,64,Phoenix,2022-01-15,Gold
+CUST0199,Michael,Miller,72,Houston,2020-09-17,Bronze
+CUST0200,William,Johnson,70,Chicago,2022-05-03,Silver
+CUST0201,John,Martinez,47,San Diego,2020-02-28,Gold
+CUST0202,John,Johnson,68,New York,2021-06-09,Silver
+CUST0203,Jane,Rodriguez,56,Dallas,2023-07-25,Gold
+CUST0204,Sarah,Martinez,75,Los Angeles,2022-03-15,Bronze
+CUST0205,Jane,Jones,59,Houston,2020-02-10,Bronze
+CUST0206,John,Jones,42,Philadelphia,2023-11-02,Silver
+CUST0207,David,Martinez,39,Phoenix,2020-01-27,Gold
+CUST0208,Lisa,Davis,51,Dallas,2022-03-31,Bronze
+CUST0209,John,Martinez,38,San Jose,2020-05-09,Bronze
+CUST0210,John,Williams,70,Houston,2023-10-26,Bronze
+CUST0211,David,Davis,28,Houston,2023-02-10,Silver
+CUST0212,Jennifer,Williams,71,Los Angeles,2020-02-24,Silver
+CUST0213,Lisa,Garcia,22,San Diego,2023-08-05,Bronze
+CUST0214,Sarah,Williams,52,Houston,2022-08-15,Platinum
+CUST0215,Jane,Rodriguez,43,Los Angeles,2020-03-13,Bronze
+CUST0216,John,Smith,42,San Diego,2020-02-11,Bronze
+CUST0217,Michael,Williams,67,Phoenix,2020-04-17,Silver
+CUST0218,Lisa,Johnson,29,Chicago,2022-12-03,Gold
+CUST0219,John,Smith,27,Dallas,2020-01-12,Silver
+CUST0220,Jennifer,Williams,25,Phoenix,2023-01-09,Silver
+CUST0221,Lisa,Garcia,25,Dallas,2021-04-10,Bronze
+CUST0222,Patricia,Rodriguez,62,San Jose,2020-02-16,Bronze
+CUST0223,Robert,Smith,40,San Jose,2022-09-07,Bronze
+CUST0224,Robert,Jones,24,Dallas,2022-06-01,Gold
+CUST0225,Jane,Miller,46,Los Angeles,2023-05-31,Gold
+CUST0226,Robert,Williams,35,San Jose,2021-09-06,Bronze
+CUST0227,Jennifer,Williams,61,Los Angeles,2020-05-10,Silver
+CUST0228,Jennifer,Martinez,72,San Antonio,2020-12-29,Silver
+CUST0229,Jennifer,Smith,21,Philadelphia,2022-07-09,Silver
+CUST0230,John,Martinez,61,Los Angeles,2020-11-06,Bronze
+CUST0231,Jane,Miller,30,Los Angeles,2023-12-10,Gold
+CUST0232,Robert,Brown,46,New York,2021-04-21,Bronze
+CUST0233,William,Davis,61,Dallas,2020-09-22,Bronze
+CUST0234,Robert,Brown,22,New York,2020-01-03,Bronze
+CUST0235,Jennifer,Johnson,21,Los Angeles,2020-10-19,Bronze
+CUST0236,John,Jones,63,Dallas,2021-02-02,Bronze
+CUST0237,Jennifer,Brown,29,San Jose,2020-03-01,Bronze
+CUST0238,Lisa,Miller,73,San Diego,2020-01-11,Gold
+CUST0239,Jane,Rodriguez,24,Houston,2022-02-10,Bronze
+CUST0240,Sarah,Garcia,70,Chicago,2023-10-21,Bronze
+CUST0241,Jane,Rodriguez,43,Dallas,2022-01-22,Platinum
+CUST0242,Jennifer,Garcia,22,Phoenix,2020-02-23,Platinum
+CUST0243,John,Rodriguez,52,Houston,2021-02-22,Silver
+CUST0244,John,Davis,20,Chicago,2022-02-19,Bronze
+CUST0245,William,Rodriguez,21,Phoenix,2023-07-14,Gold
+CUST0246,Michael,Rodriguez,20,Dallas,2022-01-07,Gold
+CUST0247,William,Davis,42,Phoenix,2023-11-19,Bronze
+CUST0248,Jennifer,Garcia,25,Phoenix,2023-04-14,Bronze
+CUST0249,Lisa,Jones,77,Phoenix,2022-08-30,Gold
+CUST0250,Jennifer,Williams,75,Chicago,2022-11-29,Silver
+CUST0251,John,Garcia,41,Chicago,2020-12-01,Silver
+CUST0252,John,Rodriguez,30,Dallas,2023-04-08,Bronze
+CUST0253,Lisa,Miller,22,San Jose,2022-01-30,Bronze
+CUST0254,Robert,Martinez,27,Phoenix,2020-03-22,Gold
+CUST0255,Robert,Johnson,49,New York,2023-06-10,Silver
+CUST0256,Jane,Davis,62,Chicago,2022-10-04,Bronze
+CUST0257,Robert,Martinez,58,Los Angeles,2023-12-06,Silver
+CUST0258,David,Garcia,21,Houston,2021-04-28,Bronze
+CUST0259,John,Garcia,34,San Jose,2022-06-04,Bronze
+CUST0260,Patricia,Davis,76,Los Angeles,2020-11-01,Platinum
+CUST0261,Sarah,Williams,69,San Antonio,2020-01-29,Bronze
+CUST0262,Lisa,Williams,28,San Jose,2023-12-24,Bronze
+CUST0263,Sarah,Smith,52,Dallas,2020-02-08,Silver
+CUST0264,Sarah,Johnson,64,Houston,2022-11-11,Bronze
+CUST0265,Michael,Smith,79,San Diego,2022-09-15,Gold
+CUST0266,David,Brown,23,Chicago,2023-11-11,Bronze
+CUST0267,Patricia,Garcia,32,Los Angeles,2023-04-01,Bronze
+CUST0268,William,Davis,29,Los Angeles,2023-07-18,Bronze
+CUST0269,Jennifer,Rodriguez,34,Phoenix,2021-06-03,Silver
+CUST0270,Jane,Brown,24,Chicago,2020-12-14,Bronze
+CUST0271,David,Davis,77,San Jose,2022-06-17,Bronze
+CUST0272,William,Miller,34,Houston,2021-06-04,Bronze
+CUST0273,William,Garcia,71,Phoenix,2020-04-26,Silver
+CUST0274,Jennifer,Smith,25,Phoenix,2020-09-30,Silver
+CUST0275,Jane,Garcia,49,Dallas,2022-03-11,Platinum
+CUST0276,William,Davis,28,Philadelphia,2023-01-16,Bronze
+CUST0277,William,Garcia,39,Houston,2021-11-03,Silver
+CUST0278,Jane,Smith,19,New York,2022-03-11,Gold
+CUST0279,John,Brown,43,Philadelphia,2023-01-31,Bronze
+CUST0280,Robert,Martinez,63,San Jose,2020-05-22,Bronze
+CUST0281,Robert,Smith,57,Chicago,2021-09-26,Bronze
+CUST0282,Lisa,Rodriguez,56,Dallas,2023-10-25,Gold
+CUST0283,Jennifer,Johnson,45,Houston,2023-09-03,Silver
+CUST0284,Robert,Brown,33,Houston,2023-11-14,Gold
+CUST0285,Patricia,Williams,58,San Jose,2020-01-14,Bronze
+CUST0286,Lisa,Miller,29,Dallas,2023-08-17,Silver
+CUST0287,Michael,Miller,63,Houston,2021-11-15,Bronze
+CUST0288,Robert,Jones,72,Chicago,2022-07-02,Silver
+CUST0289,David,Davis,58,Chicago,2022-07-12,Bronze
+CUST0290,Michael,Garcia,32,New York,2022-06-21,Bronze
+CUST0291,David,Martinez,78,San Diego,2021-02-07,Silver
+CUST0292,Sarah,Davis,67,New York,2022-08-04,Silver
+CUST0293,Sarah,Martinez,70,Los Angeles,2021-07-31,Silver
+CUST0294,Sarah,Garcia,56,San Jose,2022-01-24,Silver
+CUST0295,Lisa,Williams,62,Los Angeles,2020-01-21,Silver
+CUST0296,Michael,Martinez,25,Houston,2022-01-21,Silver
+CUST0297,Patricia,Johnson,72,Phoenix,2022-04-16,Bronze
+CUST0298,William,Garcia,77,San Diego,2020-08-18,Bronze
+CUST0299,Jane,Miller,23,New York,2022-06-09,Bronze
+CUST0300,Jane,Williams,54,Phoenix,2023-12-18,Silver
+CUST0301,Sarah,Miller,64,San Jose,2021-09-21,Bronze
+CUST0302,Patricia,Martinez,29,Dallas,2023-07-04,Bronze
+CUST0303,Jennifer,Smith,74,Philadelphia,2023-07-31,Bronze
+CUST0304,David,Jones,29,Phoenix,2020-10-31,Gold
+CUST0305,Jennifer,Garcia,61,Houston,2020-11-29,Bronze
+CUST0306,David,Brown,43,New York,2020-04-28,Bronze
+CUST0307,David,Jones,76,Phoenix,2023-03-30,Silver
+CUST0308,Patricia,Brown,70,Los Angeles,2023-05-24,Silver
+CUST0309,Jane,Rodriguez,67,Dallas,2022-11-28,Bronze
+CUST0310,Jane,Miller,61,Philadelphia,2020-05-30,Bronze
+CUST0311,Sarah,Johnson,59,San Antonio,2022-10-28,Platinum
+CUST0312,John,Miller,25,Philadelphia,2021-05-31,Platinum
+CUST0313,Jane,Smith,72,San Antonio,2023-05-26,Bronze
+CUST0314,Jane,Johnson,34,San Jose,2020-10-29,Silver
+CUST0315,Jennifer,Rodriguez,63,Houston,2022-03-11,Silver
+CUST0316,David,Jones,58,San Jose,2023-05-28,Bronze
+CUST0317,Lisa,Rodriguez,50,Dallas,2023-01-17,Gold
+CUST0318,William,Jones,30,Dallas,2022-08-28,Gold
+CUST0319,Lisa,Brown,55,Chicago,2021-01-31,Silver
+CUST0320,Michael,Smith,41,Philadelphia,2021-03-30,Bronze
+CUST0321,John,Martinez,24,Phoenix,2022-04-07,Silver
+CUST0322,John,Smith,49,New York,2020-10-17,Bronze
+CUST0323,Patricia,Williams,25,San Jose,2022-08-19,Bronze
+CUST0324,Michael,Jones,43,San Diego,2022-03-26,Gold
+CUST0325,David,Martinez,42,Phoenix,2020-10-30,Silver
+CUST0326,Sarah,Miller,23,Los Angeles,2020-12-29,Platinum
+CUST0327,David,Miller,60,San Antonio,2020-12-01,Silver
+CUST0328,William,Brown,28,Chicago,2020-11-19,Gold
+CUST0329,Lisa,Williams,51,Houston,2022-10-04,Silver
+CUST0330,Michael,Davis,33,San Jose,2023-12-14,Silver
+CUST0331,Jane,Smith,30,Houston,2020-03-30,Bronze
+CUST0332,Robert,Martinez,56,San Antonio,2022-08-16,Bronze
+CUST0333,Patricia,Martinez,73,Houston,2023-01-12,Bronze
+CUST0334,Robert,Garcia,18,San Diego,2023-10-17,Bronze
+CUST0335,Robert,Garcia,71,Phoenix,2021-12-26,Silver
+CUST0336,Patricia,Rodriguez,32,San Jose,2022-09-10,Bronze
+CUST0337,Patricia,Davis,41,New York,2023-03-23,Bronze
+CUST0338,Sarah,Johnson,41,Chicago,2022-12-19,Silver
+CUST0339,William,Johnson,36,Houston,2022-09-19,Bronze
+CUST0340,David,Smith,52,Los Angeles,2021-11-03,Bronze
+CUST0341,John,Garcia,65,Phoenix,2021-02-22,Silver
+CUST0342,Patricia,Rodriguez,31,Dallas,2023-07-01,Bronze
+CUST0343,Michael,Miller,38,Los Angeles,2023-10-29,Bronze
+CUST0344,William,Smith,28,San Antonio,2023-07-27,Bronze
+CUST0345,Michael,Brown,43,Philadelphia,2021-07-07,Gold
+CUST0346,Sarah,Davis,54,New York,2020-03-13,Bronze
+CUST0347,Lisa,Rodriguez,56,Houston,2021-07-14,Gold
+CUST0348,David,Jones,25,Philadelphia,2020-03-07,Silver
+CUST0349,Patricia,Williams,39,Philadelphia,2023-02-27,Platinum
+CUST0350,Jane,Garcia,34,Chicago,2020-12-19,Bronze
+CUST0351,Sarah,Davis,39,San Jose,2021-03-28,Bronze
+CUST0352,William,Miller,33,San Jose,2021-03-21,Bronze
+CUST0353,Robert,Smith,33,San Diego,2022-09-06,Bronze
+CUST0354,Robert,Williams,57,Philadelphia,2023-06-25,Silver
+CUST0355,William,Jones,37,Philadelphia,2021-02-09,Bronze
+CUST0356,Robert,Smith,70,Philadelphia,2022-01-07,Bronze
+CUST0357,Sarah,Smith,40,Los Angeles,2022-01-18,Bronze
+CUST0358,David,Johnson,44,Dallas,2022-08-26,Silver
+CUST0359,Michael,Brown,79,San Antonio,2023-05-04,Gold
+CUST0360,Lisa,Williams,39,Philadelphia,2023-09-01,Gold
+CUST0361,Patricia,Smith,59,Philadelphia,2021-08-16,Silver
+CUST0362,Jennifer,Martinez,47,Philadelphia,2022-12-26,Silver
+CUST0363,Sarah,Rodriguez,32,Phoenix,2021-07-31,Bronze
+CUST0364,Michael,Johnson,31,Houston,2020-09-22,Gold
+CUST0365,William,Garcia,50,Houston,2020-04-04,Bronze
+CUST0366,Lisa,Brown,20,Chicago,2022-06-20,Bronze
+CUST0367,David,Johnson,25,Phoenix,2022-09-20,Silver
+CUST0368,Sarah,Brown,35,Philadelphia,2021-11-02,Bronze
+CUST0369,Jane,Miller,36,Chicago,2022-02-16,Bronze
+CUST0370,Jane,Davis,32,Dallas,2022-09-09,Bronze
+CUST0371,Michael,Jones,26,Chicago,2020-09-19,Silver
+CUST0372,John,Brown,21,San Antonio,2022-02-23,Bronze
+CUST0373,Sarah,Brown,53,Philadelphia,2023-06-08,Silver
+CUST0374,David,Brown,79,Chicago,2021-06-02,Silver
+CUST0375,Lisa,Miller,54,Philadelphia,2021-05-24,Bronze
+CUST0376,David,Garcia,55,Phoenix,2021-10-11,Silver
+CUST0377,Jennifer,Miller,22,New York,2022-11-02,Bronze
+CUST0378,Jane,Jones,70,Los Angeles,2020-06-21,Bronze
+CUST0379,John,Williams,66,Phoenix,2020-11-03,Bronze
+CUST0380,David,Martinez,79,Houston,2021-06-29,Bronze
+CUST0381,Jane,Davis,52,Dallas,2023-12-30,Gold
+CUST0382,Patricia,Jones,59,New York,2020-04-14,Bronze
+CUST0383,Jennifer,Rodriguez,58,New York,2023-02-27,Bronze
+CUST0384,John,Martinez,67,San Jose,2020-08-19,Bronze
+CUST0385,Robert,Johnson,25,Philadelphia,2020-07-18,Bronze
+CUST0386,John,Miller,41,Chicago,2021-08-03,Silver
+CUST0387,John,Miller,54,San Diego,2022-04-24,Bronze
+CUST0388,Robert,Smith,62,Chicago,2021-02-11,Bronze
+CUST0389,John,Jones,37,Phoenix,2020-08-19,Bronze
+CUST0390,Sarah,Brown,32,Chicago,2023-11-15,Silver
+CUST0391,Michael,Martinez,22,Phoenix,2020-12-15,Gold
+CUST0392,Jennifer,Martinez,55,New York,2023-05-31,Silver
+CUST0393,Jennifer,Rodriguez,26,Los Angeles,2021-04-07,Bronze
+CUST0394,John,Brown,79,Houston,2020-06-17,Platinum
+CUST0395,Robert,Johnson,27,Phoenix,2021-10-13,Bronze
+CUST0396,Jane,Garcia,30,Phoenix,2020-06-08,Silver
+CUST0397,Jane,Martinez,32,New York,2022-07-24,Silver
+CUST0398,William,Rodriguez,57,San Jose,2022-09-11,Bronze
+CUST0399,Sarah,Brown,38,Chicago,2021-11-16,Bronze
+CUST0400,David,Williams,75,San Antonio,2020-02-08,Gold
+CUST0401,William,Johnson,38,Phoenix,2020-10-28,Silver
+CUST0402,Robert,Miller,61,Philadelphia,2021-10-23,Platinum
+CUST0403,Lisa,Johnson,19,Phoenix,2021-04-07,Bronze
+CUST0404,Jane,Williams,40,San Diego,2022-12-03,Silver
+CUST0405,David,Smith,73,Chicago,2021-12-03,Bronze
+CUST0406,Robert,Miller,61,Dallas,2023-02-25,Bronze
+CUST0407,Jennifer,Martinez,75,San Diego,2020-05-08,Silver
+CUST0408,Michael,Smith,21,San Diego,2023-06-01,Gold
+CUST0409,Jane,Rodriguez,27,Phoenix,2020-10-28,Silver
+CUST0410,Jane,Rodriguez,65,Dallas,2021-05-14,Silver
+CUST0411,Patricia,Martinez,75,Philadelphia,2022-11-01,Silver
+CUST0412,William,Johnson,70,Dallas,2022-11-09,Bronze
+CUST0413,Michael,Miller,23,San Diego,2023-05-19,Platinum
+CUST0414,Sarah,Brown,37,San Jose,2021-06-19,Bronze
+CUST0415,Patricia,Jones,55,Phoenix,2022-04-01,Silver
+CUST0416,David,Martinez,55,Houston,2020-07-06,Silver
+CUST0417,Sarah,Smith,72,San Antonio,2021-05-30,Silver
+CUST0418,Michael,Davis,54,San Jose,2022-12-14,Silver
+CUST0419,Jennifer,Davis,51,Los Angeles,2020-06-07,Bronze
+CUST0420,Michael,Smith,63,Chicago,2021-02-09,Silver
+CUST0421,Patricia,Garcia,70,Houston,2020-01-19,Bronze
+CUST0422,Sarah,Miller,66,San Antonio,2021-04-25,Bronze
+CUST0423,Sarah,Smith,76,Dallas,2022-10-16,Bronze
+CUST0424,John,Smith,23,Houston,2021-10-21,Silver
+CUST0425,Lisa,Miller,26,San Jose,2023-11-24,Bronze
+CUST0426,Sarah,Martinez,67,Chicago,2022-08-30,Silver
+CUST0427,Lisa,Garcia,34,Chicago,2022-01-26,Bronze
+CUST0428,Michael,Martinez,68,Phoenix,2023-10-04,Bronze
+CUST0429,Sarah,Smith,38,San Jose,2021-12-04,Bronze
+CUST0430,Lisa,Martinez,21,San Antonio,2023-08-11,Bronze
+CUST0431,John,Davis,74,Houston,2022-03-19,Bronze
+CUST0432,William,Brown,41,Dallas,2021-07-01,Bronze
+CUST0433,Jennifer,Martinez,47,Philadelphia,2023-05-28,Bronze
+CUST0434,Robert,Davis,27,Philadelphia,2020-07-23,Bronze
+CUST0435,William,Brown,73,Houston,2020-09-06,Silver
+CUST0436,David,Brown,67,New York,2022-12-29,Gold
+CUST0437,Jane,Davis,28,Houston,2022-08-01,Gold
+CUST0438,Patricia,Martinez,61,San Diego,2022-06-14,Silver
+CUST0439,David,Martinez,38,Los Angeles,2023-02-28,Silver
+CUST0440,David,Davis,66,Chicago,2021-01-05,Platinum
+CUST0441,William,Rodriguez,50,Los Angeles,2021-09-20,Bronze
+CUST0442,Patricia,Rodriguez,24,Philadelphia,2022-10-11,Silver
+CUST0443,Jennifer,Johnson,45,San Jose,2020-02-12,Bronze
+CUST0444,Lisa,Smith,34,Los Angeles,2022-08-23,Bronze
+CUST0445,Jane,Smith,27,Phoenix,2020-01-22,Gold
+CUST0446,Jane,Martinez,51,Chicago,2021-09-28,Silver
+CUST0447,Jennifer,Davis,55,San Jose,2021-09-02,Bronze
+CUST0448,John,Miller,38,Houston,2023-03-23,Bronze
+CUST0449,Sarah,Garcia,32,San Diego,2022-01-13,Gold
+CUST0450,Lisa,Brown,45,Dallas,2021-11-10,Platinum
+CUST0451,Patricia,Smith,19,Dallas,2023-07-01,Bronze
+CUST0452,John,Martinez,69,Chicago,2022-02-12,Bronze
+CUST0453,Robert,Rodriguez,76,Los Angeles,2023-12-21,Silver
+CUST0454,Michael,Davis,29,San Jose,2020-01-08,Bronze
+CUST0455,William,Brown,54,Phoenix,2022-12-31,Silver
+CUST0456,Jennifer,Johnson,59,Houston,2023-07-15,Bronze
+CUST0457,Michael,Williams,44,Los Angeles,2020-02-09,Silver
+CUST0458,John,Miller,25,Phoenix,2022-07-16,Silver
+CUST0459,David,Brown,47,Philadelphia,2020-12-31,Bronze
+CUST0460,William,Miller,33,New York,2021-07-28,Bronze
+CUST0461,David,Jones,47,Los Angeles,2023-07-07,Platinum
+CUST0462,Patricia,Miller,44,Phoenix,2020-05-10,Silver
+CUST0463,William,Brown,51,San Jose,2023-11-06,Bronze
+CUST0464,Michael,Rodriguez,69,Philadelphia,2023-12-28,Bronze
+CUST0465,William,Johnson,64,Dallas,2021-12-25,Bronze
+CUST0466,Lisa,Williams,29,San Jose,2023-07-24,Bronze
+CUST0467,Patricia,Smith,38,Chicago,2021-06-29,Bronze
+CUST0468,Jane,Martinez,28,Dallas,2020-10-05,Silver
+CUST0469,Lisa,Smith,22,Chicago,2020-10-15,Bronze
+CUST0470,Jane,Johnson,52,San Diego,2020-09-04,Bronze
+CUST0471,Robert,Garcia,26,Houston,2020-05-03,Platinum
+CUST0472,Robert,Miller,20,Houston,2021-03-17,Silver
+CUST0473,Lisa,Jones,52,Dallas,2022-08-06,Silver
+CUST0474,Sarah,Smith,56,Dallas,2022-04-24,Gold
+CUST0475,Michael,Smith,23,San Antonio,2023-10-09,Bronze
+CUST0476,Lisa,Brown,70,San Diego,2021-12-02,Bronze
+CUST0477,Sarah,Smith,42,San Diego,2022-05-05,Bronze
+CUST0478,Lisa,Miller,39,Dallas,2020-03-23,Platinum
+CUST0479,Michael,Martinez,36,Dallas,2020-10-10,Bronze
+CUST0480,Robert,Rodriguez,76,San Antonio,2021-09-24,Bronze
+CUST0481,Sarah,Davis,55,Phoenix,2021-11-06,Bronze
+CUST0482,William,Smith,73,Houston,2020-03-29,Gold
+CUST0483,David,Williams,58,Dallas,2020-03-08,Gold
+CUST0484,Jane,Rodriguez,78,Philadelphia,2023-02-24,Silver
+CUST0485,John,Williams,28,Los Angeles,2021-10-22,Bronze
+CUST0486,Sarah,Jones,20,New York,2022-10-09,Bronze
+CUST0487,William,Brown,52,New York,2021-04-26,Gold
+CUST0488,John,Davis,62,San Antonio,2023-12-25,Bronze
+CUST0489,Lisa,Rodriguez,36,San Jose,2022-03-30,Bronze
+CUST0490,Jennifer,Jones,68,Philadelphia,2021-05-19,Silver
+CUST0491,Sarah,Miller,24,Houston,2023-11-30,Silver
+CUST0492,Michael,Garcia,61,Los Angeles,2023-03-31,Bronze
+CUST0493,William,Smith,25,San Antonio,2023-07-09,Gold
+CUST0494,Jane,Smith,78,Philadelphia,2021-12-30,Gold
+CUST0495,Michael,Martinez,18,Dallas,2020-04-02,Bronze
+CUST0496,Michael,Davis,31,Chicago,2023-12-26,Bronze
+CUST0497,Jennifer,Smith,30,Philadelphia,2020-02-18,Bronze
+CUST0498,Jennifer,Brown,77,New York,2021-08-24,Bronze
+CUST0499,David,Smith,79,San Jose,2023-10-18,Bronze
+CUST0500,William,Rodriguez,41,Phoenix,2022-03-27,Silver
+CUST0501,Jennifer,Jones,68,San Antonio,2020-07-01,Gold
+CUST0502,Michael,Smith,57,Chicago,2023-09-17,Gold
+CUST0503,David,Smith,62,San Jose,2020-04-12,Platinum
+CUST0504,David,Davis,42,San Antonio,2022-10-01,Gold
+CUST0505,John,Brown,35,Los Angeles,2023-09-09,Bronze
+CUST0506,Sarah,Johnson,54,Chicago,2021-02-15,Silver
+CUST0507,John,Smith,29,San Jose,2021-10-16,Silver
+CUST0508,Jane,Rodriguez,27,Los Angeles,2023-07-13,Silver
+CUST0509,Michael,Garcia,26,Dallas,2022-02-09,Silver
+CUST0510,David,Johnson,46,Philadelphia,2021-01-21,Silver
+CUST0511,Jennifer,Johnson,34,Dallas,2020-09-24,Bronze
+CUST0512,John,Miller,62,San Jose,2023-10-12,Bronze
+CUST0513,John,Rodriguez,40,San Diego,2023-08-10,Gold
+CUST0514,Lisa,Johnson,53,Chicago,2023-12-23,Bronze
+CUST0515,David,Garcia,75,Los Angeles,2020-07-13,Gold
+CUST0516,William,Miller,57,San Jose,2023-02-15,Silver
+CUST0517,John,Davis,56,Los Angeles,2021-03-15,Bronze
+CUST0518,Robert,Brown,54,San Diego,2022-04-12,Bronze
+CUST0519,Sarah,Williams,46,San Jose,2022-07-02,Silver
+CUST0520,John,Smith,55,Phoenix,2023-11-16,Bronze
+CUST0521,Sarah,Davis,29,Philadelphia,2022-04-12,Bronze
+CUST0522,John,Johnson,22,San Diego,2023-09-29,Silver
+CUST0523,Sarah,Martinez,44,Philadelphia,2020-12-28,Bronze
+CUST0524,Patricia,Williams,67,Philadelphia,2020-05-04,Bronze
+CUST0525,Patricia,Jones,75,Phoenix,2020-06-18,Bronze
+CUST0526,Michael,Miller,23,Houston,2022-02-24,Gold
+CUST0527,John,Brown,34,Philadelphia,2020-03-08,Platinum
+CUST0528,William,Smith,30,Los Angeles,2020-12-30,Silver
+CUST0529,Robert,Williams,20,San Jose,2023-10-09,Bronze
+CUST0530,Michael,Martinez,66,Phoenix,2022-07-30,Silver
+CUST0531,David,Miller,21,Chicago,2023-11-09,Silver
+CUST0532,Jennifer,Williams,30,Los Angeles,2020-05-18,Bronze
+CUST0533,John,Williams,77,Los Angeles,2020-04-13,Bronze
+CUST0534,Jennifer,Martinez,36,Phoenix,2022-09-25,Bronze
+CUST0535,David,Smith,54,Houston,2020-03-04,Silver
+CUST0536,Jane,Garcia,62,Philadelphia,2021-01-29,Silver
+CUST0537,David,Smith,73,Houston,2021-07-11,Bronze
+CUST0538,Lisa,Smith,68,Chicago,2021-10-27,Platinum
+CUST0539,Sarah,Garcia,72,San Jose,2023-06-05,Bronze
+CUST0540,John,Davis,40,Dallas,2021-05-13,Silver
+CUST0541,Michael,Jones,31,Los Angeles,2021-08-26,Gold
+CUST0542,Sarah,Miller,62,Chicago,2022-12-07,Platinum
+CUST0543,Jennifer,Brown,62,New York,2020-12-02,Gold
+CUST0544,Jennifer,Williams,55,Chicago,2021-03-18,Bronze
+CUST0545,Robert,Johnson,49,Philadelphia,2023-10-04,Bronze
+CUST0546,Michael,Garcia,27,San Jose,2020-11-15,Bronze
+CUST0547,Jane,Rodriguez,41,Chicago,2021-11-26,Silver
+CUST0548,Michael,Williams,67,San Diego,2022-03-04,Gold
+CUST0549,Robert,Miller,20,New York,2023-08-08,Gold
+CUST0550,John,Jones,30,San Diego,2021-10-09,Silver
+CUST0551,William,Smith,53,Chicago,2020-07-12,Bronze
+CUST0552,Robert,Rodriguez,51,Houston,2021-02-17,Bronze
+CUST0553,Michael,Davis,20,Los Angeles,2020-02-14,Platinum
+CUST0554,Lisa,Johnson,57,New York,2021-01-09,Gold
+CUST0555,Lisa,Johnson,19,San Jose,2022-11-02,Silver
+CUST0556,Jane,Miller,20,San Diego,2023-05-23,Gold
+CUST0557,Robert,Garcia,46,San Antonio,2020-11-16,Silver
+CUST0558,David,Jones,36,Phoenix,2023-08-29,Silver
+CUST0559,John,Miller,40,San Jose,2022-10-30,Gold
+CUST0560,Lisa,Brown,37,Los Angeles,2022-11-03,Bronze
+CUST0561,Sarah,Jones,41,Philadelphia,2022-11-19,Silver
+CUST0562,Robert,Davis,35,San Antonio,2023-08-06,Bronze
+CUST0563,Jane,Rodriguez,29,New York,2022-09-17,Bronze
+CUST0564,Patricia,Johnson,49,Philadelphia,2020-10-20,Gold
+CUST0565,Jennifer,Johnson,25,Dallas,2021-01-24,Bronze
+CUST0566,William,Rodriguez,18,Chicago,2020-05-16,Gold
+CUST0567,Sarah,Brown,35,Chicago,2020-05-20,Bronze
+CUST0568,Lisa,Davis,29,Chicago,2023-12-15,Bronze
+CUST0569,Robert,Martinez,46,New York,2021-09-23,Silver
+CUST0570,Robert,Jones,38,Phoenix,2022-07-17,Bronze
+CUST0571,John,Brown,64,Dallas,2021-06-16,Bronze
+CUST0572,Michael,Jones,59,New York,2023-01-29,Bronze
+CUST0573,Robert,Rodriguez,52,Los Angeles,2020-08-14,Bronze
+CUST0574,Robert,Rodriguez,30,Los Angeles,2022-01-10,Gold
+CUST0575,Jane,Rodriguez,26,Philadelphia,2022-08-09,Silver
+CUST0576,Sarah,Miller,62,Los Angeles,2022-02-14,Silver
+CUST0577,Jane,Williams,45,Philadelphia,2022-07-28,Bronze
+CUST0578,Jennifer,Garcia,71,New York,2020-12-21,Bronze
+CUST0579,Michael,Rodriguez,66,Philadelphia,2020-02-23,Silver
+CUST0580,David,Martinez,63,Phoenix,2023-01-30,Bronze
+CUST0581,Lisa,Smith,53,San Jose,2021-11-05,Bronze
+CUST0582,Lisa,Smith,29,Philadelphia,2022-06-02,Bronze
+CUST0583,William,Brown,75,San Jose,2020-08-17,Silver
+CUST0584,Robert,Smith,57,San Jose,2020-06-23,Gold
+CUST0585,Jane,Jones,23,San Antonio,2021-10-26,Silver
+CUST0586,Patricia,Miller,69,Dallas,2020-01-12,Bronze
+CUST0587,David,Brown,30,San Antonio,2023-06-05,Gold
+CUST0588,William,Davis,50,San Antonio,2021-12-29,Bronze
+CUST0589,Lisa,Brown,57,Chicago,2021-05-03,Gold
+CUST0590,Jane,Miller,61,San Jose,2021-05-30,Platinum
+CUST0591,William,Miller,22,San Diego,2021-08-30,Silver
+CUST0592,Lisa,Rodriguez,34,San Jose,2023-05-07,Bronze
+CUST0593,Patricia,Rodriguez,27,Chicago,2020-09-23,Platinum
+CUST0594,Jennifer,Davis,21,New York,2022-12-08,Gold
+CUST0595,Lisa,Davis,71,Dallas,2021-07-12,Bronze
+CUST0596,Jane,Martinez,66,Los Angeles,2020-01-05,Bronze
+CUST0597,William,Davis,71,New York,2022-08-03,Bronze
+CUST0598,Jane,Martinez,38,Phoenix,2023-11-14,Bronze
+CUST0599,Lisa,Johnson,31,San Jose,2020-10-28,Bronze
+CUST0600,Michael,Garcia,46,San Diego,2023-12-22,Gold
+CUST0601,John,Smith,65,Los Angeles,2022-05-12,Bronze
+CUST0602,Lisa,Rodriguez,33,Houston,2023-06-29,Platinum
+CUST0603,Patricia,Rodriguez,29,Phoenix,2020-09-30,Silver
+CUST0604,Robert,Garcia,71,Los Angeles,2020-06-02,Bronze
+CUST0605,Michael,Johnson,34,Phoenix,2022-04-27,Platinum
+CUST0606,Robert,Davis,30,San Jose,2020-01-08,Silver
+CUST0607,Sarah,Smith,60,San Antonio,2021-08-15,Bronze
+CUST0608,Jennifer,Johnson,39,Philadelphia,2022-12-03,Bronze
+CUST0609,Patricia,Brown,54,San Jose,2023-07-02,Silver
+CUST0610,Jennifer,Martinez,77,San Diego,2020-11-17,Silver
+CUST0611,Lisa,Jones,44,Dallas,2020-12-14,Bronze
+CUST0612,Patricia,Brown,26,Philadelphia,2023-06-24,Gold
+CUST0613,Michael,Smith,49,Dallas,2021-08-27,Bronze
+CUST0614,Michael,Brown,37,Phoenix,2023-10-14,Silver
+CUST0615,John,Johnson,62,Houston,2022-05-10,Silver
+CUST0616,Jane,Brown,18,Los Angeles,2022-12-17,Gold
+CUST0617,Sarah,Brown,40,San Jose,2020-11-10,Bronze
+CUST0618,William,Jones,75,New York,2023-11-25,Bronze
+CUST0619,Jennifer,Rodriguez,46,Houston,2021-12-09,Silver
+CUST0620,Jennifer,Williams,38,Chicago,2021-08-10,Silver
+CUST0621,Michael,Miller,64,San Antonio,2020-11-22,Gold
+CUST0622,David,Jones,31,Houston,2022-03-01,Bronze
+CUST0623,Jane,Brown,62,San Diego,2021-07-06,Bronze
+CUST0624,Robert,Rodriguez,44,Houston,2020-09-27,Gold
+CUST0625,John,Williams,64,San Diego,2023-07-30,Gold
+CUST0626,Sarah,Johnson,46,San Diego,2021-06-19,Silver
+CUST0627,Michael,Johnson,74,New York,2021-04-15,Bronze
+CUST0628,Sarah,Miller,62,Phoenix,2022-05-12,Bronze
+CUST0629,William,Rodriguez,78,Dallas,2021-11-30,Silver
+CUST0630,David,Rodriguez,27,San Diego,2021-01-25,Bronze
+CUST0631,David,Brown,20,Chicago,2020-12-07,Silver
+CUST0632,Lisa,Williams,53,Dallas,2023-09-28,Silver
+CUST0633,David,Rodriguez,65,Chicago,2020-07-24,Bronze
+CUST0634,Lisa,Brown,56,San Diego,2022-11-11,Bronze
+CUST0635,David,Davis,66,San Antonio,2022-07-26,Silver
+CUST0636,Jane,Rodriguez,34,San Jose,2021-12-26,Bronze
+CUST0637,Sarah,Brown,64,Dallas,2022-07-05,Silver
+CUST0638,John,Smith,42,Chicago,2023-01-09,Gold
+CUST0639,Jennifer,Johnson,57,San Antonio,2023-05-06,Gold
+CUST0640,Robert,Martinez,56,Dallas,2023-12-12,Gold
+CUST0641,William,Garcia,23,Houston,2023-08-24,Bronze
+CUST0642,John,Smith,29,San Antonio,2020-07-10,Bronze
+CUST0643,Michael,Martinez,32,Houston,2022-05-13,Silver
+CUST0644,Jane,Smith,36,Houston,2023-12-13,Bronze
+CUST0645,Patricia,Smith,31,Los Angeles,2021-12-01,Bronze
+CUST0646,Jennifer,Williams,23,Dallas,2022-09-19,Platinum
+CUST0647,Michael,Jones,18,Phoenix,2020-10-09,Bronze
+CUST0648,Jennifer,Williams,36,San Jose,2023-01-17,Bronze
+CUST0649,Sarah,Miller,19,San Diego,2022-11-11,Silver
+CUST0650,David,Davis,24,San Diego,2021-01-09,Silver
+CUST0651,Robert,Williams,68,Los Angeles,2021-05-14,Silver
+CUST0652,John,Smith,29,Phoenix,2020-11-26,Bronze
+CUST0653,John,Garcia,50,Phoenix,2021-07-22,Gold
+CUST0654,David,Garcia,73,New York,2023-09-03,Bronze
+CUST0655,William,Williams,39,Phoenix,2021-07-12,Bronze
+CUST0656,John,Brown,71,San Antonio,2020-08-02,Bronze
+CUST0657,Michael,Garcia,46,San Diego,2021-02-07,Bronze
+CUST0658,Jane,Martinez,58,Dallas,2023-11-16,Bronze
+CUST0659,Patricia,Smith,19,Philadelphia,2023-09-10,Platinum
+CUST0660,William,Jones,35,San Jose,2021-02-28,Bronze
+CUST0661,John,Miller,76,Chicago,2022-02-16,Silver
+CUST0662,Michael,Johnson,77,San Diego,2021-08-08,Silver
+CUST0663,Patricia,Miller,56,Philadelphia,2020-01-20,Bronze
+CUST0664,Lisa,Brown,61,Chicago,2021-08-18,Bronze
+CUST0665,Jane,Jones,51,Philadelphia,2023-03-03,Bronze
+CUST0666,Patricia,Rodriguez,50,Philadelphia,2022-01-14,Silver
+CUST0667,Jane,Brown,18,Chicago,2023-03-23,Bronze
+CUST0668,David,Garcia,68,Phoenix,2022-06-09,Silver
+CUST0669,Sarah,Johnson,47,Dallas,2020-10-10,Silver
+CUST0670,Sarah,Miller,66,Dallas,2023-04-02,Gold
+CUST0671,Patricia,Brown,26,San Jose,2022-07-16,Silver
+CUST0672,Lisa,Smith,27,Los Angeles,2020-02-23,Bronze
+CUST0673,Sarah,Jones,42,Houston,2021-01-13,Silver
+CUST0674,Patricia,Williams,73,New York,2020-02-12,Silver
+CUST0675,Patricia,Johnson,37,San Diego,2020-02-08,Bronze
+CUST0676,Robert,Brown,64,New York,2023-10-21,Bronze
+CUST0677,Jane,Davis,28,Los Angeles,2022-08-20,Bronze
+CUST0678,John,Johnson,47,San Antonio,2023-09-23,Gold
+CUST0679,Michael,Brown,76,San Diego,2021-01-21,Silver
+CUST0680,John,Miller,73,San Diego,2021-11-21,Silver
+CUST0681,John,Rodriguez,78,Philadelphia,2020-10-21,Bronze
+CUST0682,John,Garcia,54,Dallas,2021-07-21,Silver
+CUST0683,Jane,Martinez,60,Philadelphia,2021-11-10,Bronze
+CUST0684,David,Johnson,51,Philadelphia,2021-05-26,Bronze
+CUST0685,William,Brown,39,San Antonio,2022-05-24,Bronze
+CUST0686,Sarah,Smith,72,Chicago,2022-08-31,Bronze
+CUST0687,William,Smith,55,Philadelphia,2023-09-26,Bronze
+CUST0688,David,Smith,27,Phoenix,2020-08-29,Gold
+CUST0689,Sarah,Williams,52,Houston,2020-03-09,Bronze
+CUST0690,Jennifer,Martinez,40,Dallas,2020-10-03,Silver
+CUST0691,Patricia,Brown,41,Dallas,2023-08-27,Bronze
+CUST0692,Robert,Jones,53,San Jose,2023-04-15,Silver
+CUST0693,Robert,Smith,66,Phoenix,2022-04-08,Bronze
+CUST0694,Michael,Williams,56,Philadelphia,2021-02-28,Gold
+CUST0695,Patricia,Miller,34,San Antonio,2021-02-17,Bronze
+CUST0696,Lisa,Rodriguez,46,Phoenix,2021-10-14,Silver
+CUST0697,Sarah,Miller,62,New York,2023-06-24,Bronze
+CUST0698,Jane,Jones,23,Los Angeles,2021-10-23,Silver
+CUST0699,John,Martinez,68,San Jose,2022-10-16,Silver
+CUST0700,Jane,Rodriguez,59,San Antonio,2020-09-03,Bronze
+CUST0701,Michael,Garcia,32,San Diego,2020-12-28,Silver
+CUST0702,John,Smith,36,Chicago,2020-11-25,Bronze
+CUST0703,Patricia,Smith,46,Los Angeles,2023-10-09,Bronze
+CUST0704,Lisa,Smith,51,New York,2020-09-01,Bronze
+CUST0705,Robert,Davis,43,New York,2020-03-11,Bronze
+CUST0706,Patricia,Smith,20,San Antonio,2023-08-30,Silver
+CUST0707,David,Smith,66,New York,2020-06-19,Bronze
+CUST0708,Michael,Jones,60,San Jose,2023-11-04,Gold
+CUST0709,Lisa,Rodriguez,73,San Diego,2023-01-21,Gold
+CUST0710,William,Williams,61,Chicago,2021-09-21,Silver
+CUST0711,Michael,Williams,19,Dallas,2021-03-04,Bronze
+CUST0712,David,Rodriguez,57,Los Angeles,2021-03-10,Bronze
+CUST0713,Jane,Davis,39,Philadelphia,2021-12-16,Bronze
+CUST0714,Jennifer,Brown,32,Houston,2022-04-04,Platinum
+CUST0715,Jane,Johnson,30,Philadelphia,2020-11-30,Bronze
+CUST0716,Patricia,Williams,36,Chicago,2020-07-24,Bronze
+CUST0717,Robert,Brown,76,Houston,2022-04-22,Silver
+CUST0718,Jane,Smith,26,Los Angeles,2020-11-12,Bronze
+CUST0719,William,Brown,25,Dallas,2020-09-06,Silver
+CUST0720,Robert,Martinez,69,New York,2023-10-10,Silver
+CUST0721,Robert,Rodriguez,45,Philadelphia,2022-07-13,Bronze
+CUST0722,Robert,Williams,38,San Jose,2022-03-14,Gold
+CUST0723,David,Garcia,79,San Jose,2022-04-23,Bronze
+CUST0724,Lisa,Davis,57,Dallas,2022-11-29,Silver
+CUST0725,Jane,Martinez,61,New York,2021-05-28,Bronze
+CUST0726,Michael,Martinez,40,Los Angeles,2023-09-03,Silver
+CUST0727,Lisa,Rodriguez,64,Chicago,2021-11-08,Silver
+CUST0728,John,Jones,75,Houston,2022-06-21,Bronze
+CUST0729,Robert,Jones,32,Houston,2022-06-05,Bronze
+CUST0730,Sarah,Martinez,54,Houston,2020-07-22,Bronze
+CUST0731,Jennifer,Smith,54,Philadelphia,2022-12-29,Bronze
+CUST0732,Michael,Jones,77,San Diego,2021-11-20,Silver
+CUST0733,William,Davis,63,San Diego,2021-03-30,Platinum
+CUST0734,Lisa,Johnson,19,San Diego,2020-11-26,Gold
+CUST0735,Lisa,Brown,29,San Jose,2020-12-30,Bronze
+CUST0736,John,Williams,69,Phoenix,2021-05-13,Bronze
+CUST0737,David,Williams,39,Philadelphia,2023-12-09,Silver
+CUST0738,Jane,Smith,49,Houston,2020-07-25,Silver
+CUST0739,Patricia,Williams,20,Phoenix,2023-02-22,Silver
+CUST0740,William,Brown,78,Chicago,2021-11-13,Silver
+CUST0741,William,Brown,65,Chicago,2022-05-04,Gold
+CUST0742,Jane,Miller,45,Phoenix,2023-04-29,Bronze
+CUST0743,Michael,Jones,29,Los Angeles,2023-02-10,Bronze
+CUST0744,Lisa,Rodriguez,31,Los Angeles,2023-03-24,Silver
+CUST0745,Jane,Davis,40,Phoenix,2022-07-28,Silver
+CUST0746,William,Rodriguez,58,Philadelphia,2021-04-02,Silver
+CUST0747,John,Miller,21,New York,2021-09-07,Silver
+CUST0748,Lisa,Johnson,64,New York,2020-04-02,Gold
+CUST0749,Jane,Brown,67,New York,2021-01-09,Bronze
+CUST0750,Jennifer,Garcia,37,Philadelphia,2021-10-04,Silver
+CUST0751,Patricia,Johnson,54,New York,2022-01-11,Silver
+CUST0752,Lisa,Martinez,28,San Diego,2022-05-25,Bronze
+CUST0753,Lisa,Brown,25,San Diego,2022-09-12,Bronze
+CUST0754,Sarah,Brown,72,San Antonio,2022-09-02,Gold
+CUST0755,Jennifer,Jones,40,San Diego,2023-07-03,Gold
+CUST0756,Michael,Williams,37,Phoenix,2023-06-11,Silver
+CUST0757,Robert,Rodriguez,25,Phoenix,2020-12-31,Bronze
+CUST0758,Robert,Jones,72,New York,2022-12-23,Gold
+CUST0759,Michael,Johnson,67,San Antonio,2020-12-29,Bronze
+CUST0760,Sarah,Johnson,55,San Diego,2022-06-24,Bronze
+CUST0761,David,Brown,20,Phoenix,2021-08-06,Bronze
+CUST0762,Jennifer,Miller,57,San Diego,2023-01-21,Bronze
+CUST0763,Patricia,Miller,45,New York,2023-12-14,Silver
+CUST0764,Sarah,Jones,43,Philadelphia,2023-05-31,Silver
+CUST0765,Lisa,Davis,73,San Antonio,2022-02-28,Bronze
+CUST0766,Robert,Jones,55,San Jose,2023-12-18,Bronze
+CUST0767,Jennifer,Williams,61,San Antonio,2023-03-14,Bronze
+CUST0768,Patricia,Rodriguez,72,San Jose,2020-06-29,Bronze
+CUST0769,William,Garcia,30,Dallas,2021-11-18,Silver
+CUST0770,Jennifer,Smith,32,San Jose,2023-07-18,Bronze
+CUST0771,Robert,Miller,30,New York,2022-11-21,Gold
+CUST0772,Sarah,Martinez,44,Phoenix,2023-01-10,Bronze
+CUST0773,William,Garcia,36,San Antonio,2022-01-30,Gold
+CUST0774,Jane,Miller,56,Houston,2020-07-05,Silver
+CUST0775,Jennifer,Smith,66,Phoenix,2023-11-14,Silver
+CUST0776,William,Martinez,31,Philadelphia,2023-03-01,Platinum
+CUST0777,Jennifer,Rodriguez,30,Philadelphia,2023-04-29,Silver
+CUST0778,David,Williams,45,Chicago,2023-06-14,Bronze
+CUST0779,Lisa,Garcia,25,San Antonio,2020-03-12,Bronze
+CUST0780,Lisa,Williams,27,Chicago,2021-11-29,Bronze
+CUST0781,David,Brown,42,Dallas,2020-10-13,Bronze
+CUST0782,Patricia,Brown,56,Philadelphia,2021-01-22,Bronze
+CUST0783,Patricia,Johnson,66,Houston,2021-05-14,Silver
+CUST0784,Lisa,Brown,50,New York,2022-06-29,Bronze
+CUST0785,Jennifer,Martinez,25,Los Angeles,2020-04-18,Gold
+CUST0786,Jennifer,Davis,76,San Jose,2023-02-08,Gold
+CUST0787,Robert,Jones,66,Dallas,2023-07-19,Silver
+CUST0788,Lisa,Johnson,34,San Antonio,2020-01-13,Silver
+CUST0789,Jane,Jones,47,Phoenix,2022-04-28,Silver
+CUST0790,Sarah,Rodriguez,69,San Jose,2023-10-19,Silver
+CUST0791,Robert,Brown,47,New York,2020-11-03,Gold
+CUST0792,John,Williams,28,Los Angeles,2023-07-12,Bronze
+CUST0793,John,Rodriguez,74,San Diego,2020-03-12,Gold
+CUST0794,John,Davis,59,Chicago,2020-05-18,Silver
+CUST0795,John,Smith,49,San Jose,2022-01-02,Gold
+CUST0796,Jennifer,Miller,73,Philadelphia,2020-12-07,Bronze
+CUST0797,David,Williams,71,San Diego,2023-06-10,Bronze
+CUST0798,Michael,Davis,66,Phoenix,2023-02-12,Bronze
+CUST0799,Jennifer,Williams,56,New York,2022-10-26,Silver
+CUST0800,Lisa,Johnson,55,San Antonio,2020-10-19,Gold
+CUST0801,Sarah,Garcia,43,New York,2023-08-15,Bronze
+CUST0802,Sarah,Martinez,49,New York,2023-02-02,Bronze
+CUST0803,Michael,Martinez,77,Chicago,2022-03-06,Bronze
+CUST0804,Jane,Davis,50,San Diego,2021-04-16,Bronze
+CUST0805,Sarah,Garcia,61,Dallas,2021-01-01,Bronze
+CUST0806,Jennifer,Miller,31,Dallas,2022-03-12,Bronze
+CUST0807,Jennifer,Garcia,59,Dallas,2023-07-29,Silver
+CUST0808,Jennifer,Martinez,36,Chicago,2020-05-31,Gold
+CUST0809,Patricia,Smith,32,Chicago,2021-04-04,Gold
+CUST0810,Patricia,Johnson,40,Los Angeles,2022-05-01,Silver
+CUST0811,Sarah,Miller,65,San Antonio,2021-01-02,Bronze
+CUST0812,William,Johnson,47,Chicago,2023-11-02,Silver
+CUST0813,Sarah,Smith,69,Philadelphia,2021-03-21,Bronze
+CUST0814,Sarah,Garcia,78,San Jose,2020-09-06,Bronze
+CUST0815,William,Jones,41,Dallas,2022-06-08,Silver
+CUST0816,John,Miller,21,Los Angeles,2021-10-22,Gold
+CUST0817,Lisa,Davis,40,Chicago,2023-06-19,Silver
+CUST0818,Sarah,Smith,25,San Antonio,2020-07-21,Gold
+CUST0819,David,Martinez,62,Phoenix,2020-11-06,Bronze
+CUST0820,Lisa,Jones,26,Los Angeles,2020-12-25,Bronze
+CUST0821,Robert,Martinez,30,San Diego,2022-08-17,Gold
+CUST0822,Lisa,Martinez,47,Dallas,2021-09-06,Platinum
+CUST0823,David,Davis,64,Los Angeles,2023-06-24,Bronze
+CUST0824,William,Smith,72,Philadelphia,2021-07-05,Platinum
+CUST0825,John,Smith,74,San Jose,2021-11-24,Gold
+CUST0826,John,Garcia,55,Chicago,2023-05-16,Bronze
+CUST0827,John,Smith,71,San Jose,2021-10-18,Gold
+CUST0828,Lisa,Williams,63,San Diego,2021-10-16,Gold
+CUST0829,John,Jones,73,Chicago,2022-12-19,Bronze
+CUST0830,Lisa,Martinez,66,San Antonio,2023-05-25,Silver
+CUST0831,David,Martinez,37,Philadelphia,2021-12-10,Silver
+CUST0832,Jane,Johnson,21,New York,2023-06-26,Silver
+CUST0833,Robert,Miller,32,Chicago,2021-07-28,Gold
+CUST0834,Michael,Smith,52,Chicago,2020-05-01,Gold
+CUST0835,Jennifer,Davis,78,New York,2023-09-12,Bronze
+CUST0836,John,Williams,49,Houston,2023-03-10,Silver
+CUST0837,David,Brown,57,Houston,2021-03-04,Bronze
+CUST0838,Jane,Williams,71,San Diego,2022-03-02,Platinum
+CUST0839,William,Miller,62,Los Angeles,2021-08-05,Gold
+CUST0840,Michael,Miller,59,Dallas,2022-09-02,Bronze
+CUST0841,Patricia,Garcia,35,Los Angeles,2023-05-05,Silver
+CUST0842,Robert,Johnson,60,San Antonio,2021-03-28,Bronze
+CUST0843,Jennifer,Martinez,78,Houston,2023-01-21,Gold
+CUST0844,Patricia,Johnson,32,San Diego,2021-08-30,Bronze
+CUST0845,Patricia,Brown,23,San Diego,2021-03-22,Bronze
+CUST0846,John,Brown,21,New York,2022-03-19,Bronze
+CUST0847,Lisa,Davis,23,Chicago,2023-05-01,Bronze
+CUST0848,Robert,Martinez,20,Dallas,2023-09-01,Bronze
+CUST0849,John,Johnson,66,Dallas,2022-04-20,Bronze
+CUST0850,Michael,Jones,64,Houston,2023-07-03,Gold
+CUST0851,William,Johnson,62,San Diego,2021-01-02,Bronze
+CUST0852,Patricia,Martinez,74,San Jose,2021-08-28,Bronze
+CUST0853,William,Rodriguez,31,Chicago,2020-04-25,Bronze
+CUST0854,Patricia,Williams,28,Phoenix,2021-02-08,Gold
+CUST0855,Robert,Miller,34,Los Angeles,2022-04-23,Bronze
+CUST0856,Jane,Garcia,76,New York,2021-04-27,Bronze
+CUST0857,Patricia,Garcia,74,San Jose,2020-03-16,Bronze
+CUST0858,Sarah,Miller,71,Los Angeles,2022-04-06,Silver
+CUST0859,Jennifer,Miller,64,San Antonio,2021-07-28,Bronze
+CUST0860,John,Smith,73,Houston,2022-09-07,Bronze
+CUST0861,Patricia,Brown,45,Philadelphia,2023-04-13,Gold
+CUST0862,Robert,Martinez,24,Houston,2023-02-21,Silver
+CUST0863,Michael,Brown,64,Houston,2021-04-05,Silver
+CUST0864,David,Miller,69,Houston,2020-10-07,Bronze
+CUST0865,Sarah,Johnson,39,Los Angeles,2022-08-22,Gold
+CUST0866,Michael,Miller,51,Philadelphia,2020-08-08,Bronze
+CUST0867,Sarah,Brown,64,Houston,2022-04-20,Bronze
+CUST0868,Michael,Garcia,23,Houston,2020-08-26,Silver
+CUST0869,Sarah,Rodriguez,49,Houston,2022-12-09,Bronze
+CUST0870,Sarah,Miller,79,Phoenix,2020-10-04,Silver
+CUST0871,Jane,Martinez,26,San Jose,2020-05-14,Bronze
+CUST0872,Patricia,Williams,74,Phoenix,2023-04-27,Silver
+CUST0873,David,Johnson,76,Houston,2023-03-07,Bronze
+CUST0874,Jennifer,Smith,49,San Antonio,2020-09-01,Bronze
+CUST0875,Jennifer,Smith,28,San Antonio,2020-12-06,Silver
+CUST0876,Patricia,Johnson,29,New York,2023-06-02,Bronze
+CUST0877,John,Jones,59,San Antonio,2023-11-10,Silver
+CUST0878,Sarah,Williams,43,San Diego,2022-03-28,Silver
+CUST0879,Michael,Williams,59,New York,2020-06-30,Silver
+CUST0880,Jane,Garcia,47,Houston,2023-01-24,Bronze
+CUST0881,Patricia,Davis,50,San Diego,2023-10-16,Silver
+CUST0882,David,Garcia,33,Philadelphia,2020-07-03,Gold
+CUST0883,William,Johnson,49,San Jose,2023-09-07,Bronze
+CUST0884,William,Martinez,26,San Jose,2021-05-19,Bronze
+CUST0885,Sarah,Miller,77,Los Angeles,2020-11-16,Silver
+CUST0886,Sarah,Davis,71,Los Angeles,2021-07-22,Platinum
+CUST0887,David,Brown,78,San Antonio,2020-10-06,Bronze
+CUST0888,David,Johnson,41,Los Angeles,2023-02-25,Gold
+CUST0889,Lisa,Davis,23,Houston,2023-12-14,Silver
+CUST0890,Sarah,Davis,42,New York,2022-07-29,Silver
+CUST0891,Jane,Garcia,20,San Antonio,2021-04-24,Silver
+CUST0892,David,Brown,38,San Diego,2021-12-10,Silver
+CUST0893,John,Miller,31,San Antonio,2023-11-25,Gold
+CUST0894,Jane,Jones,62,Houston,2022-05-04,Silver
+CUST0895,John,Jones,48,Chicago,2022-02-23,Silver
+CUST0896,Lisa,Miller,49,San Diego,2020-09-07,Gold
+CUST0897,David,Rodriguez,46,Philadelphia,2023-12-03,Bronze
+CUST0898,Jane,Jones,77,Dallas,2020-03-12,Bronze
+CUST0899,Sarah,Miller,49,San Antonio,2021-07-19,Bronze
+CUST0900,Lisa,Martinez,33,Chicago,2020-07-11,Bronze
+CUST0901,David,Smith,34,Los Angeles,2022-05-01,Silver
+CUST0902,Michael,Smith,20,Chicago,2021-12-09,Silver
+CUST0903,Sarah,Brown,26,San Antonio,2020-08-30,Bronze
+CUST0904,Lisa,Rodriguez,39,Houston,2020-04-20,Silver
+CUST0905,Lisa,Williams,25,Houston,2023-05-08,Platinum
+CUST0906,Michael,Martinez,40,Dallas,2022-11-09,Silver
+CUST0907,Robert,Williams,29,San Antonio,2021-10-27,Bronze
+CUST0908,Lisa,Johnson,60,Chicago,2022-06-20,Bronze
+CUST0909,Lisa,Smith,59,New York,2023-06-09,Silver
+CUST0910,Sarah,Garcia,64,San Diego,2020-09-19,Silver
+CUST0911,Sarah,Rodriguez,29,San Jose,2021-10-13,Bronze
+CUST0912,David,Jones,63,Phoenix,2021-08-22,Gold
+CUST0913,William,Garcia,71,Dallas,2020-04-25,Silver
+CUST0914,John,Miller,63,San Jose,2021-06-06,Bronze
+CUST0915,William,Miller,62,San Antonio,2022-01-16,Platinum
+CUST0916,Patricia,Rodriguez,71,Chicago,2022-05-14,Silver
+CUST0917,Michael,Smith,20,Houston,2023-01-21,Gold
+CUST0918,Jennifer,Rodriguez,68,Philadelphia,2021-09-09,Silver
+CUST0919,David,Garcia,69,San Jose,2021-02-25,Bronze
+CUST0920,William,Martinez,24,Philadelphia,2022-10-05,Bronze
+CUST0921,Patricia,Rodriguez,24,Los Angeles,2022-01-11,Gold
+CUST0922,John,Smith,61,Phoenix,2023-04-26,Bronze
+CUST0923,John,Brown,60,Philadelphia,2021-12-30,Bronze
+CUST0924,Robert,Johnson,26,Chicago,2022-07-08,Gold
+CUST0925,Jane,Brown,76,Dallas,2023-03-25,Bronze
+CUST0926,Michael,Brown,54,New York,2020-10-30,Bronze
+CUST0927,Robert,Rodriguez,21,Philadelphia,2023-05-11,Silver
+CUST0928,Sarah,Johnson,43,Phoenix,2020-09-11,Gold
+CUST0929,John,Martinez,43,San Antonio,2023-01-18,Bronze
+CUST0930,Lisa,Davis,41,Philadelphia,2020-01-19,Silver
+CUST0931,David,Rodriguez,59,New York,2023-06-06,Silver
+CUST0932,Robert,Rodriguez,71,Phoenix,2022-04-23,Gold
+CUST0933,John,Jones,32,Los Angeles,2020-06-20,Bronze
+CUST0934,Michael,Miller,60,Los Angeles,2021-02-25,Bronze
+CUST0935,John,Martinez,28,Houston,2022-06-09,Silver
+CUST0936,John,Johnson,46,San Diego,2020-01-22,Bronze
+CUST0937,Lisa,Martinez,42,San Antonio,2023-04-23,Bronze
+CUST0938,Robert,Williams,72,New York,2020-09-21,Bronze
+CUST0939,Lisa,Jones,40,Phoenix,2022-12-12,Silver
+CUST0940,Patricia,Miller,75,San Antonio,2022-07-13,Bronze
+CUST0941,Michael,Williams,27,Chicago,2023-11-20,Bronze
+CUST0942,Michael,Williams,25,San Diego,2020-05-01,Bronze
+CUST0943,Sarah,Williams,38,Chicago,2021-07-10,Silver
+CUST0944,Michael,Rodriguez,77,Phoenix,2022-10-13,Gold
+CUST0945,Robert,Garcia,51,Dallas,2023-12-02,Silver
+CUST0946,John,Martinez,60,San Diego,2022-08-09,Bronze
+CUST0947,Jane,Rodriguez,34,San Jose,2023-10-23,Silver
+CUST0948,Sarah,Rodriguez,40,Philadelphia,2022-08-22,Gold
+CUST0949,Jane,Johnson,76,Dallas,2023-01-20,Silver
+CUST0950,William,Davis,49,Houston,2022-01-01,Bronze
+CUST0951,William,Johnson,65,Chicago,2022-07-10,Silver
+CUST0952,Jennifer,Miller,47,Phoenix,2020-05-27,Bronze
+CUST0953,Jane,Johnson,27,San Antonio,2022-03-23,Bronze
+CUST0954,Jane,Rodriguez,72,Chicago,2020-02-04,Bronze
+CUST0955,Patricia,Garcia,62,San Diego,2020-08-20,Silver
+CUST0956,Robert,Garcia,40,San Diego,2023-07-22,Bronze
+CUST0957,Robert,Smith,36,Houston,2020-09-09,Bronze
+CUST0958,David,Martinez,52,Los Angeles,2020-05-06,Bronze
+CUST0959,Lisa,Miller,77,Philadelphia,2021-10-23,Bronze
+CUST0960,Michael,Davis,61,San Antonio,2020-08-01,Gold
+CUST0961,Jennifer,Jones,42,Dallas,2020-03-05,Bronze
+CUST0962,Michael,Miller,60,San Antonio,2023-10-07,Bronze
+CUST0963,Jane,Miller,32,New York,2020-11-08,Bronze
+CUST0964,Jane,Davis,68,San Diego,2021-03-10,Bronze
+CUST0965,Jane,Brown,44,Philadelphia,2023-10-02,Silver
+CUST0966,William,Jones,43,San Diego,2020-04-21,Bronze
+CUST0967,John,Miller,37,Phoenix,2021-09-20,Bronze
+CUST0968,William,Johnson,42,San Jose,2020-10-23,Bronze
+CUST0969,William,Garcia,23,Los Angeles,2023-04-06,Bronze
+CUST0970,David,Williams,50,San Diego,2020-05-25,Silver
+CUST0971,Sarah,Davis,62,Chicago,2021-12-02,Silver
+CUST0972,William,Smith,77,Los Angeles,2020-12-10,Bronze
+CUST0973,Michael,Miller,36,Dallas,2021-06-11,Bronze
+CUST0974,William,Smith,59,Chicago,2021-04-25,Bronze
+CUST0975,Jennifer,Miller,35,Los Angeles,2020-12-10,Silver
+CUST0976,Lisa,Jones,75,Philadelphia,2022-05-22,Bronze
+CUST0977,Robert,Martinez,27,Dallas,2022-01-25,Silver
+CUST0978,Jennifer,Brown,78,Dallas,2021-04-23,Bronze
+CUST0979,Jennifer,Rodriguez,62,Dallas,2020-06-02,Gold
+CUST0980,Michael,Rodriguez,69,Phoenix,2020-09-03,Silver
+CUST0981,Jane,Johnson,46,Houston,2022-07-26,Silver
+CUST0982,William,Davis,20,Dallas,2022-09-16,Bronze
+CUST0983,Michael,Jones,78,San Jose,2023-04-02,Silver
+CUST0984,David,Martinez,77,San Diego,2020-03-13,Silver
+CUST0985,Jane,Garcia,73,San Antonio,2023-03-20,Bronze
+CUST0986,Patricia,Williams,22,San Antonio,2022-01-04,Silver
+CUST0987,Jane,Brown,61,San Antonio,2020-07-27,Bronze
+CUST0988,William,Martinez,56,San Jose,2023-10-30,Silver
+CUST0989,Patricia,Williams,35,Philadelphia,2022-05-01,Silver
+CUST0990,Michael,Garcia,76,Chicago,2022-06-12,Bronze
+CUST0991,Jennifer,Rodriguez,21,Dallas,2022-08-08,Silver
+CUST0992,John,Williams,55,Houston,2021-04-11,Silver
+CUST0993,Lisa,Davis,68,San Diego,2021-08-17,Gold
+CUST0994,Robert,Martinez,51,Houston,2021-06-01,Silver
+CUST0995,Robert,Garcia,46,Dallas,2021-11-16,Silver
+CUST0996,Patricia,Williams,79,Los Angeles,2023-07-31,Gold
+CUST0997,Lisa,Williams,43,Phoenix,2021-07-19,Silver
+CUST0998,Jennifer,Williams,37,Philadelphia,2022-12-18,Gold
+CUST0999,John,Davis,73,Philadelphia,2021-12-08,Silver
+CUST1000,Michael,Garcia,62,San Diego,2020-10-09,Platinum
